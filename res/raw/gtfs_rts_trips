@@ -1,0 +1,49 @@
+100,0,'Oakville GO',1
+101,0,'Uptown Core',1
+201,1,'E',2
+202,1,'W',2
+301,0,'Dundas & Proudfoot',3
+300,0,'South Centre',3
+401,1,'E',4
+402,1,'W',4
+501,0,'Palermo',5
+500,0,'Uptown Core',5
+601,1,'E',6
+602,1,'W',6
+1000,0,'AM',10
+1001,0,'PM',10
+1101,0,'Maple Grove',11
+1100,0,'Oakville GO',11
+1301,0,'Bronte GO',13
+1300,0,'Oakville GO',13
+1401,0,'Burloak Dr',14
+1400,0,'Oakville GO',14
+1500,0,'Oakville GO',15
+1501,0,'South Center',15
+1700,0,'Loop',17
+1801,0,'Glen Abbey',18
+1800,0,'Oakville GO',18
+1900,0,'Oakville GO',19
+1901,0,'Uptown Core',19
+2000,0,'Oakville GO',20
+2001,0,'Uptown Core',20
+2101,0,'Clarkson GO',21
+2100,0,'Maple Grove',21
+2200,0,'Bronte GO',22
+2201,0,'Pine Glen',22
+2400,0,'Oakville GO',24
+2401,0,'South Common',24
+2500,0,'AM',25
+2501,0,'PM',25
+2600,0,'Loop',26
+2801,0,'Glen Abbey',28
+2800,0,'Oakville GO',28
+3200,0,'Bronte GO',32
+3201,0,'RioCan Centre',32
+3300,0,'Loop',33
+10200,0,'Loop',102
+12000,0,'Loop',120
+19000,0,'AM',190
+19001,0,'PM',190
+100500,0,'AM',1005
+100501,0,'PM',1005

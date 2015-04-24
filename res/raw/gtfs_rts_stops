@@ -1,0 +1,1164 @@
+1,'','Clarkson GO Station',43.51251963,-79.63271071
+2,'','2165 Royal Windsor Dr.',43.50823167,-79.63330191
+3,'','2265 Royal Windsor Dr.',43.50621378,-79.63550252
+4,'','2399 Royal Windsor Dr.',43.5035493,-79.63839968
+5,'','2555 Royal Windsor Dr.',43.50051733,-79.64165784
+6,'','2645 Royal Windsor Dr.',43.49863583,-79.64367802
+7,'','Royal Windsor Dr. & Winston Churchill Blvd.',43.49726751,-79.6450821
+8,'','Winston Churchill Blvd. & Bromsgrove Rd.',43.50054608,-79.65089359
+9,'','Winston Churchill Blvd. & Stockholm Rd.',43.50301622,-79.65431112
+10,'','Winston Churchill Blvd. South Of Truscott Dr.',43.50415053,-79.65595693
+11,'','Winston Churchill Blvd. & Truscott Dr.',43.50537151,-79.65758198
+12,'','Winston Churchill Blvd. & Benedet Dr.',43.50732929,-79.66026083
+13,'','Winston Churchill Blvd. & North Sheridan Way',43.51331295,-79.66835906
+14,'','Winston Churchill Blvd. & Sheridan Park Dr.',43.5158305,-79.67173607
+15,'','Bristol Circle & Brighton Rd.',43.51730839,-79.6768043
+16,'','2300 Bristol Circle',43.5158026,-79.67573041
+17,'','Bristol Circle & Plymouth Dr.',43.51427526,-79.67419433
+18,'','2120 Bristol Circle',43.51325561,-79.67097519
+19,'','Bristol Circle & London Lane',43.51107883,-79.67032165
+20,'','Bristol Circle & Winston Park Dr.',43.50914121,-79.67094719
+21,'','Winston Park Dr. North Of Upper Middle Rd. East',43.50780776,-79.66846499
+22,'','Upper Middle Rd. East & Winston Park Dr.',43.50627581,-79.66883363
+23,'','Upper Middle Rd. East & Buckingham Rd.',43.5046568,-79.67081305
+24,'','2872 Bristol Circle',43.5043969,-79.67567852
+25,'','Bristol Circle & Plymouth Dr.',43.50592856,-79.67965306
+26,'','Bristol Circle & Coventry Rd.',43.50838932,-79.68300298
+27,'','Bristol Circle & Brighton Rd.',43.50975708,-79.68488305
+28,'','Bristol Circle & Portland Dr.',43.51117523,-79.68684021
+29,'','Bristol Circle & Hyde Park Gate',43.51349582,-79.68802673
+30,'','Bristol Circle & Winston Park Dr.',43.51675392,-79.68441068
+31,'','Bristol Circle & Hampshire Gate',43.51884868,-79.68231225
+32,'','Bristol Circle & Dover Gate',43.51845814,-79.67821327
+33,'','Winston Churchill Blvd. & Plymouth Dr.',43.51585856,-79.67254024
+34,'','Winston Churchill Blvd. & Upper Middle Rd. East',43.51338174,-79.66923331
+35,'','Winston Churchill Blvd. & Sherwood Heights Dr.',43.50734929,-79.66092414
+36,'','Winston Churchill Blvd. & Kingsway Dr.',43.50544396,-79.65823861
+37,'','Winston Churchill Blvd. South Of Kingsway Dr.',43.50432289,-79.65662832
+38,'','Winston Churchill Blvd. & Stockholm Rd.',43.503024,-79.65497186
+39,'','Winston Churchill Blvd. & Sheridan Gardens Dr.',43.50062882,-79.65168704
+40,'','Royal Windsor Dr. East Of Winston Churchill Blvd.',43.49781553,-79.64403323
+41,'','2480 Royal Windsor Dr.',43.50125146,-79.64014313
+42,'','2400 Royal Windsor Dr.',43.5036596,-79.63753572
+43,'','Royal Windsor Dr. & Avonhead Rd.',43.50473884,-79.63635175
+44,'','2200 Royal Windsor Dr.',43.5077468,-79.63309195
+45,'','Bronte GO Station',43.41613021,-79.72407901
+46,'','Wyecroft Rd. & South Service Rd. West',43.41862399,-79.7249904
+47,'','3rd Line & North Service Rd. West',43.42720088,-79.72860414
+48,'','3rd Line & Abbeywood Dr.',43.42880691,-79.73084792
+49,'','3rd Line North Of Abbeywood Dr.',43.4302275,-79.73276782
+50,'','3rd Line & Greenridge Circle',43.43189716,-79.73503873
+51,'','Merchants Gate & 3rd Line',43.43412644,-79.73930754
+52,'','Merchants Gate & Heritage Way',43.43260153,-79.74019912
+53,'','Heritage Way & King''S College Dr.',43.4299259,-79.7370543
+54,'','Heritage Way & White Lane',43.42816781,-79.7373385
+55,'','Heritage Way & Saddler Circle',43.42799168,-79.74281567
+56,'','Heritage Way & Reeves Gate',43.42995575,-79.74598578
+57,'','Postmaster Dr. & Heritage Way',43.43308232,-79.74325055
+58,'','Postmaster Dr. & Upper Middle Rd. West',43.43519612,-79.74545549
+59,'','Postmaster Dr. & Rosemount Cr. (South)',43.43591992,-79.74672164
+60,'','Postmaster Dr. & Rosemount Cr. (North)',43.43669625,-79.74808086
+61,'','Postmaster Dr. & Shady Glen Rd.',43.43790712,-79.75013505
+62,'','Postmaster Dr. & Westoak Trails Blvd.',43.43863145,-79.75142264
+63,'','Postmaster Dr. & Springdale Rd.',43.43985859,-79.75401183
+64,'','Postmaster Dr. & Kingsridge Dr.',43.44040565,-79.76009872
+65,'','Postmaster Dr. & Pine Glen Rd.',43.44121612,-79.76374429
+66,'','Pine Glen Rd. & Castlebrook Rd.',43.44322306,-79.76172066
+67,'','Pine Glen Rd. & Parkglen Ave.',43.44612444,-79.76011253
+68,'','Pine Glen Rd. & 3rd Line',43.44807137,-79.75826774
+69,'','Pine Glen Rd. & Lazio Lane',43.45010252,-79.75551805
+70,'','Pine Glen Rd. & Proudfoot Trail',43.45291251,-79.75250128
+71,'','Proudfoot Trail South Of Ridgebank Dr.',43.45152347,-79.7486013
+72,'','Proudfoot Trail & Waubanoka Way',43.44970025,-79.74608262
+73,'','Westoak Trails Blvd. & Proudfoot Trail',43.44785867,-79.74293229
+74,'','Westoak Trails Blvd. & Bloomfield Dr.',43.44516876,-79.74548831
+75,'','Westoak Trails Blvd. East Of 3rd Line',43.44165372,-79.74857173
+76,'','Westoak Trails Blvd. & Stillmeadow Rd.',43.44083884,-79.74948534
+77,'','Postmaster Dr. & Golden Orchard Trail',43.43818852,-79.75101624
+78,'','Postmaster Dr. & Arbourview Dr.',43.43687913,-79.74873211
+79,'','Postmaster & Upper Middle Rd. West',43.43532187,-79.74612702
+80,'','Postmaster Dr. & Heritage Way',43.43269623,-79.74335021
+81,'','Heritage Way & Reeves Gate',43.43022367,-79.74627696
+82,'','Heritage Way & Stonecutter Dr.',43.42839494,-79.74455725
+83,'','Heritage Way & Carpenters Circle',43.42696621,-79.73991373
+84,'','Heritage Way & Goldsmith Gate',43.42742854,-79.7377475
+85,'','Heritage Way & Kings College Dr.',43.42963724,-79.73676417
+86,'','Heritage Way & Schoolmaster Circle',43.43126281,-79.73801376
+87,'','Heritage Way & Merchants Gate',43.43224776,-79.73996244
+88,'','Merchants Gate & Heritage Way',43.43297317,-79.73983303
+89,'','Merchants Gate & 3rd Line',43.43420023,-79.73877964
+90,'','3rd Line & Greenridge Circle',43.43198254,-79.73563201
+91,'','3rd Line South Of Greenridge Circle',43.43050099,-79.73360994
+92,'','3rd Line & King''S College Dr.',43.42894981,-79.73149153
+93,'','3rd Line & North Service Rd. West',43.42671354,-79.72846622
+94,'','3rd Line & Wyecroft Rd.',43.42199811,-79.72241809
+95,'','Wyecroft Rd. & South Service Rd. West',43.41906748,-79.72491871
+96,'','Oakville GO Station',43.4558074,-79.68235556
+97,'','Trafalgar Rd. North Of South Service Rd. East',43.4584961,-79.68174729
+98,'','Iroquois Shore Rd. & North Service Rd. East',43.46538431,-79.68448107
+99,'','Opposite 475 Iroquois Shore Rd.',43.46705087,-79.68220343
+100,'','Iroquois Shore Rd. & 8th Line',43.46928727,-79.68015203
+101,'','8th Line North Of Iroquois Shore Rd.',43.47023214,-79.68088253
+102,'','Falgarwood Dr. & Holton Heights Dr.',43.47173676,-79.6840875
+103,'','Holton Heights Dr. & Lambeth Rd.',43.47194192,-79.68666008
+104,'','Holton Heights Dr. & Grand Blvd.',43.47298945,-79.69045779
+105,'','Grand Blvd. & Kensington Park Rd.',43.47498616,-79.69026321
+106,'','Grand Blvd. & Hampton St.',43.47718277,-79.68787112
+107,'','Lancaster Dr. & Fairbanks Pl.',43.47907039,-79.68876382
+108,'','Lancaster Dr. & Lincoln Gate',43.47928279,-79.691978
+109,'','Lancaster Dr. & Ealing Ct.',43.48093774,-79.69260616
+110,'','Lancaster Dr. & Harcroft Ct.',43.48227244,-79.69082067
+111,'','Lancaster Dr. & Grosvenor St.',43.48323209,-79.68852463
+112,'','Grosvenor St. & Kimberley Dr.',43.48186549,-79.68674109
+113,'','Grosvenor St. & Grand Blvd.',43.48063039,-79.68504212
+114,'','Grand Blvd. & Falgarwood Dr.',43.48342554,-79.68381136
+115,'','Falgarwood Dr. & Grange Rd.',43.48230608,-79.68004173
+116,'','Falgarwood Dr. & Landfair Cr.',43.47900257,-79.67857267
+117,'','Falgarwood Dr. & Grosvenor St.',43.47714819,-79.67978308
+118,'','Falgarwood Dr. & Elgin Cr.',43.47603946,-79.68115859
+119,'','Falgarwood Dr. & 8th Line',43.47289083,-79.68265685
+120,'','Iroquois Shore Rd. & 8th Line',43.46913558,-79.68066222
+121,'','475 Iroquois Shore Rd.',43.46741718,-79.68195518
+122,'','Iroquois Shore Rd. & North Service Rd. East',43.46609741,-79.68385212
+123,'','Iroquois Shore Rd. East Of Trafalgar Rd.',43.46529917,-79.68534011
+124,'','Glenashton Dr. West Of Trafalgar Rd.',43.47937292,-79.71115387
+125,'','Glenashton Dr. & Sawgrass Dr.',43.47815966,-79.71281609
+126,'','Glenashton Dr. & Windfield Dr.',43.47725071,-79.71445825
+127,'','Glenashton Dr. & Parkhaven Blvd.',43.47644883,-79.71842338
+128,'','Glenashton Dr. & Greenfield Dr.',43.47664919,-79.72063626
+129,'','Glenashton Dr. & Central Park Dr.',43.47713036,-79.72278992
+130,'','River Glen Blvd. West Of 6th Line',43.47570692,-79.72616136
+131,'','River Glen Blvd. & Westfield Trail',43.47457117,-79.72766968
+132,'','River Glen Blvd. & Harman Gate',43.47283783,-79.73212454
+133,'','River Glen Blvd. & Ironwood Cr.',43.47088628,-79.73495637
+134,'','River Glen Blvd. & Towne Blvd.',43.46866671,-79.73609833
+135,'','Our Lady Of Peace School',43.465659,-79.73596862
+136,'','Mowat Ave. & Levanna Lane',43.46340644,-79.73339253
+137,'','Mowat Ave. & River Oaks Blvd. West',43.46216208,-79.73120194
+138,'','River Oaks Blvd. West & Winding Woods Dr.',43.46389766,-79.728164
+139,'','River Oaks Blvd. West & Marisha Ct.',43.46450118,-79.72575929
+140,'','River Oaks Blvd. West & Munn''S Ave.',43.46433586,-79.7231523
+141,'','River Oaks Blvd. West East Of Markle Dr.',43.46553769,-79.71819809
+142,'','River Oaks Blvd. West & 6th Line',43.4681033,-79.71690319
+143,'','River Oaks Blvd. East & Nipigon Dr.',43.469218,-79.71647422
+144,'','River Oaks Blvd. West Of Pelee Blvd.',43.47138266,-79.71509883
+145,'','River Oaks Blvd. East & Oakmead Blvd.',43.47296773,-79.71312722
+146,'','River Oaks Blvd. East & Oak Springs Rd.',43.47528538,-79.70865163
+147,'','River Oaks Blvd. East & Trafalgar Rd.',43.47702884,-79.70534117
+148,'','River Oaks Blvd. East & Mount Dr.',43.47637249,-79.70644847
+149,'','River Oaks Blvd. East & Oak Springs Rd.',43.47545383,-79.70841931
+150,'','River Oaks Blvd. East & Oakmead Blvd.',43.47322366,-79.71300711
+151,'','River Oaks Blvd. & Pelee Blvd.',43.47178632,-79.71496277
+152,'','River Oaks Blvd. East & 6th Line',43.4685102,-79.71697921
+153,'','River Oaks Blvd. West & Pen St.',43.46688913,-79.71746719
+154,'','River Oaks Blvd. West East Of Markle Dr.',43.46551776,-79.71842875
+155,'','River Oaks Blvd. West & Munn''S Ave.',43.46445466,-79.72283011
+156,'','River Oaks Blvd. West & Marisha Ct.',43.46461866,-79.72539369
+157,'','River Oaks Blvd. West & McDowell Ave.',43.46465579,-79.72670561
+158,'','River Oaks Blvd. West & Winding Woods Dr.',43.46385584,-79.72845229
+159,'','Mowat Ave. & Carrier Lane',43.46227787,-79.73108826
+160,'','Mowat Ave. & Atwood Lane',43.46384781,-79.73381367
+161,'','Mowat Ave. & River Glen Blvd.',43.46436454,-79.73572527
+162,'','Our Lady Of Peace School',43.4668503,-79.73580935
+163,'','River Glen Blvd. & Towne Blvd.',43.46836809,-79.73586193
+164,'','River Glen Blvd. & New Wood Dr.',43.47113127,-79.73453941
+165,'','River Glen Blvd. & Harman Gate',43.47245695,-79.73228705
+166,'','River Glen Blvd. & Howell Rd.',43.47426175,-79.72818388
+167,'','River Glen Blvd. & 6th Line',43.4758674,-79.72561472
+168,'','Glenashton Dr. & Central Park Dr.',43.47694348,-79.72314104
+169,'','Glenashton Dr. & Grand Ravine Dr.',43.47651384,-79.72101236
+170,'','Glenashton Dr. & Millbank Dr.',43.47624671,-79.71886737
+171,'','Glenashton Dr. & Caldwell Dr.',43.47695511,-79.71459511
+172,'','Glenashton Dr. & Wembley Rd.',43.47784484,-79.71284441
+173,'','Glenashton Dr. West Of Trafalgar Rd.',43.47927067,-79.71089072
+174,'','Abbeywood Dr. & Pilgrims Way',43.43165988,-79.72551039
+175,'','Abbeywood Dr. & Fieldstone Circle',43.43032007,-79.72688752
+176,'','Abbeywood Dr. & Fairmeadow Trail',43.43004464,-79.72843382
+177,'','Abbeywood Dr. & 3rd Line',43.42920702,-79.73084511
+178,'','3rd Line & Glen Abbey Gate',43.43436966,-79.73834808
+179,'','Glen Abbey Gate & 3rd Line',43.43500915,-79.73772882
+180,'','Glen Abbey Gate West Of Pilgrims Way (Abbey Park H.S.)',43.4357858,-79.7354184
+181,'','Pilgrims Way & Glen Abbey Gate',43.43693438,-79.73461499
+182,'','Pilgrims Way & Bishops Gate',43.43907973,-79.73488811
+183,'','Pilgrims Way & Windrush Dr. (West)',43.44077944,-79.73304838
+184,'','Pilgrims Way & Windrush Dr. (East)',43.44219784,-79.73144474
+185,'','Pilgrims Way & Nottinghill Gate',43.44410852,-79.72976372
+186,'','Nottinghill Gate & Monastery Dr.',43.44409509,-79.72812173
+187,'','Monastery Dr. & Greenbriar Dr.',43.44554207,-79.72677357
+188,'','Monastery Dr. & Dorval Dr.',43.44757341,-79.72537477
+189,'','Dorval Dr. & Outlook Terrace',43.44641135,-79.72089456
+190,'','Dorval Dr. & Old Abbey Lane',43.44830657,-79.71325477
+191,'','Old Abbey Lane & Milton Rd.',43.44720212,-79.71272823
+192,'','Old Abbey Lane & Priory Ct.',43.44590943,-79.71107878
+193,'','Old Abbey Lane & Maidstone Cr.',43.44471876,-79.71014264
+194,'','Old Abbey Lane & Parkridge Cr.',43.44362774,-79.71035874
+195,'','Old Abbey Lane & Montrose Abbey Dr.',43.44258692,-79.71108369
+196,'','Old Abbey Lane & Nottinghill Gate',43.44166313,-79.71180689
+197,'','Nottinghill Gate North Of North Service Rd. West',43.44007076,-79.71113093
+198,'','North Service Rd. West East Of 4thLine',43.44004739,-79.70783946
+199,'','Opposite 403 North Service Rd. West',43.44200239,-79.70565735
+200,'','North Service Rd. West & Lindsay Dr.',43.44553439,-79.70525864
+201,'','North Service Rd. West West Of Dorval Dr.',43.4479294,-79.70576569
+202,'','North Service Rd. West East Of Dorval Dr.',43.4504756,-79.70241149
+203,'','1100 Kerr St.',43.45059994,-79.69760397
+204,'','Kerr St. & Wyecroft Rd.',43.44996306,-79.69298707
+205,'','Kerr St. & Shepherd Rd.',43.44767498,-79.68878649
+206,'','Speers Rd. East Of Kerr St.',43.44736271,-79.68615932
+207,'','Cross Ave. & Lyons Lane',43.45394129,-79.68631413
+208,'','Cross Ave. & Argus Rd.',43.45612873,-79.68376556
+209,'','Cross Ave. West Of Argus Rd.',43.4556316,-79.68475621
+210,'','Cross Ave. & Lyons Lane',43.45398665,-79.68663933
+211,'','Speers Rd. East Of Kerr St.',43.44786633,-79.6862319
+212,'','Speers Rd. West Of Kerr St.',43.44585339,-79.68803294
+213,'','Speers Rd. East Of Woody Rd.',43.44362083,-79.69034391
+214,'','Speers Rd. & Dorval Dr.',43.4419084,-79.69226114
+215,'','Dorval Dr. & Wyecroft Rd.',43.44450676,-79.69676786
+216,'','North Service Rd. West West Of Dorval Dr.',43.44810261,-79.70595356
+217,'','North Service Rd. West & Lindsay Dr.',43.44516275,-79.7051612
+218,'','403 North Service Rd. West',43.44238825,-79.70555519
+219,'','North Service Rd. West East Of 4thLine',43.44061782,-79.70756217
+220,'','Nottinghill Gate North Of North Service Rd. West',43.4400669,-79.71078887
+221,'','Nottinghill Gate & Old Abbey Lane',43.44093142,-79.71199697
+222,'','Nottinghill Gate & Runnymead Cr. (South)',43.44168316,-79.71318586
+223,'','Nottinghill Gate & Runnymead Cr. (North)',43.44153375,-79.71551376
+224,'','Nottinghill Gate & Monks Passage',43.44084539,-79.71675864
+225,'','Nottinghill Gate & Pilgrims Way',43.43998119,-79.71838255
+226,'','Pilgrims Way & Rushbrooke Dr.',43.43852531,-79.71863339
+227,'','Pilgrims Way & Potters Wheel Cr.',43.4367503,-79.7189311
+228,'','Pilgrims Way West Of Old Colony Rd.',43.43563814,-79.72071908
+229,'','Pilgrims Way East Of Fairfield Place',43.43424999,-79.72240721
+230,'','Pilgrims Way & Cobblestone Gate',43.43282816,-79.72369199
+231,'','3rd Line & Wyecroft Rd.',43.42115426,-79.72090735
+232,'','3rd Line & Speers Rd.',43.41782625,-79.7163849
+233,'','3rd Line & Bridge Rd.',43.41532993,-79.71303306
+234,'','3rd Line & Tansley Dr.',43.41245904,-79.70912986
+235,'','South Oakville Centre',43.41191823,-79.70528068
+236,'','Rebecca St. & 3rd Line',43.41078313,-79.7062327
+237,'','Rebecca St. & Sable St.',43.40781165,-79.70942464
+238,'','Rebecca St. & Stanfield Dr.',43.40569049,-79.7117637
+239,'','Rebecca St. & Sunset Dr.',43.40450731,-79.71304152
+240,'','Rebecca St. & Sussex St.',43.40133685,-79.71656332
+241,'','Rebecca St. & Jones St.',43.39988379,-79.71804654
+242,'','Rebecca St. & Bronte Rd.',43.39720839,-79.72098551
+243,'','Rebecca St. & Mississaga St.',43.39299586,-79.72567837
+244,'','Great Lakes Blvd. & Rebecca St.',43.38442276,-79.73390163
+245,'','Great Lakes Blvd. & Creek Path Ave.',43.38379209,-79.73292129
+246,'','Great Lakes Blvd. & Timeless Dr.',43.38134062,-79.72966095
+247,'','Great Lakes Blvd. & Creek Path Ave.',43.38081393,-79.72685483
+248,'','Great Lakes Blvd. & Fox Run Circle',43.37900389,-79.72236648
+249,'','Great Lakes Blvd. & Mistwell Cr.',43.37767357,-79.72060733
+250,'','Great Lakes Blvd. & Lakeshore Rd. West',43.37668865,-79.71924515
+251,'','Lakeshore Rd. West & Stevenson Rd.',43.37445665,-79.72146783
+252,'','Lakeshore Rd. West & Burloak Dr.',43.372212,-79.72465327
+253,'','Burloak Dr. North Of Lakeshore Rd.',43.37234349,-79.72516493
+254,'','Burloak Dr. & Stevenson Rd.',43.37428527,-79.72778999
+255,'','Burloak Dr. & Randolph Cr.',43.3763028,-79.73051114
+256,'','Burloak Dr. & Wavecrest St.',43.37822444,-79.73307864
+257,'','Burloak Dr. & Eaton Ave.',43.38059051,-79.73633344
+258,'','Burloak Dr. & Rebecca St.',43.38149122,-79.73748589
+259,'','Burloak Dr. & Adele Rd.',43.38463007,-79.74181787
+260,'','Burloak Dr. & Superior Ct.',43.38817906,-79.7464652
+261,'','Burloak Dr. & Wyecroft Rd.',43.39208454,-79.75170594
+262,'','Wyecroft Rd. & South Service Rd. West',43.39451604,-79.74937608
+263,'','Rio Can Centre (East Side)',43.39757686,-79.74843964
+264,'','Rio Can Centre (West Side)',43.39709965,-79.75148469
+265,'','South Service Rd. West & Wyecroft Rd',43.39475597,-79.74972492
+266,'','Burloak Dr. & Prince William Dr.',43.38822291,-79.74712089
+267,'','Burloak Dr. & Great Lakes Blvd.',43.38616842,-79.74259467
+268,'','Burloak Dr. & Adele Rd.',43.38424761,-79.74161134
+269,'','Burloak Dr. & Fothergill Blvd.',43.38294436,-79.73986121
+270,'','Burloak Dr. & Eaton Ave.',43.38015951,-79.73602539
+271,'','Burloak Dr. & Spruce Ave.',43.37833689,-79.73356262
+272,'','Burloak Dr. & Randolph Cr.',43.37616251,-79.73057434
+273,'','Burloak Dr. & Winston Rd.',43.37438872,-79.72817807
+274,'','Burloak Dr. & Lakeshore Rd.',43.37251807,-79.72564014
+275,'','Lakeshore Rd. West & Stevenson Rd.',43.37412927,-79.72161868
+276,'','Great Lakes Blvd. & Lakeshore Rd. West',43.37684643,-79.71906166
+277,'','Great Lakes Blvd. & Spring Azure Cr.',43.37802155,-79.72071638
+278,'','Great Lakes Blvd. & Buena Vista Ct.',43.37961613,-79.72292437
+279,'','Great Lakes Blvd. & Nautical Blvd.',43.3809739,-79.72589897
+280,'','Great Lakes Blvd. & Timeless Dr.',43.38127043,-79.72920974
+281,'','Great Lakes Blvd. & Beechtree Cr.',43.38309993,-79.73176447
+282,'','Great Lakes Blvd. & Rebecca St.',43.38476362,-79.7339973
+283,'','Rebecca St. & Mississaga St.',43.39245697,-79.72592995
+284,'','Rebecca St. & Bronte Rd.',43.39730479,-79.72049107
+285,'','Rebecca St. & Jones St.',43.39965553,-79.71798961
+286,'','Rebecca St. & Vilma Dr.',43.40170146,-79.71575523
+287,'','Rebecca St. & Sunset Dr.',43.40444072,-79.71272569
+288,'','Rebecca St. & Stanfield Dr.',43.40599301,-79.71104176
+289,'','Rebecca St. & Surrey Dr.',43.40752341,-79.7094161
+290,'','Rebecca St. & 3rd Line',43.41031555,-79.70633099
+291,'','3rd Line & Rebecca St.',43.41121458,-79.70708492
+292,'','3rd Line & Tansley Dr.',43.41276549,-79.70921005
+293,'','3rd Line & Bridge Rd.',43.41519014,-79.71245084
+294,'','3rd Line & Speers Rd.',43.41830227,-79.71667824
+295,'','Speers Rd. & 3rd Line',43.41929116,-79.71665823
+296,'','Speers Rd. & York St.',43.4214927,-79.71453241
+297,'','1360 Speers Rd.',43.42358968,-79.71244118
+298,'','1290 Speers Rd.',43.42546903,-79.71061695
+299,'','1184 Speers Rd.',43.42861027,-79.70731641
+300,'','1060 Speers Rd.',43.43158567,-79.70408934
+301,'','Speers Rd. East Of 4thLine',43.4344982,-79.70100622
+302,'','530 Speers Rd.',43.43546079,-79.70001561
+303,'','440 Speers Rd.',43.4380622,-79.69598956
+304,'','Speers Rd. & Morden Rd.',43.44012973,-79.69371548
+305,'','Speers Rd. & Dorval Dr.',43.44103334,-79.69270379
+306,'','Speers Rd. East Of Dorval Dr.',43.4423539,-79.69136294
+307,'','230 Speers Rd.',43.44366607,-79.68996988
+308,'','Speers Rd. & Kerr St.',43.44652449,-79.68693154
+309,'','Cornwall Rd. & Reynolds St.',43.45536783,-79.67920621
+310,'','Cornwall Rd. & Allan St.',43.45748363,-79.67715394
+311,'','Cornwall Rd. & Watson Rd.',43.45918823,-79.67562381
+312,'','Cornwall Rd. West Of Chartwell Rd.',43.46217134,-79.67363186
+313,'','Cornwall Rd. & Chartwell Rd.',43.46397923,-79.67298802
+314,'','1100 Cornwall Rd.',43.46721315,-79.67093704
+315,'','Cornwall Rd. & Morrison Rd.',43.47089765,-79.66786983
+316,'','1344 Cornwall Rd.',43.47372695,-79.66373791
+317,'','1400 Cornwall Rd.',43.47579864,-79.66167449
+318,'','1484 Cornwall Rd.',43.47760655,-79.65990597
+319,'','Cornwall Rd. & Maple Grove Dr.',43.47931323,-79.65819837
+320,'','Cornwall Rd. East Of Maple Grove Dr.',43.48134715,-79.65608074
+321,'','Cornwall Rd. & Cardiff Dr.',43.48531476,-79.65346272
+322,'','Ford Dr. South Of Royal Windsor Dr.',43.48866163,-79.65099401
+323,'','2402 Royal Windsor Dr.',43.49273642,-79.64951515
+324,'','Royal Windsor Dr. & Winston Churchill Blvd.',43.49607291,-79.64594856
+325,'','2401 Royal Windsor Dr.',43.49276236,-79.6499329
+326,'','Ford Dr. South Of Royal Windsor Dr.',43.48854525,-79.65134369
+327,'','Cornwall Rd. & Cardiff Dr.',43.48571787,-79.6534286
+328,'','Cornwall Rd. East Of Maple Grove Dr.',43.48128606,-79.65653879
+329,'','Cornwall Rd. & Maple Grove Dr.',43.47983878,-79.65809661
+330,'','1453 Cornwall Rd.',43.47708471,-79.66083521
+331,'','1333 Cornwall Rd.',43.47370655,-79.6641229
+332,'','Cornwall Rd. East Of Morrison Rd.',43.47177592,-79.6667354
+333,'','Opposite 1100 Cornwall Rd.',43.4672595,-79.67113745
+334,'','Cornwall Rd. & Chartwell Rd.',43.46452866,-79.67287347
+335,'','Cornwall Rd. West Of Chartwell Rd.',43.46197895,-79.6739227
+336,'','Cornwall Rd. & Watson Rd.',43.45957094,-79.67562186
+337,'','Cornwall Rd. & Allan St.',43.45798367,-79.67720711
+338,'','Cornwall Rd. & Reynolds St.',43.45589565,-79.67908509
+339,'','Speers Rd. & Morden Rd.',43.44016931,-79.69402664
+340,'','427 Speers Rd.',43.43814975,-79.69616531
+341,'','529 Speers Rd.',43.436051,-79.699657
+342,'','Speers Rd. & 4thLine',43.43348519,-79.7028642
+343,'','1079 Speers Rd.',43.43146392,-79.70446954
+344,'','1195 Speers Rd.',43.4286976,-79.7074744
+345,'','1257 Speers Rd.',43.42622871,-79.71011283
+346,'','1361 Speers Rd.',43.42351262,-79.7127949
+347,'','Speers Rd. & York St.',43.42167795,-79.7145918
+348,'','Speers Rd. & 3rd Line',43.41909868,-79.71720476
+349,'','Sheridan Garden Dr. & Jonathan Dr.',43.49916033,-79.65212472
+350,'','Sheridan Garden Dr. & Thoresby Dr.',43.49609713,-79.65159222
+351,'','Thoresby Dr. & Mahogany Lane',43.49622251,-79.65497376
+352,'','Wynten Way & Thoresby Dr.',43.49789831,-79.65774273
+353,'','Wynten Way & Sir David Dr.',43.49958911,-79.65889486
+354,'','Kingsway Dr. & Wynten Way (East)',43.4999489,-79.66140228
+355,'','James W. Hill Public School',43.50175177,-79.66155518
+356,'','Prince John Circle & Wakehurst Cr. (South)',43.50484421,-79.65997551
+357,'','Prince John Circle & Wakehurst Cr. (North)',43.50564447,-79.66141829
+358,'','Prince John Circle & Will Scarlett Dr.',43.50499413,-79.66393764
+359,'','Clearview Dr. & Prince John Circle',43.5040554,-79.66489693
+360,'','1484 Clearview Dr.',43.50332528,-79.66637346
+361,'','Clearview Dr. & Winterbourne Dr.',43.50166143,-79.66538032
+362,'','Winterbourne Dr. & Bishopstoke Way',43.50010531,-79.66667472
+363,'','Winterbourne Dr. & Valerie Cr. (North)',43.49754722,-79.6669838
+364,'','Winterbourne Dr. & Valerie Cr. (South)',43.49557872,-79.66496082
+365,'','Wynten Way & Lansdown Dr.',43.49373023,-79.66204019
+366,'','Wynten Way & Gable Dr.',43.49415956,-79.66040591
+367,'','Gable Dr. & Lansdown Dr.',43.49297461,-79.65749392
+368,'','Gable Dr. & Sheridan Garden Dr.',43.4926677,-79.65474734
+369,'','Sheridan Garden Dr. & Ford Dr.',43.49194392,-79.65560286
+370,'','Maple Grove Village',43.4793404,-79.65695119
+371,'','Ford Dr. & Sheridan Garden Dr.',43.49136803,-79.65559861
+372,'','Sheridan Garden Dr. & Ford Dr.',43.49185179,-79.65542558
+373,'','Gable Dr. & Lansdown Dr.',43.49313479,-79.65771608
+374,'','Wynten Way & Gable Dr.',43.49428477,-79.6604194
+375,'','Winterbourne Dr. & Valerie Cr. (South)',43.49552592,-79.66468061
+376,'','Winterbourne Dr. & Valerie Cr. (North)',43.49748218,-79.6668113
+377,'','Winterbourne Dr. & Bishopstoke Way',43.49972938,-79.66686775
+378,'','Winterbourne Dr. & Clearview Dr.',43.50126166,-79.66507292
+379,'','1455 Clearview Dr.',43.50331433,-79.6662067
+380,'','Clearview Dr. & Prince John Circle',43.5039687,-79.66479757
+381,'','Prince John Circle & Will Scarlett Dr.',43.50465366,-79.664082
+382,'','Prince John Circle & Wakehurst Cr.',43.50554133,-79.66145304
+383,'','Prince John Circle & Kingsway Dr.',43.50437147,-79.65959004
+384,'','Kingsway Dr. & Prince John Circle (West)',43.50301686,-79.66163574
+385,'','Kingsway Dr. & Chalfield Dr.',43.50083172,-79.66174512
+386,'','Wynten Way & Kingsway Dr.',43.49949315,-79.66052371
+387,'','Wynten Way & Sir David Dr.',43.49931138,-79.65845976
+388,'','Wynten Way & Thoresby Dr.',43.49786828,-79.65786941
+389,'','Thoresby Dr. & Rosewood Lane',43.49588146,-79.6535381
+390,'','Sheridan Garden Dr. East Of Thoresby Dr.',43.49636631,-79.65106287
+391,'','Sheridan Garden Dr. & Dogwood Cr.',43.50006923,-79.65169863
+392,'','Trafalgar Rd. & Iroquois Shore Rd.',43.46484218,-79.68745201
+393,'','Trafalgar Rd. & White Oaks Blvd. (South)',43.46672374,-79.68999988
+394,'','1225 Trafalgar Rd. (Town Hall)',43.46732389,-79.68950535
+395,'','1231 White Oaks Blvd.',43.46868091,-79.68849163
+396,'','White Oaks Blvd. & Eton Place',43.46957982,-79.68993027
+397,'','White Oaks Blvd. & Marlborough Ct.',43.47122974,-79.69287188
+398,'','White Oaks Blvd. & Erin St.',43.47230317,-79.69461674
+399,'','White Oaks Blvd. & Elora Ct.',43.47362922,-79.69601313
+400,'','White Oaks Blvd. & Litchfield Rd.',43.47370006,-79.69709268
+401,'','Trafalgar Rd. & Ceremonial Dr.',43.47057332,-79.69590897
+402,'','Sheridan College Transit Terminal',43.46960452,-79.69741487
+403,'','Trafalgar Rd. & White Oaks Blvd. (North)',43.47264682,-79.6982063
+404,'','Trafalgar Rd. & Upper Middle Rd. East',43.47488445,-79.70146014
+405,'','Trafalgar Rd. & Briarhall Gate',43.47720604,-79.70491602
+406,'','Trafalgar Rd. & Glenashton Dr.',43.48028331,-79.70910316
+407,'','Trafalgar Rd. South Of Rosegate Way',43.48232473,-79.71175941
+408,'','Oak Park Blvd. & Taunton Rd.',43.48271771,-79.7157723
+409,'','Taunton Rd. & Hays Blvd.',43.48415634,-79.71784505
+410,'','Uptown Core Terminal',43.48519535,-79.71928082
+411,'','Oak Walk Dr. & Oak Park Blvd.',43.48354912,-79.72150953
+412,'','Oak Park Blvd. & Dundas St. East',43.48390397,-79.72357662
+413,'','Dundas St. East & Postridge Dr.',43.49080577,-79.7161356
+414,'','Dundas St. East & 8th Line',43.49382198,-79.71281078
+415,'','Dundas St. East & Prince Michael Dr.',43.49807887,-79.70815144
+416,'','Dundas St. East & Meadowridge Dr.',43.50226291,-79.70351287
+417,'','Dundas St. East & Hyde Park Gate',43.51523497,-79.68952354
+418,'','Dundas St. East & Winston Park Dr.',43.5173503,-79.68720054
+419,'','Dundas St. East & Hampshire Gate',43.52009242,-79.6842256
+420,'','Winston Churchill Blvd. North Of Dundas St. West',43.52380222,-79.68275961
+421,'','Winston Churchill Blvd. & Laird Rd.',43.52505026,-79.68443308
+422,'','Winston Churchill Blvd. & Frankston Rd.',43.52724577,-79.68754062
+423,'','Winston Churchill Blvd. & The Collegeway',43.53085895,-79.69240967
+424,'','Winston Churchill Blvd. & Split Maple Gate',43.53379348,-79.69647343
+425,'','Winston Churchill Blvd. & Burnhamthorpe Rd.',43.5361276,-79.69971342
+426,'','Burnhamthorpe Rd. & Tamarack Gate',43.53953165,-79.69619348
+427,'','Burnhamthorpe Rd. & Folkway Dr.',43.54181634,-79.69351154
+428,'','Burnhamthorpe Rd. & Glen Erin Dr.',43.54259426,-79.69154965
+429,'','Burnhamthorpe Rd. East Of Glen Erin Dr.',43.5434105,-79.68919393
+430,'','Burnhamthorpe Rd. & South Common Ct.',43.54399078,-79.68745234
+431,'','South Common Centre',43.54283673,-79.68329329
+432,'','2250 South Millway',43.54126032,-79.68242305
+433,'','The Collegeway West Of South Millway',43.54005394,-79.6817904
+434,'','The Collegeway & Hornbeam Cr.',43.53792043,-79.68281012
+435,'','The Collegeway East Of Glen Erin Dr.',43.53722568,-79.6845344
+436,'','The Collegeway & Glen Erin Dr.',43.5365055,-79.68653425
+437,'','The Collegeway & Spruce Needle Dr.',43.53581397,-79.6876298
+438,'','The Collegeway & Council Ring Rd.',43.53235918,-79.69137811
+439,'','Winston Churchill Blvd. South Of The Collegeway',43.52939593,-79.69101593
+440,'','Winston Churchill Blvd. & Orleans Rd.',43.52723434,-79.68812093
+441,'','Winston Churchill Blvd. & Laird Rd.',43.52545826,-79.68572323
+442,'','Winston Churchill Blvd. South Of Laird Rd.',43.52432507,-79.68418175
+443,'','Winston Churchill Blvd. & Dundas St.',43.52288463,-79.68203923
+444,'','Dundas St. East & Hampshire Gate',43.52064316,-79.68428819
+445,'','Dundas St. East & Ridgeway Dr.',43.51801756,-79.68709167
+446,'','Dundas St. East & Vega Blvd.',43.51587185,-79.68943744
+447,'','Dundas St. East & Meadowridge Dr.',43.5020362,-79.7043957
+448,'','Dundas St. East & Prince Michael Dr.',43.49780048,-79.70902126
+449,'','Dundas St. East & 8th Line',43.4935797,-79.71366706
+450,'','Dundas St. East & Postridge Dr.',43.49054839,-79.71697593
+451,'','Hays Blvd. & Taunton Rd.',43.48431448,-79.71798931
+452,'','Taunton Rd. & Hays Blvd.',43.48382936,-79.7177407
+453,'','Taunton Rd. & Oak Park Blvd.',43.48276274,-79.71628182
+454,'','Trafalgar Rd. & Oak Park Blvd.',43.48320078,-79.71350587
+455,'','Trafalgar Rd. & Glenashton Dr.',43.48045334,-79.70980745
+456,'','Trafalgar Rd. & River Oaks Blvd. East',43.47735301,-79.70556975
+457,'','Trafalgar Rd. & Upper Middle Rd. East',43.47533301,-79.70272562
+458,'','Trafalgar Rd. & White Oaks Blvd. (North)',43.47266867,-79.69871085
+459,'','White Oaks Blvd. & Litchfield Rd.',43.47344607,-79.69732378
+460,'','White Oaks Blvd. & Huron St.',43.47336703,-79.69591909
+461,'','White Oaks Blvd. & Marlborough Ct.',43.47123837,-79.69323256
+462,'','White Oaks Blvd. & Lynnwood Dr.',43.4693367,-79.68953681
+463,'','1230 White Oaks Blvd.',43.4680692,-79.68893446
+464,'','White Oaks Blvd. & Trafalgar Rd.',43.46720261,-79.68992211
+465,'','Trafalgar Rd. & Leighland Ave.',43.4647527,-79.68803217
+466,'','Wyecroft Rd. & Westgate Rd.',43.41477475,-79.72937826
+467,'','Wyecroft Rd. & Pacific Rd.',43.41166348,-79.73260776
+468,'','2511 Wyecroft Rd.',43.40776877,-79.73527705
+469,'','Wyecroft Rd. & Bronte Rd.',43.4068796,-79.73622705
+470,'','1151 Bronte Rd. (Halton Regional Centre)',43.41323431,-79.74489405
+471,'','1179 Bronte Rd.',43.41543485,-79.74778012
+472,'','Bronte Rd. & Upper Middle Rd. West',43.42271565,-79.75819284
+473,'','Upper Middle Rd. West & Grand Oak Trail',43.42649993,-79.75475164
+474,'','Upper Middle Rd. West & Reeves Gate',43.43147982,-79.74963736
+475,'','Upper Middle Rd. West & Postmaster Dr.',43.43497748,-79.74574646
+476,'','Upper Middle Rd. West & 3rd Line',43.43723555,-79.74329196
+477,'','Upper Middle Rd. West East Of 3rd Line',43.43915403,-79.74124342
+478,'','Upper Middle Rd. West & Bishops Gate',43.44102372,-79.73918974
+479,'','Upper Middle Rd. West & Deer Park Rd.',43.44378013,-79.73621445
+480,'','Upper Middle Rd. West & Nottinghill Gate (4thLine)',43.44583438,-79.73393413
+481,'','Upper Middle Rd. West & Dorval Dr.',43.45022133,-79.72907479
+482,'','Upper Middle Rd. West & Neyagawa Blvd.',43.46022757,-79.71975117
+483,'','Upper Middle Rd. West & Oxford Ave.',43.46245657,-79.71684548
+484,'','Upper Middle Rd. West & Elm Rd.',43.46435882,-79.71361233
+485,'','Upper Middle Rd. & 6th Line',43.46626809,-79.71152167
+486,'','Upper Middle Rd. East & Martindale Ave. (West)',43.47056474,-79.70644563
+487,'','Upper Middle Rd. East & Martindale Ave. (East)',43.4724362,-79.70438705
+488,'','Upper Middle Rd. East & Trafalgar Rd.',43.47464121,-79.70196945
+489,'','Upper Middle Rd. East & Golden Briar Trail',43.47669544,-79.69999193
+490,'','Upper Middle Rd. East & Golden Meadow Tr.',43.47877709,-79.69736998
+491,'','Upper Middle Rd. East & 8th Line',43.48158246,-79.69426237
+492,'','Upper Middle Rd. East & Grosvenor St.',43.48462762,-79.69087106
+493,'','Upper Middle Rd. East West Of Grand Blvd.',43.48655225,-79.6887094
+494,'','Upper Middle Rd. East & Grand Blvd.',43.48882911,-79.68625166
+495,'','Upper Middle Rd. East & Joshuas Creek Dr.',43.49217745,-79.68256763
+496,'','Upper Middle Rd. East East Of Ford Dr.',43.4974384,-79.67694201
+497,'','Upper Middle Rd. East & Buckingham Rd.',43.50422692,-79.67081975
+498,'','Winston Park Dr. North Of Upper Middle Rd. East',43.50822896,-79.66867987
+499,'','Winston Park Dr. & Bristol Circle',43.50902671,-79.67064588
+500,'','Bristol Circle & Buckingham Rd.',43.50628409,-79.67307937
+501,'','Hyde Park Gate & Dundas St. East',43.51547616,-79.68912405
+502,'','Upper Middle Rd. East East Of 9th Line (Ford Dr.)',43.49749477,-79.67726159
+503,'','Upper Middle Rd. East & Joshuas Creek Dr.',43.49260672,-79.6825675
+504,'','Upper Middle Rd. East & Grand Blvd.',43.48922931,-79.68620897
+505,'','Upper Middle Rd. East West Of Grand Blvd.',43.48690381,-79.68874353
+506,'','Upper Middle Rd. East & Grosvenor St.',43.48515682,-79.6906919
+507,'','Upper Middle Rd. East West Of Grosvenor St.',43.48361875,-79.69240999
+508,'','Upper Middle Rd. East & 8th Line',43.48164911,-79.6946295
+509,'','Upper Middle Rd. East & Golden Meadow Tr.',43.47871449,-79.69780332
+510,'','Upper Middle Rd. East & Golden Briar Trail',43.47673969,-79.70031942
+511,'','Upper Middle Rd. East & Trafalgar Rd.',43.47532843,-79.70174518
+512,'','Upper Middle Rd. East & Oak Springs Rd.',43.47281797,-79.70442276
+513,'','Upper Middle Rd. East & Oakmead Blvd.',43.47041114,-79.70704912
+514,'','Upper Middle Rd. & 6th Line',43.4670966,-79.7110953
+515,'','Upper Middle Rd. West & Elm Rd.',43.46481541,-79.71361619
+516,'','Upper Middle Rd. West & Oxford Ave.',43.46287077,-79.716445
+517,'','Upper Middle Rd. West & Neyagawa Blvd.',43.46074335,-79.71984301
+518,'','Upper Middle Rd. West & Westoak Trails Blvd. (Dorval Dr.)',43.45105996,-79.72878069
+519,'','Upper Middle Rd. West & 4thLine (Nottinghill Gate)',43.44711411,-79.73306291
+520,'','Upper Middle Rd. West & Deer Park Rd.',43.44393302,-79.73653232
+521,'','Upper Middle Rd. West & Bloomfield Dr.',43.44164525,-79.73900879
+522,'','Upper Middle Rd. West East Of 3rd Line',43.43929752,-79.74159274
+523,'','Upper Middle Rd. West & 3rd Line',43.43793695,-79.74312372
+524,'','Upper Middle Rd. West & Postmaster Dr.',43.43552465,-79.74570152
+525,'','Upper Middle Rd. West & Reeves Gate',43.43205111,-79.74941434
+526,'','Upper Middle Rd. West & Grand Oak Trail',43.426981,-79.75470611
+527,'','Bronte Rd. & Upper Middle Rd. West',43.42239827,-79.75827256
+528,'','Opposite 1179 Bronte Rd.',43.41552062,-79.7484677
+529,'','Bronte Rd. & North Service Rd. West',43.41301541,-79.74513672
+530,'','Bronte Rd. North Of Wyecroft Rd.',43.40770501,-79.73807029
+531,'','Bronte Rd. & Wyecroft Rd.',43.40667292,-79.73605438
+532,'','Opposite 2511 Wyecroft Rd.',43.40764525,-79.73503534
+533,'','Wyecroft Rd. & Pacific Rd.',43.41130411,-79.73271611
+534,'','Wyecroft Rd. & Westgate Rd.',43.41482361,-79.72905069
+535,'','Reynolds St. & Spruce St.',43.4544774,-79.67682726
+536,'','Reynolds St. & Macdonald Rd.',43.45359495,-79.67526908
+537,'','Reynolds St. & Sheddon Ave.',43.45160581,-79.67174786
+538,'','Reynolds St. & Palmer Ave.',43.4506281,-79.67004708
+539,'','Reynolds St. & Randall St.',43.44936225,-79.66781422
+540,'','Reynolds St. & Lakeshore Rd. East',43.44822139,-79.66580348
+541,'','Lakeshore Rd. East & Trafalgar Rd.',43.44751252,-79.66648363
+542,'','Dunn St. & Church St.',43.44699596,-79.66800268
+543,'','Randall St. & Navy St.',43.44544037,-79.67128238
+544,'','Rebecca St. & Chisholm St.',43.44247911,-79.67448369
+545,'','Rebecca St. & Kerr St.',43.44089628,-79.67620425
+546,'','Rebecca St. & Brock St.',43.43903447,-79.67819428
+547,'','Rebecca St. & Dorval Dr.',43.43689294,-79.68118622
+548,'','Rebecca St. & Weybourne Rd.',43.43528989,-79.68350537
+549,'','Rebecca St. & Morden Rd.',43.43358141,-79.68566451
+550,'','Rebecca St. & Southview Rd.',43.4322265,-79.68725216
+551,'','Rebecca St. & Burton Rd.',43.4294454,-79.6901068
+552,'','Rebecca St. & Patricia Dr.',43.42701867,-79.69049348
+553,'','Rebecca St. & Maplehurst Ave.',43.42346078,-79.69235529
+554,'','Rebecca St. & Lees Lane',43.42154059,-79.69452061
+555,'','Rebecca St. & Warminster Dr.',43.41772453,-79.69862413
+556,'','Rebecca St. & Sherin Dr.',43.41450925,-79.70212373
+557,'','3rd Line & Hixon St.',43.40831161,-79.70343418
+558,'','3rd Line & Salvator Blvd.',43.40644181,-79.70088398
+559,'','3rd Line & Lakeshore Rd. West',43.40498056,-79.69881906
+560,'','Lakeshore Rd. West & Windsor Gate',43.40293513,-79.70141146
+561,'','Lakeshore Rd. West & Solingate Dr.',43.40172556,-79.70317826
+562,'','Lakeshore Rd. West & Bronte Athletic Park',43.40085802,-79.70444509
+563,'','Lakeshore Rd. West & East St.',43.39906458,-79.70682733
+564,'','Lakeshore Rd. West & Nelson St.',43.3975007,-79.70853617
+565,'','Lakeshore Rd. West & Jones St.',43.39592988,-79.71019711
+566,'','Lakeshore Rd. West & Bronte Rd.',43.39455149,-79.71170569
+567,'','2511 Lakeshore Rd. West',43.39276861,-79.71360334
+568,'','Lakeshore Rd. West & Triller Place',43.39134799,-79.71468825
+569,'','Lakeshore Rd. West West Of Mississaga St.',43.38887877,-79.71611015
+570,'','Lakeshore Rd. West & Cudmore Rd.',43.38593215,-79.7172351
+571,'','Lakeshore Rd. West & Chalmers St.',43.38433751,-79.71731137
+572,'','Lakeshore Rd. West East Of Shelburne Place',43.38243677,-79.71736877
+573,'','Lakeshore Rd. West & Shell Park',43.37997766,-79.71748003
+574,'','Lakeshore Rd. West & Great Lakes Blvd.',43.37675665,-79.7184923
+575,'','Opposite 500 Great Lakes Blvd.',43.38604054,-79.73885253
+576,'','Lakeshore Rd. West & Great Lakes Blvd.',43.37619271,-79.71874048
+577,'','Lakeshore Rd. West & Shell Park',43.37983581,-79.71729399
+578,'','Lakeshore Rd. West East Of Shelburne Place',43.38207931,-79.71720888
+579,'','Lakeshore Rd. West & Shore Gardens',43.38397119,-79.71712061
+580,'','Lakeshore Rd. West & Cudmore Rd.',43.38601942,-79.7170314
+581,'','Lakeshore Rd. West & Mississaga St.',43.38910017,-79.7157806
+582,'','Lakeshore Rd. West & West River St.',43.39098747,-79.71465729
+583,'','Lakeshore Rd. West & Bronte Rd.',43.39393633,-79.71206917
+584,'','Lakeshore Rd. West & Jones St.',43.39600254,-79.70982967
+585,'','Lakeshore Rd. West & Nelson St.',43.39721241,-79.70852518
+586,'','Lakeshore Rd. West & East St.',43.39937813,-79.7061522
+587,'','Lakeshore Rd. West & Bronte Athletic Park',43.40087689,-79.70412361
+588,'','Lakeshore Rd. West & Solingate Dr.',43.40202386,-79.70244049
+589,'','Lakeshore Rd. West & Windsor Gate',43.40275017,-79.70137914
+590,'','3rd Line & Lakeshore Rd. West',43.40520536,-79.69878205
+591,'','3rd Line & Venetia Dr.',43.40642208,-79.700451
+592,'','3rd Line & Hixon St.',43.40827662,-79.70293473
+593,'','3rd Line & Rebecca St.',43.41041614,-79.70591219
+594,'','Rebecca St. & Sedgewick Cr.',43.41473238,-79.70155308
+595,'','Rebecca St. & Woodside Dr.',43.41737828,-79.69866089
+596,'','T.A. Blakelock High School',43.42008634,-79.69569915
+597,'','Rebecca St. & Spring Garden Rd.',43.42183397,-79.69379705
+598,'','Rebecca St. & Maplehurst Ave.',43.42369274,-79.69177353
+599,'','Rebecca St. & Patricia Dr.',43.42716911,-79.69026323
+600,'','Rebecca St. & Suffolk Ave.',43.43031797,-79.68924783
+601,'','Rebecca St. & Southview Rd.',43.43224546,-79.68694363
+602,'','Rebecca St. & Waneta Dr.',43.43440354,-79.68433698
+603,'','Rebecca St. & Dorval Dr.',43.43655435,-79.6814963
+604,'','Rebecca St. & Brock St.',43.43891864,-79.67804529
+605,'','Rebecca St. & Kerr St.',43.44055002,-79.67623882
+606,'','Rebecca St. & Chisholm St.',43.44260924,-79.67405838
+607,'','Church St. & Navy St.',43.44491176,-79.67034778
+608,'','Church St. & Dunn St.',43.44710795,-79.66795465
+609,'','Reynolds St. & Randall St.',43.44904501,-79.66703367
+610,'','Reynolds St. & Palmer Ave.',43.45077425,-79.67008184
+611,'','Reynolds St. & Sheddon Ave.',43.45151217,-79.67137152
+612,'','Oakville Trafalgar Memorial Hospital',43.45307659,-79.67411181
+613,'','Reynolds St. & Spruce St.',43.4543743,-79.67642802
+614,'','Reynolds St. South Of Cornwall Rd.',43.45533479,-79.67832822
+615,'','Bronte Rd. & Speers Rd.',43.40293792,-79.73174412
+616,'','Bronte Rd. & Valhalla Ct.',43.40097951,-79.7285032
+617,'','Bronte Rd. & Rebecca St.',43.39717463,-79.7217379
+618,'','Bronte Rd. & Hixon St.',43.39585315,-79.71691073
+619,'','Bronte Rd. & Sovereign St.',43.39467737,-79.71382601
+620,'','Lakeshore Rd. West & 3rd Line',43.40467229,-79.69853129
+621,'','Lakeshore Rd. West & Belvedere Dr.',43.40615779,-79.69548896
+622,'','Coronation Park',43.40857724,-79.69330869
+623,'','Lakeshore Rd. West & Sandwell Dr.',43.41497059,-79.69111122
+624,'','Lakeshore Rd. West & Wolfdale Ave.',43.41733732,-79.69060792
+625,'','Lakeshore Rd. West & Wilder Dr.',43.4205912,-79.68893972
+626,'','Lakeshore Rd. West & 4thLine',43.42472647,-79.68946373
+627,'','Appleby College',43.42807535,-79.68700849
+628,'','Lakeshore Rd. West & Morden Rd.',43.43204813,-79.68282099
+629,'','Lakeshore Rd. West & Dorval Dr.',43.43526826,-79.67928928
+630,'','Lakeshore Rd. West & Brock St.',43.43799405,-79.67638362
+631,'','Lakeshore Rd. West & Kerr St.',43.4396327,-79.6746004
+632,'','Lakeshore Rd. West & Forsythe St.',43.44210411,-79.67195571
+633,'','Lakeshore Rd. East & Navy St.',43.44379021,-79.67015904
+634,'','Lakeshore Rd. East & George St.',43.44581862,-79.66800603
+635,'','Lakeshore Rd. East & Dunn St.',43.44667392,-79.66708124
+636,'','Lakeshore Rd. East & Trafalgar Rd.',43.44721446,-79.66650639
+637,'','Lakeshore Rd. East & Reynolds St.',43.44804869,-79.66562062
+638,'','Lakeshore Rd. East & Allan St.',43.44930715,-79.66428135
+639,'','Lakeshore Rd. East & Gloucester Ave.',43.4512577,-79.66215904
+640,'','Lakeshore Rd. East & Howard Ave.',43.45326249,-79.65999051
+641,'','Lakeshore Rd. East & Alexander Dr.',43.45657224,-79.65648269
+642,'','Lakeshore Rd. East & Burgundy Dr.',43.45771725,-79.65523565
+643,'','Lakeshore Rd. East & Morrison Rd.',43.45976695,-79.6530015
+644,'','Lakeshore Rd. East & Ennisclare Dr. West',43.46328832,-79.6492005
+645,'','Lakeshore Rd. East & Trelawn Ave.',43.4647298,-79.64766224
+646,'','Lakeshore Rd. East & Maple Grove Dr.',43.46860492,-79.64346042
+647,'','Lakeshore Rd. East & Charnwood Dr.',43.47331129,-79.63827969
+648,'','Ford Dr. & Lakeshore Rd. East',43.47614651,-79.63596183
+649,'','Ford Dr. & Devon Rd.',43.48006307,-79.64083912
+650,'','Ford Dr. & Aspen Forest Dr. (South)',43.48284454,-79.64447749
+651,'','Ford Dr. & Aspen Forest Dr. (North)',43.48553758,-79.64801559
+652,'','Kingsway Dr. & Sherwood Heights Dr.',43.49390819,-79.66474973
+653,'','Kingsway Dr. & Wynten Way (West)',43.49478826,-79.66367921
+654,'','St. Luke''S School',43.49682156,-79.66262629
+655,'','Kingsway Dr. & Sir David Dr.',43.5041724,-79.65937015
+656,'','Plymouth Dr. & Winston Churchill Blvd.',43.51549319,-79.67282768
+657,'','Opposite 2164 Buckingham Rd.',43.50756352,-79.67495404
+658,'','Plymouth Dr. & Winston Park Dr.',43.50997481,-79.67526766
+659,'','Winston Park Dr. & Brighton Rd.',43.51411815,-79.68030279
+660,'','Winston Park Dr. & Portland Dr.',43.51551587,-79.68218822
+661,'','Winston Park Dr. & Bristol Circle',43.51694568,-79.68408986
+662,'','Winston Park Dr. & Dundas St. East',43.51772181,-79.68670326
+663,'','Winston Park Dr. & Portland Dr.',43.51554584,-79.68266656
+664,'','Winston Park Dr. & Brighton Rd.',43.51414191,-79.68077283
+665,'','Winston Park Dr. & Plymouth Dr.',43.5101791,-79.67548166
+666,'','2164 Buckingham Rd.',43.50758871,-79.67521218
+667,'','Buckingham Rd. & Bristol Circle',43.50613647,-79.67334359
+668,'','Bristol Circle & Winston Park Dr.',43.50876771,-79.67084933
+669,'','Bristol Circle & London Lane',43.51068504,-79.67016494
+670,'','Opposite 2120 Bristol Circle',43.51307755,-79.67030406
+671,'','Bristol Circle & Plymouth Dr.',43.51428194,-79.67362605
+672,'','Plymouth Dr. & Winston Churchill Blvd.',43.5155838,-79.67220386
+673,'','Kingsway Dr. & Prince John Circle (East)',43.50450166,-79.65928724
+674,'','Kingsway Dr. & Clearview Dr.',43.4992174,-79.66159052
+675,'','Kingsway Dr. & Guilford Cr.',43.49747595,-79.66249844
+676,'','Kingsway Dr. & Winterbourne Dr.',43.49516027,-79.6637214
+677,'','Kingsway Dr. & Sherwood Heights Dr.',43.49410376,-79.6649792
+678,'','Ford Dr. & Sheridan Garden Dr.',43.49125637,-79.65645208
+679,'','Ford Dr. & Dunedin Rd.',43.48571664,-79.64842186
+680,'','Ford Dr. & Constance Dr.',43.48295057,-79.64502211
+681,'','Ford Dr. & Devon Rd.',43.48017423,-79.64128959
+682,'','Ford Dr. & Lakeshore Rd. East',43.47587265,-79.63595944
+683,'','Lakeshore Rd. East & Charnwood Dr.',43.47377394,-79.63810978
+684,'','Lakeshore Rd. East & Maple Grove Dr.',43.4689909,-79.6432556
+685,'','Lakeshore Rd. East & Trelawn Ave.',43.46482782,-79.64780362
+686,'','Lakeshore Rd. East & Cairncroft Rd.',43.4631916,-79.64961971
+687,'','Lakeshore Rd. East & Morrison Rd.',43.46028861,-79.65274644
+688,'','Lakeshore Rd. East & Burgundy Dr.',43.45795984,-79.65525529
+689,'','Lakeshore Rd. East & Elton Park Rd.',43.45501874,-79.65837728
+690,'','Lakeshore Rd. East & Howard Ave.',43.45336216,-79.66022222
+691,'','Lakeshore Rd. East & Watson Ave.',43.45064974,-79.66313899
+692,'','Lakeshore Rd. East & Douglas Ave.',43.44960361,-79.66422307
+693,'','Lakeshore Rd. East & Reynolds St.',43.44806509,-79.66586897
+694,'','Lakeshore Rd. East & Dunn St.',43.44643689,-79.66761258
+695,'','Lakeshore Rd. East & George St.',43.44563194,-79.66848795
+696,'','Lakeshore Rd. East & Navy St.',43.44384228,-79.67044573
+697,'','Lakeshore Rd. West & Forsythe St.',43.44237493,-79.67198942
+698,'','Lakeshore Rd. West & Kerr St.',43.43991386,-79.67461948
+699,'','Lakeshore Rd. West & Brock St.',43.43827754,-79.67637744
+700,'','Lakeshore Rd. West & Dorval Dr.',43.43561911,-79.67920599
+701,'','Lakeshore Rd. West & Morden Rd.',43.43242383,-79.68261514
+702,'','Lakeshore Rd. West & Suffolk Ave. (Appleby College)',43.42808964,-79.68722433
+703,'','Lakeshore Rd. West & 4thLine',43.42508671,-79.68962616
+704,'','Lakeshore Rd. West & Spring Garden Rd.',43.42049734,-79.68916867
+705,'','Lakeshore Rd. West & Willowridge Ct.',43.41848146,-79.69024408
+706,'','Lakeshore Rd. West & Sandwell Dr.',43.41482944,-79.69133846
+707,'','Lakeshore Rd. West & Westminster Dr.',43.40793475,-79.69406435
+708,'','Lakeshore Rd. West & Belvedere Dr.',43.40624408,-79.69568877
+709,'','Lakeshore Rd. West & 3rd Line',43.40509619,-79.69825061
+710,'','Bronte Rd. & Sovereign St.',43.39468942,-79.71339747
+711,'','Bronte Rd. & Hixon St.',43.39585545,-79.71637585
+712,'','Bronte Rd. & Rebecca St.',43.3969231,-79.72076455
+713,'','Bronte Rd. & Wyatt St.',43.39865493,-79.72392647
+714,'','Bronte Rd. & Valhalla Ct.',43.40103446,-79.72818174
+715,'','Bronte Rd. & Speers Rd.',43.40289487,-79.73112302
+716,'','Kerr St. & Prince Charles Dr.',43.44602691,-79.6858448
+717,'','Kerr St. & Stewart St.',43.44485075,-79.68375217
+718,'','Kerr St. & Florence Dr.',43.44371684,-79.68171755
+719,'','Kerr St. & Westside Dr.',43.44274117,-79.68001263
+720,'','Kerr St. & Bond St.',43.44171743,-79.67830176
+721,'','Bond St. & Wilson St.',43.44226479,-79.67698446
+722,'','Chisholm St. & Head St.',43.44280442,-79.67536093
+723,'','Church St. & Dunn St.',43.44719685,-79.66785692
+724,'','Forsythe St. & Head St.',43.44346267,-79.67466457
+725,'','Bond St. & Chisholm St.',43.44331857,-79.67608711
+726,'','Bond St. & Kerr St.',43.441814,-79.67769878
+727,'','Kerr St. & Westside Dr.',43.44261401,-79.67952805
+728,'','Kerr St. & Florence Dr.',43.44360655,-79.68126744
+729,'','Kerr St. & Stewart St.',43.44506349,-79.68385106
+730,'','Kerr St. & Prince Charles Dr.',43.44603395,-79.68553189
+731,'','Kerr St. & Speers Rd.',43.44658213,-79.68647176
+732,'','Oak Park Blvd. & Sawgrass Dr.',43.4813158,-79.71708901
+733,'','Oak Park Blvd. & Oak Walk Dr.',43.48282642,-79.72208604
+734,'','Postridge Dr. & English Rose Lane',43.48984603,-79.71552134
+735,'','North Ridge Trail & Postridge Dr.',43.48847713,-79.71264212
+736,'','North Ridge Trail & 8th Line',43.49147714,-79.71056326
+737,'','North Ridge Trail & Coronation Dr.',43.49333927,-79.70837437
+738,'','North Ridge Trail & Dunholm Gate',43.49455291,-79.70616209
+739,'','North Ridge Trail & Delnice Dr.',43.49442017,-79.69969678
+740,'','North Ridge Trail & Grace Dr.',43.49340614,-79.69614729
+741,'','North Ridge Trail & Glenashton Dr.',43.49137167,-79.69334934
+742,'','Glenashton Dr. & Grosvenor St. (Iroquois Ridge H.S.)',43.48871718,-79.69826919
+743,'','Glenashton Dr. & Glenora Dr.',43.4869367,-79.70028282
+744,'','8th Line South Of Glenashton Dr.',43.48483368,-79.70140947
+745,'','8th Line & Grenville Dr.',43.48267833,-79.69849898
+746,'','8th Line & Granby Dr.',43.48144831,-79.69681782
+747,'','8th Line & Lincoln Gate',43.47885014,-79.69288437
+748,'','8th Line & Grand Blvd.',43.47635519,-79.68945711
+749,'','8th Line South Of Grand Blvd.',43.47414944,-79.68644649
+750,'','8th Line & Falgarwood Dr.',43.47217229,-79.68377801
+751,'','8th Line North Of Falgarwood Dr.',43.47259998,-79.6841244
+752,'','8th Line South Of Grand Blvd.',43.47417098,-79.68623937
+753,'','8th Line & Grand Blvd.',43.47621347,-79.68900123
+754,'','8th Line & Lincoln Gate',43.47883428,-79.69256473
+755,'','8th Line & Upper Middle Rd. East',43.48058485,-79.69500021
+756,'','8th Line North Of Upper Middle Rd. East',43.48186661,-79.69706942
+757,'','8th Line North Of Glenbrook Ave.',43.48330263,-79.69903333
+758,'','8th Line & Glenashton Dr.',43.48549239,-79.70200352
+759,'','Glenashton Dr. & Glenora Dr.',43.4865598,-79.7004103
+760,'','Glenashton Dr. & Grosvenor St. (Iroquois Ridge H.S.)',43.48883536,-79.69767172
+761,'','Glenashton Dr. & Grand Blvd.',43.49092807,-79.69340864
+762,'','North Ridge Trail & Hall Manor Dr.',43.49454305,-79.69785529
+763,'','North Ridge Trail & Arrowhead Rd.',43.49515486,-79.70106397
+764,'','North Ridge Trail & Prince Michael Dr.',43.49480994,-79.70585066
+765,'','North Ridge Trail & Felhaber Cr.',43.49363566,-79.7083608
+766,'','North Ridge Trail & Nichols Dr.',43.49116987,-79.7112759
+767,'','North Ridge Trail East Of Postridge Dr.',43.48884636,-79.71250209
+768,'','Postridge Dr. & Dalebrook Dr.',43.48565935,-79.71354334
+769,'','Dundas St. & 6th Line',43.47949815,-79.72916156
+770,'','Dundas St. East & Towne Blvd.',43.46971236,-79.73975588
+771,'','Dundas St. West & Neyagawa Blvd.',43.46508188,-79.74506528
+772,'','Dundas St. West / Trafalgar Lawn Cemetery',43.46136375,-79.74936335
+773,'','Dundas St. West & Proudfoot Trail',43.45380142,-79.75719957
+774,'','Dundas St. West & 3rd Line',43.45004786,-79.7614531
+775,'','Dundas St. West & Postmaster Dr.',43.44386185,-79.768093
+776,'','Dundas St. West & Bronte Rd.',43.43497558,-79.77743958
+777,'','Dundas St. West & Valleyridge Dr.',43.43325346,-79.779353
+778,'','Colonel William Pkwy. & Stalybridge Dr.',43.42770466,-79.78191436
+779,'','Colonel William Pkwy. & Liptay Ave.',43.42653394,-79.77855342
+780,'','Colonel William Pkwy. & Stockbridge Ave',43.42409548,-79.77476565
+781,'','Richview Blvd. & Heathcliff Ct.',43.42531072,-79.76838252
+782,'','Richview Blvd. & Rochester Circle',43.42636475,-79.76731769
+783,'','Bronte Rd. & Westoak Trails Blvd.',43.42850974,-79.76645753
+784,'','Bronte Rd. & Khalsa Gate',43.43061412,-79.77077557
+785,'','Bronte Rd. & Pine Glen Rd.',43.43220447,-79.77360131
+786,'','Bronte Rd. & Dundas St. West',43.43461434,-79.77702555
+787,'','Dundas St. West & Postmaster Dr.',43.44324038,-79.76817394
+788,'','Dundas St. West & 3rd Line',43.44993417,-79.76102216
+789,'','Dundas St. West & Proudfoot Trail',43.45330478,-79.75735407
+790,'','Dundas St. West & Lions Valley Park Rd.',43.46075663,-79.74937138
+791,'','Dundas St. West & Neyagawa Blvd.',43.46436723,-79.74519664
+792,'','Dundas St. East & Towne Blvd.',43.46915728,-79.73994119
+793,'','Dundas St. & 6th Line',43.47885297,-79.72934601
+794,'','Oak Walk Dr. & Oak Park Blvd.',43.48347114,-79.72137574
+795,'','Proudfoot Trail & Pine Glen Rd.',43.45295226,-79.75292266
+796,'','Pine Glen Rd. & Lazio Lane',43.45043038,-79.75536416
+797,'','Pine Glen Rd. East Of 3rd Line',43.44903597,-79.75726964
+798,'','3rd Line & Kingsridge Dr.',43.44650587,-79.75665843
+799,'','3rd Line & Springdale Rd.',43.44381452,-79.75218794
+800,'','3rd Line & Westoak Trails Blvd.',43.44154015,-79.74905591
+801,'','3rd Line & Westmount Dr.',43.43986228,-79.74674763
+802,'','3rd Line & Upper Middle Rd. West',43.43771063,-79.74376916
+803,'','3rd Line South Of Upper Middle Rd. West',43.43637607,-79.74158349
+804,'','3rd Line & Merchants Gate',43.43451661,-79.73905674
+805,'','3rd Line & Upper Middle Rd. West',43.43743383,-79.74262606
+806,'','3rd Line & Sandpiper Rd.',43.43962965,-79.74596455
+807,'','3rd Line & Westoak Trails Blvd.',43.44138787,-79.74838802
+808,'','3rd Line & Warbler Rd.',43.44371476,-79.75160065
+809,'','3rd Line & Liverpool St.',43.44503203,-79.75340569
+810,'','3rd Line & West Ham Rd.',43.44667536,-79.75496812
+811,'','3rd Line & Pine Glen Rd.',43.44825458,-79.75782509
+812,'','3rd Line & Dundas St. West',43.45027605,-79.76049261
+813,'','Kerr St. & Shepherd Rd.',43.44735576,-79.68782946
+814,'','Shepherd Rd. East Of Kerr St.',43.44867951,-79.6874638
+815,'','Queen Mary Dr. & Kingswood Rd.',43.44822034,-79.68275219
+816,'','Queen Mary Dr. & Stewart St.',43.44699832,-79.68063143
+817,'','Stewart St. & Queen Mary Dr.',43.44637421,-79.6811679
+818,'','Stewart St. & Kerr St.',43.44487335,-79.68336858
+819,'','Stewart St. & Maurice Dr.',43.44258739,-79.68581399
+820,'','Maurice Dr. & Mary St.',43.44125993,-79.68430656
+821,'','Mary St. & Margaret Dr.',43.43978078,-79.68526693
+822,'','Wildwood Dr. & Morden Rd.',43.43690012,-79.69003556
+823,'','Wildwood Dr. & Ashbury Rd.',43.43498674,-79.69381598
+824,'','Wildwood Dr. & Burton Rd.',43.43341275,-79.69609946
+825,'','Wildwood Dr. & 4thLine',43.43123787,-79.69883573
+826,'','4thLine & Bridge Rd.',43.42941262,-79.69670693
+827,'','Bridge Rd. & Maplehurst Ave.',43.42823371,-79.69807042
+828,'','Bridge Rd. & Lees Lane',43.42573318,-79.70213022
+829,'','Brookdale Public School',43.42433378,-79.70338856
+830,'','Bridge Rd. & Warminster Dr.',43.4228965,-79.70488082
+831,'','Bridge Rd. & Valley Dr.',43.42076998,-79.70683038
+832,'','Bridge Rd. & Sherin Dr.',43.41864208,-79.70908369
+833,'','Bridge Rd. & Seabourne Dr.',43.41669221,-79.71122706
+834,'','Bridge Rd. & 3rd Line',43.41542908,-79.7126624
+835,'','Bridge Rd. & Seaton Dr.',43.41367128,-79.71442692
+836,'','Bridge Rd. & Vyner Cr.',43.41074549,-79.7180907
+837,'','Bridge Rd. & Wyandotte Dr.',43.40961003,-79.71923077
+838,'','Bridge Rd. & Seymour Dr.',43.40742755,-79.72044103
+839,'','Bridge Rd. & Underwood Cr. (Q.E. Park Community & Cultural Centre)',43.40675115,-79.7209626
+840,'','Bridge Rd. & Wyandotte Dr.',43.40548573,-79.72275443
+841,'','Bridge Rd. & Trevor Dr.',43.40326339,-79.72337768
+842,'','Bridge Rd. & Ventura Dr.',43.4017876,-79.72223911
+843,'','Bridge Rd. & Wyatt St.',43.40066165,-79.7213968
+844,'','Bridge Rd. & Bronte Rd.',43.39770715,-79.72210568
+845,'','Bridge Rd. West Of Wyatt St.',43.4000505,-79.72073263
+846,'','Bridge Rd. & Ventura Dr.',43.40184943,-79.72213129
+847,'','Bridge Rd. & Trevor Dr.',43.40313433,-79.7230621
+848,'','Bridge Rd. & Vanguard Cr.',43.40516214,-79.72285899
+849,'','Bridge Rd. & Underwood Cr. (Q.E. Park Community & Cultural Centre)',43.40653751,-79.72104239
+850,'','Bridge Rd. & Sunset Dr.',43.40873743,-79.71955109
+851,'','Bridge Rd. & Stanfield Dr.',43.41049846,-79.718143
+852,'','Bridge Rd. & Scarsdale Cr.',43.4125721,-79.71570546
+853,'','Bridge Rd. & Tennyson Dr.',43.41463106,-79.71324367
+854,'','Bridge Rd. & Trudale Ct.',43.41704627,-79.71068453
+855,'','Bridge Rd. & Sherin Dr.',43.4183594,-79.70916864
+856,'','Bridge Rd. & Valley Dr.',43.42046839,-79.70689898
+857,'','Bridge Rd. & Warminster Dr.',43.42260511,-79.70499127
+858,'','Bridge Rd. & Lees Lane',43.42552572,-79.70213465
+859,'','Bridge Rd. & Winston Rd.',43.42726015,-79.69981819
+860,'','Bridge Rd. & Maplehurst Ave.',43.4280241,-79.6981108
+861,'','4thLine & Parkside Dr.',43.42979436,-79.6970057
+862,'','4thLine & Wildwood Dr.',43.43105145,-79.69867448
+863,'','Wildwood Dr. & Burton Rd.',43.43317041,-79.69616798
+864,'','Wildwood Dr. & Ashbury Rd.',43.43470329,-79.69388919
+865,'','Wildwood Dr. & Morden Rd.',43.43667002,-79.68999264
+866,'','Mary St. & Dorval Dr.',43.43931271,-79.68567172
+867,'','Mary St. & Maurice Dr.',43.44071865,-79.68369156
+868,'','Stewart St. & Felan Ave.',43.44293172,-79.68521955
+869,'','Stewart St. & Kerr St.',43.4445751,-79.68340594
+870,'','Stewart St. & Queen Mary Dr.',43.44674588,-79.6806037
+871,'','Queen Mary Dr. & Kingswood Rd.',43.44828662,-79.68264416
+872,'','Shepherd Rd. & Kerr St.',43.44802139,-79.68837049
+873,'','Trafalgar Rd. & Lynnwood Dr.',43.46764205,-79.69134051
+874,'','Trafalgar Rd. & Marlborough Ct.',43.46914436,-79.69332704
+875,'','Trafalgar Rd. & Marlborough Ct.',43.46922249,-79.69406627
+876,'','Trafalgar Rd. & McCraney St. East',43.46739631,-79.69155515
+877,'','Maple Grove Dr. & Constance Dr.',43.47838999,-79.65671671
+878,'','Maple Grove Dr. & Duncan Rd.',43.47725673,-79.65510479
+879,'','Elmhurst Ave. & Maple Grove Dr.',43.47163807,-79.64670789
+880,'','Elmhurst Ave. & Pinehurst Dr.',43.47308228,-79.64510622
+881,'','Elmhurst Ave. & Aintree Terrace',43.47427462,-79.64390654
+882,'','Charnwood Dr. & Elmhurst Ave.',43.47625435,-79.64153081
+883,'','Charnwood Dr. & All Saints Cr.',43.47421322,-79.63949629
+884,'','Lakeshore Rd. East & Ford Dr.',43.47603246,-79.63537368
+885,'','Lakeshore Rd. East East Of Ford Dr.',43.47741472,-79.63387582
+886,'','Devon Rd. & Lakeshore Rd. East',43.47978306,-79.63238964
+887,'','Devon Rd. & Canso Rd.',43.48063883,-79.63355044
+888,'','Devon Rd. & Breton Close',43.4817457,-79.63500395
+889,'','Devon Rd. & Deer Run Park',43.48248613,-79.63744263
+890,'','Devon Rd. & Canning Ct.',43.48153867,-79.63992002
+891,'','Devon Rd. & Ford Dr.',43.4803445,-79.64096155
+892,'','Devon Rd. & Ash Tree Way',43.47873749,-79.64401538
+893,'','Devon Rd. & Adair Cr.',43.47936479,-79.64794425
+894,'','Brookmill Rd. & Constance Dr.',43.48103894,-79.64789069
+895,'','Constance Dr. & Ford Dr.',43.48269965,-79.64480086
+896,'','Aspen Forest Dr. & Deer Run Park',43.48444888,-79.64272753
+897,'','Aspen Forest Dr. North Of Claremont Cr.',43.48787482,-79.64537226
+898,'','Aspen Forest Dr. & Ford Dr.',43.48586975,-79.64789577
+899,'','Aspen Forest Dr. (North) & Ford Dr.',43.48583633,-79.64773497
+900,'','Aspen Forest Dr. North Of Claremont Cr.',43.48773746,-79.64593802
+901,'','Aspen Forest Dr. & Deer Run Ave.',43.48473956,-79.64256335
+902,'','Aspen Forest Dr. (South) & Ford Dr.',43.48306389,-79.64460577
+903,'','Constance Dr. & Brookmill Rd.',43.48121212,-79.64782549
+904,'','Devon Rd. & Adair Cr.',43.4792771,-79.64738129
+905,'','Devon Rd. & Elmhurst Ave.',43.47855737,-79.64287411
+906,'','Devon Rd. & Ford Dr.',43.47989182,-79.64113321
+907,'','Devon Rd. & Canning Ct.',43.4812477,-79.64006026
+908,'','Devon Rd. & Deer Run Park',43.48239054,-79.63735513
+909,'','Devon Rd. & Breton Close',43.48164776,-79.6350958
+910,'','Devon Rd. & Canso Rd.',43.48052238,-79.63360098
+911,'','Devon Rd. & Lakeshore Rd. East',43.47935686,-79.63211638
+912,'','Lakeshore Rd. East & Ford Dr.',43.47609079,-79.63552255
+913,'','Charnwood Dr. & Aintree Terrace',43.47404406,-79.6389012
+914,'','Charnwood Dr. & Elmhurst Ave.',43.47636247,-79.64153611
+915,'','Elmhurst Ave. & Eastcourt Rd.',43.47413557,-79.64432926
+916,'','Elmhurst Ave. & Pinehurst Dr.',43.47301336,-79.64536895
+917,'','Elmhurst Ave. & Maple Grove Dr.',43.47157817,-79.64697271
+918,'','Maple Grove Dr. & Constance Dr.',43.47832955,-79.65636616
+919,'','McCraney St. & Trafalgar Rd.',43.46625231,-79.69107071
+920,'','McCraney St. & Sewell Dr.',43.46538857,-79.69230857
+921,'','McCraney St. & Kirstie Ct.',43.46573929,-79.69660696
+922,'','McCraney St. East & Montclair Dr.',43.46501248,-79.70038839
+923,'','White Oaks Secondary School',43.46454566,-79.70289089
+924,'','McCraney St. & 6th Line',43.4624618,-79.70532819
+925,'','6th Line & Miller Rd.',43.46330506,-79.70687385
+926,'','6th Line & Elm Rd.',43.46490111,-79.70909155
+927,'','6th Line & Upper Middle Rd.',43.46640539,-79.7111416
+928,'','Oakmead Blvd. & Upper Middle Rd. East',43.47075233,-79.70790514
+929,'','Oakmead Blvd. & Castlefield Cr.',43.47195671,-79.71010415
+930,'','Oakmead Blvd. & River Oaks Blvd. East',43.4730913,-79.71290591
+931,'','6th Line South Of Munn''S Ave.',43.46888294,-79.71941931
+932,'','Munns Ave. & Margot St.',43.46757362,-79.7227107
+933,'','Munn''S Ave. & River Oaks Blvd. West',43.46454293,-79.72304494
+934,'','McDowell Ave. & Towne Blvd.',43.46626906,-79.72882592
+935,'','Towne Blvd. & Carrier Lane',43.46433037,-79.73104609
+936,'','Towne Blvd. & Mowat Ave.',43.46309368,-79.73238927
+937,'','Towne Blvd. & Richler Dr.',43.46455104,-79.73064589
+938,'','Towne Blvd. & Callaghan Cr.',43.46568976,-79.72940206
+939,'','McDowell Ave. & River Oaks Blvd. West',43.46473117,-79.72700612
+940,'','Munns Ave. & Margot St.',43.46753162,-79.72257792
+941,'','Munns Ave. & 6th Line',43.46953578,-79.72088722
+942,'','6th Line South Of Munn''S Ave.',43.46858846,-79.71925554
+943,'','Oakmead Blvd. & Castlefield Cr.',43.47182644,-79.7101301
+944,'','Oakmead Blvd. & Upper Middle Rd. East',43.47044814,-79.70767981
+945,'','6th Line & Upper Middle Rd.',43.46616085,-79.71115614
+946,'','6th Line & Elm Rd.',43.4647601,-79.70922015
+947,'','6th Line & Miller Rd.',43.46344673,-79.70733052
+948,'','McCraney St. East Of 6th Line',43.46287684,-79.70460853
+949,'','McCraney St. East & Montclair Dr. (White Oaks S.S.)',43.46465167,-79.70152107
+950,'','McCraney St. East & Kirstie Ct.',43.46542804,-79.6981342
+951,'','McCraney St. & Romain Cr.',43.46553482,-79.69565328
+952,'','McCraney St. & Sewell Dr.',43.46540992,-79.6918144
+953,'','McCraney St. & Trafalgar Rd.',43.46628382,-79.69067676
+954,'','Leighland Ave. & Trafalgar Rd.',43.46378028,-79.68789606
+955,'','Oakville Place',43.46195023,-79.68888208
+956,'','Leighland Ave. & Robarts Rd.',43.46084607,-79.69035376
+957,'','Leighland Ave. & Kent Ave.',43.45840745,-79.69284766
+958,'','Leighland Ave. & 6th Line',43.45544753,-79.69582456
+959,'','6th Line & Ridge Dr.',43.4570958,-79.69823806
+960,'','6th Line & Sewell Dr.',43.45835329,-79.69994313
+961,'','6th Line & Culham St.',43.46009847,-79.70242865
+962,'','69 Culham St.',43.45859318,-79.70542138
+963,'','Culham St. & Oxford Ave.',43.45635933,-79.70795318
+964,'','Oxford Ave. & McCraney St. West',43.45787317,-79.71009493
+965,'','Oxford Ave. & Ringwood Rd.',43.45986384,-79.7122312
+966,'','Oxford Ave. & Richmond Rd.',43.4620003,-79.71571443
+967,'','Westoak Trails Blvd. & Summit Ridge Dr.',43.4517031,-79.73026755
+968,'','Westoak Trails Blvd. North Of Skyvalley Cr.',43.45323346,-79.73336482
+969,'','Westoak Trails Blvd. & Treetop Terrace',43.45291156,-79.73742381
+970,'','Westoak Trails Blvd. & Dale Ridge Dr.',43.45142109,-79.73903141
+971,'','Westoak Trails Blvd. & Overfield Rd.',43.4494548,-79.74114049
+972,'','Westoak Trails Blvd. & Postmaster Dr.',43.4388331,-79.75163775
+973,'','Westoak Trails Blvd. & Shorncliffe Blvd.',43.43746569,-79.75310055
+974,'','Westoak Trails Blvd. & Brookhaven Cr.',43.43655575,-79.75405913
+975,'','Westoak Trails Blvd. & Stratus Dr. (Garth Webb Secondary School)',43.43505159,-79.75567167
+976,'','Westoak Trails Blvd. & Ashmore Dr.',43.43235666,-79.75876401
+977,'','Westoak Trails Blvd. & Grand Oak Trail',43.43004008,-79.76200773
+978,'','Westoak Trails Blvd. East Of Bronte Rd.',43.42881476,-79.76505618
+979,'','Westoak Trails Blvd. East Of Bronte Rd.',43.42868138,-79.76490931
+980,'','Westoak Trails Blvd. & Grand Oak Trail',43.42954863,-79.76242674
+981,'','Westoak Trails Blvd. & Ashmore Dr.',43.43248402,-79.75818246
+982,'','Westoak Trails Blvd. & Stratus Dr. (Garth Webb Secondary School)',43.43457762,-79.75591248
+983,'','Westoak Trails Blvd. & Arbourview Dr.',43.43597178,-79.75440251
+984,'','Westoak Trails Blvd. & Peachtree Lane',43.4375917,-79.75268229
+985,'','Westoak Trails Blvd. & Postmaster Dr.',43.43842592,-79.75172962
+986,'','Westoak Trails Blvd. & 3rd Line',43.44100028,-79.74901553
+987,'','Westoak Trails Blvd. & Pheasant Lane',43.44222785,-79.74764326
+988,'','Westoak Trails Blvd. & Bloomfield Dr.',43.44512211,-79.74524332
+989,'','Westoak Trails Blvd. & Proudfoot Trail',43.44793926,-79.74255723
+990,'','Westoak Trails Blvd. & 4thLine',43.45026394,-79.73977306
+991,'','Westoak Trails Blvd. & Dale Ridge Dr.',43.45146304,-79.73875323
+992,'','Westoak Trails Blvd. & Treetop Terrace',43.45287972,-79.73698647
+993,'','Westoak Trails Blvd. North Of Skyvalley Cr.',43.45307296,-79.73329231
+994,'','Westoak Trails Blvd. & Glen Valley Rd.',43.45191242,-79.73094737
+995,'','Oxford Ave. & Richmond Rd.',43.46187269,-79.71576692
+996,'','Oxford Ave. & Mansfield Dr.',43.45994626,-79.71260618
+997,'','Oxford Ave. & McCraney St. West',43.4579313,-79.71038615
+998,'','Oxford Rd. & Culham St.',43.45623976,-79.70810454
+999,'','78 Culham St.',43.45834894,-79.70551176
+1000,'','Culham St. & 6th Line',43.46035847,-79.70326782
+1001,'','6th Line & Sewell Dr.',43.45823779,-79.70008003
+1002,'','6th Line & Ridge Dr.',43.4571262,-79.6985356
+1003,'','Leighland Ave. & Bomorda Dr.',43.45570329,-79.69535401
+1004,'','Leighland Ave. & Kent Ave.',43.45812027,-79.6929311
+1005,'','Leighland Ave. & Churchill Ave.',43.45954358,-79.69141324
+1006,'','Leighland Ave. & Trafalgar Rd.',43.46379448,-79.6875643
+1007,'','Devon Rd. & Maple Grove Dr.',43.47623081,-79.6528579
+1008,'','Devon Rd. & Donnybrook Rd.',43.47800676,-79.65036558
+1009,'','Maple Grove Dr. North Of Lakeshore Rd. East',43.46985869,-79.64471926
+1010,'','Maple Grove Dr. & Elmhurst Ave.',43.47137894,-79.64675426
+1011,'','Devon Rd. & Wedgewood Dr.',43.47251894,-79.65659744
+1012,'','Devon Rd. & Ash Rd.',43.47134898,-79.65787158
+1013,'','Devon Rd. & Cairncroft Rd.',43.4692555,-79.65885283
+1014,'','Devon Rd. & Morrison Rd.',43.46702679,-79.66191239
+1015,'','Morrison Rd. & Linbrook Rd.',43.46802317,-79.6635225
+1016,'','Linbrook Dr. & Chamberlain Lane',43.46599547,-79.66606515
+1017,'','Linbrook Public School',43.46430117,-79.66792327
+1018,'','Linbrook Rd. & Chartwell Rd.',43.46238983,-79.67007596
+1019,'','Maple Ave. & Bohemia Cr.',43.46047928,-79.67234404
+1020,'','Maple Ave. & Watson Ave.',43.45844697,-79.67399504
+1021,'','Macdonald Rd. & Watson Ave.',43.45660206,-79.67252585
+1022,'','Macdonald Rd. & Reynolds St.',43.4542733,-79.67514225
+1023,'','Macdonald Rd. & Reynolds St.',43.4542088,-79.67501543
+1024,'','Macdonald Rd. & Watson Ave.',43.45659102,-79.67234996
+1025,'','Maple Ave. & Watson Ave.',43.45859155,-79.67365118
+1026,'','Maple Ave. & Bohemia Cr.',43.46012412,-79.67225873
+1027,'','Maple Ave. & Chartwell Rd.',43.46210788,-79.67017797
+1028,'','St. Mildred''S Lightbourn School',43.46379144,-79.66828396
+1029,'','Linbrook Dr. & Morrison Heights Dr.',43.46566819,-79.66623903
+1030,'','Linbrook Rd. & Morrison Rd.',43.46794901,-79.66377659
+1031,'','Morrison Rd. & Devon Rd.',43.46689508,-79.66219887
+1032,'','Devon Rd. & Cairncroft Rd.',43.46903103,-79.65890724
+1033,'','Devon Rd. & Ash Rd.',43.47106376,-79.65795049
+1034,'','Devon Rd. & Wedgewood Dr.',43.47220182,-79.65671754
+1035,'','Oakville Trafalgar High School',43.47331061,-79.65529354
+1036,'','Devon Rd. & Maple Grove Dr.',43.47586754,-79.65326898
+1037,'','Kerr St. & Wyecroft Rd.',43.45015557,-79.69289255
+1038,'','Opposite 1100 Kerr St.',43.45111511,-79.69716752
+1039,'','North Service Rd. West East Of Dorval Dr.',43.45083973,-79.70135875
+1040,'','Old Abbey Lane & Montrose Abbey Dr.',43.44261541,-79.71081585
+1041,'','Old Abbey Lane & Parkridge Cr.',43.44391027,-79.7099022
+1042,'','Old Abbey Lane & Maidstone Cr.',43.44654589,-79.71162526
+1043,'','Old Abbey Lane & Dorval Dr.',43.44780178,-79.71280666
+1044,'','Dorval Dr. & Greeneagle Dr.',43.4466391,-79.72032591
+1045,'','Monastery Dr. & Dorval Dr.',43.44759038,-79.72569748
+1046,'','Monastery Dr. & Greenbriar Dr.',43.44547392,-79.72715247
+1047,'','Monastery Dr. & Nottinghill Gate',43.44439003,-79.72736174
+1048,'','Pilgrims Way & Nottinghill Gate',43.44376063,-79.73015508
+1049,'','Pilgrims Way & Windrush Dr. (East)',43.44274333,-79.73110509
+1050,'','Pilgrims Way & Windrush Dr. (West)',43.44054256,-79.73361094
+1051,'','Pilgrims Way & Bishops Gate',43.43939416,-79.73496102
+1052,'','Pilgrims Way & Glen Abbey Gate',43.43656813,-79.73453411
+1053,'','Abbey Park High School',43.43583712,-79.73598803
+1054,'','Glen Abbey Gate & 3rd Line',43.43511548,-79.73790821
+1055,'','Abbeywood Dr. & 3rd Line',43.42910188,-79.73070136
+1056,'','Abbeywood Dr. & Glenridge Dr.',43.42983135,-79.72862844
+1057,'','Abbeywood Dr. & Fieldstone Circle',43.43014889,-79.72687875
+1058,'','Abbeywood Dr. & Pilgrims Way',43.43205278,-79.72521564
+1059,'','Pilgrims Way East Of Fieldcrest Lane',43.43437159,-79.72200772
+1060,'','Pilgrims Way West Of Potters Wheel Cr.',43.43553441,-79.72051132
+1061,'','Pilgrims Way & Montgomery Dr.',43.43677342,-79.71858309
+1062,'','Pilgrims Way & Mayfair Rd.',43.43893515,-79.71864637
+1063,'','Nottinghill Gate & Pilgrims Way',43.43981532,-79.71844552
+1064,'','Nottinghill Gate & Monks Passage',43.4409573,-79.71629983
+1065,'','Nottinghill Gate & Runnymead Cr.',43.44167291,-79.71427585
+1066,'','Dorval Dr. & Wyecroft Rd.',43.44411355,-79.69684195
+1067,'','Heritage Way & Postmaster Dr.',43.43261899,-79.74301274
+1068,'','Opposite 1275 North Service Rd. West',43.43096287,-79.71796569
+1069,'','Opposite 1235 North Service Rd. West',43.43265653,-79.71627917
+1070,'','Opposite 1195 North Service Rd. West',43.43379941,-79.71571535
+1071,'','Opposite 1155 North Service Rd. West',43.43549292,-79.7133864
+1072,'','Opposite 1075 North Service Rd. West',43.43709275,-79.7111348
+1073,'','Wyecroft Rd. East Of 4thLine',43.43735111,-79.70597953
+1074,'','480 Wyecroft Rd.',43.43865963,-79.704584
+1075,'','450 Wyecroft Rd.',43.44007732,-79.70295273
+1076,'','430 Wyecroft Rd. (Oakville Transit)',43.44108543,-79.70182806
+1077,'','Wyecroft Rd. & Weller Ct.',43.44265663,-79.700089
+1078,'','280 Wyecroft Rd.',43.4436025,-79.69899088
+1079,'','Wyecroft Rd. & Dorval Dr.',43.44425139,-79.69749275
+1080,'','Wyecroft Rd. & Sinclair Rd.',43.44629675,-79.69585645
+1081,'','220 Wyecroft Rd.',43.44776676,-79.69423315
+1082,'','225 Wyecroft Rd.',43.4477378,-79.69445701
+1083,'','Wyecroft Rd. & Sinclair Rd.',43.44660471,-79.69576742
+1084,'','285 Wyecroft Rd.',43.44357404,-79.69925951
+1085,'','Wyecroft Rd. & Weller Ct.',43.44286309,-79.70008493
+1086,'','427 Wyecroft Rd.',43.44049781,-79.70269449
+1087,'','479 Wyecroft Rd.',43.43871061,-79.70471188
+1088,'','Wyecroft Rd. East Of 4thLine',43.43765172,-79.70601369
+1089,'','1075 North Service Rd. West',43.43699175,-79.71153848
+1090,'','1155 North Service Rd. West',43.4355366,-79.71369111
+1091,'','1195 North Service Rd. West',43.43404429,-79.71577862
+1092,'','1235 North Service Rd. West',43.43272685,-79.71653062
+1093,'','1275 North Service Rd. West',43.43115836,-79.71807324
+1094,'','South Service Rd. West & Equestrian Ct.',43.43607001,-79.70766579
+1095,'','South Service Rd. West & Redwood Sq.',43.43466682,-79.70921424
+1096,'','1131 South Service Rd. West',43.43322171,-79.71089651
+1097,'','Opposite 1218 South Service Rd. West',43.43243556,-79.71533022
+1098,'','South Service Rd. West & Progress Ct.',43.4294043,-79.71874159
+1099,'','Opposite 1400 South Service Rd. West',43.42787139,-79.72035054
+1100,'','2075 Speers Rd.',43.41680892,-79.71955382
+1101,'','Speers Rd. / Bronte GO Station (South Side)',43.4154718,-79.72092478
+1102,'','2189 Speers Rd.',43.41297762,-79.72173745
+1103,'','West Of 2245 Speers Rd.',43.41025778,-79.72407678
+1104,'','2335 Speers Rd.',43.40837217,-79.72602795
+1105,'','2393 Speers Rd.',43.406392,-79.72803317
+1106,'','Speers Rd. & Bronte Rd.',43.40337568,-79.73118197
+1107,'','2538 Speers Rd.',43.40376988,-79.73048549
+1108,'','2402 Speers Rd.',43.40627156,-79.72789543
+1109,'','2370 Speers Rd.',43.40812907,-79.72598086
+1110,'','2270 Speers Rd.',43.41037409,-79.72363067
+1111,'','2190 Speers Rd.',43.41283714,-79.72151653
+1112,'','Speers Rd. / Bronte GO Station (South Side)',43.41511557,-79.72093093
+1113,'','2070 Speers Rd.',43.41696845,-79.71907795
+1114,'','3rd Line & South Service Rd. West',43.42181572,-79.72144356
+1115,'','1400 South Service Rd. West',43.42776507,-79.72023363
+1116,'','South Service Rd. West & Progress Ct.',43.42918806,-79.71872676
+1117,'','1218 South Service Rd. West',43.43231517,-79.71521916
+1118,'','1150 South Service Rd. West',43.43280607,-79.71186607
+1119,'','South Service Rd. West & Redwood Sq.',43.43448066,-79.70914379
+1120,'','South Service Rd. West & 4thLine',43.43658987,-79.70673897
+1121,'','Upper Middle Rd. West & Trawden Way',43.42163839,-79.76038932
+1122,'','Upper Middle Rd. West & Colonel William Pkwy.',43.42047438,-79.76164428
+1123,'','Colonel William Pkwy. & Richview Blvd.',43.42336917,-79.7697198
+1124,'','Colonel William Pkwy. & Dewsbury Dr.',43.42349683,-79.77244955
+1125,'','Colonel William Pkwy. & Wuthering Heights Way',43.42466586,-79.77526109
+1126,'','Colonel William Pkwy. & Liptay Ave.',43.42645248,-79.77812161
+1127,'','Colonel William Pkwy. & Stalybridge Dr.',43.42759909,-79.78158883
+1128,'','Dundas St. West & Valleyridge Dr.',43.4327387,-79.7792913
+1129,'','Dundas St. West & Bronte Rd.',43.43432127,-79.77747284
+1130,'','Postmaster Dr. South Of Crestmont Dr.',43.44236307,-79.76604435
+1131,'','Postmaster Dr. & Pine Glen Rd.',43.44139506,-79.76437282
+1132,'','Pine Glen Rd. & Crestmont Dr.',43.43987956,-79.76554793
+1133,'','Pine Glen Rd. West Of Millstone Dr.',43.43771457,-79.76786787
+1134,'','Pine Glen Rd. & Grand Oak Trail',43.43581728,-79.76990114
+1135,'','Bronte Rd. & Highvalley Rd.',43.4318033,-79.77362019
+1136,'','Bronte Rd. & Khalsa Gate',43.4303254,-79.77078742
+1137,'','Bronte Rd. & Richview Blvd.',43.42804956,-79.76638984
+1138,'','North Service Rd. East South Of Iroquois Shore Rd.',43.46462454,-79.68257713
+1139,'','Opposite 475 North Service Rd. East',43.46557311,-79.67968526
+1140,'','North Service Rd. East & 8th Line',43.46746436,-79.67766466
+1141,'','North Service Rd. East & Invicta Dr.',43.4718888,-79.67588579
+1142,'','Opposite 1185 North Service Rd. East',43.4746645,-79.67308395
+1143,'','Opposite 1303 North Service Rd. East',43.47758539,-79.67274912
+1144,'','Opposite 1315 North Service Rd. East',43.48000466,-79.67289504
+1145,'','Opposite 1425 North Service Rd. East',43.48490614,-79.67327528
+1146,'','Joshuas Creek Dr. North Of North Service Rd. East',43.48886776,-79.67536425
+1147,'','Joshuas Creek Dr. & Upper Middle Rd. East',43.49233971,-79.6822711
+1148,'','Buckingham Rd. & Upper Middle Rd. East',43.50449606,-79.67110409
+1149,'','Joshuas Creek Dr. South Of Upper Middle Rd. East',43.49192328,-79.68200686
+1150,'','Joshuas Creek Dr. North Of North Service Rd. East',43.48869997,-79.67520005
+1151,'','1425 North Service Rd. East',43.48495857,-79.67351843
+1152,'','1315 North Service Rd. East',43.48000308,-79.67313024
+1153,'','1303 North Service Rd. East',43.47759385,-79.67289412
+1154,'','1185 North Service Rd. East',43.47469574,-79.67326769
+1155,'','North Service Rd. East & Invicta Dr.',43.47217291,-79.67574408
+1156,'','North Service Rd. East & 8th Line',43.46753067,-79.67776811
+1157,'','475 North Service Rd. East',43.46566187,-79.67983158
+1158,'','North Service Rd. East South Of Iroquois Shore Rd.',43.46508121,-79.6829482
+1159,'','Sixteen Mile Dr. & Gladeside Ave.',43.46770968,-79.74582618
+1160,'','Sixteen Mile Dr. & Trailside Dr.',43.46953903,-79.74516029
+1161,'','Sixteen Mile Dr. & Gladeside Ave.',43.46801432,-79.74585504
+1162,'','Sixteen Mile Dr. & Larry Cr.',43.48079885,-79.73381259
+1163,'','Issac Ave. South Of Sixteen Mile Dr.',43.47970899,-79.73315682
+1164,'','Kaitting Trail & Janice Dr.',43.47945754,-79.73151919
