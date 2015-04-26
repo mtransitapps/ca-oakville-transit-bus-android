@@ -195,7 +195,7 @@
 195,'','Old Abbey Lane & Montrose Abbey Dr.',43.44258692,-79.71108369
 196,'','Old Abbey Lane & Nottinghill Gate',43.44166313,-79.71180689
 197,'','Nottinghill Gate North Of North Service Rd. West',43.44007076,-79.71113093
-198,'','North Service Rd. West East Of 4thLine',43.44004739,-79.70783946
+198,'','North Service Rd. West East Of 4th Line',43.44004739,-79.70783946
 199,'','Opposite 403 North Service Rd. West',43.44200239,-79.70565735
 200,'','North Service Rd. West & Lindsay Dr.',43.44553439,-79.70525864
 201,'','North Service Rd. West West Of Dorval Dr.',43.4479294,-79.70576569
@@ -216,7 +216,7 @@
 216,'','North Service Rd. West West Of Dorval Dr.',43.44810261,-79.70595356
 217,'','North Service Rd. West & Lindsay Dr.',43.44516275,-79.7051612
 218,'','403 North Service Rd. West',43.44238825,-79.70555519
-219,'','North Service Rd. West East Of 4thLine',43.44061782,-79.70756217
+219,'','North Service Rd. West East Of 4th Line',43.44061782,-79.70756217
 220,'','Nottinghill Gate North Of North Service Rd. West',43.4400669,-79.71078887
 221,'','Nottinghill Gate & Old Abbey Lane',43.44093142,-79.71199697
 222,'','Nottinghill Gate & Runnymead Cr. (South)',43.44168316,-79.71318586
@@ -298,7 +298,7 @@
 298,'','1290 Speers Rd.',43.42546903,-79.71061695
 299,'','1184 Speers Rd.',43.42861027,-79.70731641
 300,'','1060 Speers Rd.',43.43158567,-79.70408934
-301,'','Speers Rd. East Of 4thLine',43.4344982,-79.70100622
+301,'','Speers Rd. East Of 4th Line',43.4344982,-79.70100622
 302,'','530 Speers Rd.',43.43546079,-79.70001561
 303,'','440 Speers Rd.',43.4380622,-79.69598956
 304,'','Speers Rd. & Morden Rd.',43.44012973,-79.69371548
@@ -339,7 +339,7 @@
 339,'','Speers Rd. & Morden Rd.',43.44016931,-79.69402664
 340,'','427 Speers Rd.',43.43814975,-79.69616531
 341,'','529 Speers Rd.',43.436051,-79.699657
-342,'','Speers Rd. & 4thLine',43.43348519,-79.7028642
+342,'','Speers Rd. & 4th Line',43.43348519,-79.7028642
 343,'','1079 Speers Rd.',43.43146392,-79.70446954
 344,'','1195 Speers Rd.',43.4286976,-79.7074744
 345,'','1257 Speers Rd.',43.42622871,-79.71011283
@@ -477,7 +477,7 @@
 477,'','Upper Middle Rd. West East Of 3rd Line',43.43915403,-79.74124342
 478,'','Upper Middle Rd. West & Bishops Gate',43.44102372,-79.73918974
 479,'','Upper Middle Rd. West & Deer Park Rd.',43.44378013,-79.73621445
-480,'','Upper Middle Rd. West & Nottinghill Gate (4thLine)',43.44583438,-79.73393413
+480,'','Upper Middle Rd. West & Nottinghill Gate (Fourth Line)',43.44583438,-79.73393413
 481,'','Upper Middle Rd. West & Dorval Dr.',43.45022133,-79.72907479
 482,'','Upper Middle Rd. West & Neyagawa Blvd.',43.46022757,-79.71975117
 483,'','Upper Middle Rd. West & Oxford Ave.',43.46245657,-79.71684548
@@ -516,7 +516,7 @@
 516,'','Upper Middle Rd. West & Oxford Ave.',43.46287077,-79.716445
 517,'','Upper Middle Rd. West & Neyagawa Blvd.',43.46074335,-79.71984301
 518,'','Upper Middle Rd. West & Westoak Trails Blvd. (Dorval Dr.)',43.45105996,-79.72878069
-519,'','Upper Middle Rd. West & 4thLine (Nottinghill Gate)',43.44711411,-79.73306291
+519,'','Upper Middle Rd. West & 4th Line (Nottinghill Gate)',43.44711411,-79.73306291
 520,'','Upper Middle Rd. West & Deer Park Rd.',43.44393302,-79.73653232
 521,'','Upper Middle Rd. West & Bloomfield Dr.',43.44164525,-79.73900879
 522,'','Upper Middle Rd. West East Of 3rd Line',43.43929752,-79.74159274
@@ -623,7 +623,7 @@
 623,'','Lakeshore Rd. West & Sandwell Dr.',43.41497059,-79.69111122
 624,'','Lakeshore Rd. West & Wolfdale Ave.',43.41733732,-79.69060792
 625,'','Lakeshore Rd. West & Wilder Dr.',43.4205912,-79.68893972
-626,'','Lakeshore Rd. West & 4thLine',43.42472647,-79.68946373
+626,'','Lakeshore Rd. West & 4th Line',43.42472647,-79.68946373
 627,'','Appleby College',43.42807535,-79.68700849
 628,'','Lakeshore Rd. West & Morden Rd.',43.43204813,-79.68282099
 629,'','Lakeshore Rd. West & Dorval Dr.',43.43526826,-79.67928928
@@ -700,7 +700,7 @@
 700,'','Lakeshore Rd. West & Dorval Dr.',43.43561911,-79.67920599
 701,'','Lakeshore Rd. West & Morden Rd.',43.43242383,-79.68261514
 702,'','Lakeshore Rd. West & Suffolk Ave. (Appleby College)',43.42808964,-79.68722433
-703,'','Lakeshore Rd. West & 4thLine',43.42508671,-79.68962616
+703,'','Lakeshore Rd. West & 4th Line',43.42508671,-79.68962616
 704,'','Lakeshore Rd. West & Spring Garden Rd.',43.42049734,-79.68916867
 705,'','Lakeshore Rd. West & Willowridge Ct.',43.41848146,-79.69024408
 706,'','Lakeshore Rd. West & Sandwell Dr.',43.41482944,-79.69133846
@@ -822,8 +822,8 @@
 822,'','Wildwood Dr. & Morden Rd.',43.43690012,-79.69003556
 823,'','Wildwood Dr. & Ashbury Rd.',43.43498674,-79.69381598
 824,'','Wildwood Dr. & Burton Rd.',43.43341275,-79.69609946
-825,'','Wildwood Dr. & 4thLine',43.43123787,-79.69883573
-826,'','4thLine & Bridge Rd.',43.42941262,-79.69670693
+825,'','Wildwood Dr. & 4th Line',43.43123787,-79.69883573
+826,'','4th Line & Bridge Rd.',43.42941262,-79.69670693
 827,'','Bridge Rd. & Maplehurst Ave.',43.42823371,-79.69807042
 828,'','Bridge Rd. & Lees Lane',43.42573318,-79.70213022
 829,'','Brookdale Public School',43.42433378,-79.70338856
@@ -858,8 +858,8 @@
 858,'','Bridge Rd. & Lees Lane',43.42552572,-79.70213465
 859,'','Bridge Rd. & Winston Rd.',43.42726015,-79.69981819
 860,'','Bridge Rd. & Maplehurst Ave.',43.4280241,-79.6981108
-861,'','4thLine & Parkside Dr.',43.42979436,-79.6970057
-862,'','4thLine & Wildwood Dr.',43.43105145,-79.69867448
+861,'','4th Line & Parkside Dr.',43.42979436,-79.6970057
+862,'','4th Line & Wildwood Dr.',43.43105145,-79.69867448
 863,'','Wildwood Dr. & Burton Rd.',43.43317041,-79.69616798
 864,'','Wildwood Dr. & Ashbury Rd.',43.43470329,-79.69388919
 865,'','Wildwood Dr. & Morden Rd.',43.43667002,-79.68999264
@@ -987,7 +987,7 @@
 987,'','Westoak Trails Blvd. & Pheasant Lane',43.44222785,-79.74764326
 988,'','Westoak Trails Blvd. & Bloomfield Dr.',43.44512211,-79.74524332
 989,'','Westoak Trails Blvd. & Proudfoot Trail',43.44793926,-79.74255723
-990,'','Westoak Trails Blvd. & 4thLine',43.45026394,-79.73977306
+990,'','Westoak Trails Blvd. & 4th Line',43.45026394,-79.73977306
 991,'','Westoak Trails Blvd. & Dale Ridge Dr.',43.45146304,-79.73875323
 992,'','Westoak Trails Blvd. & Treetop Terrace',43.45287972,-79.73698647
 993,'','Westoak Trails Blvd. North Of Skyvalley Cr.',43.45307296,-79.73329231
@@ -1070,7 +1070,7 @@
 1070,'','Opposite 1195 North Service Rd. West',43.43379941,-79.71571535
 1071,'','Opposite 1155 North Service Rd. West',43.43549292,-79.7133864
 1072,'','Opposite 1075 North Service Rd. West',43.43709275,-79.7111348
-1073,'','Wyecroft Rd. East Of 4thLine',43.43735111,-79.70597953
+1073,'','Wyecroft Rd. East Of 4th Line',43.43735111,-79.70597953
 1074,'','480 Wyecroft Rd.',43.43865963,-79.704584
 1075,'','450 Wyecroft Rd.',43.44007732,-79.70295273
 1076,'','430 Wyecroft Rd. (Oakville Transit)',43.44108543,-79.70182806
@@ -1085,7 +1085,7 @@
 1085,'','Wyecroft Rd. & Weller Ct.',43.44286309,-79.70008493
 1086,'','427 Wyecroft Rd.',43.44049781,-79.70269449
 1087,'','479 Wyecroft Rd.',43.43871061,-79.70471188
-1088,'','Wyecroft Rd. East Of 4thLine',43.43765172,-79.70601369
+1088,'','Wyecroft Rd. East Of 4th Line',43.43765172,-79.70601369
 1089,'','1075 North Service Rd. West',43.43699175,-79.71153848
 1090,'','1155 North Service Rd. West',43.4355366,-79.71369111
 1091,'','1195 North Service Rd. West',43.43404429,-79.71577862
@@ -1117,7 +1117,7 @@
 1117,'','1218 South Service Rd. West',43.43231517,-79.71521916
 1118,'','1150 South Service Rd. West',43.43280607,-79.71186607
 1119,'','South Service Rd. West & Redwood Sq.',43.43448066,-79.70914379
-1120,'','South Service Rd. West & 4thLine',43.43658987,-79.70673897
+1120,'','South Service Rd. West & 4th Line',43.43658987,-79.70673897
 1121,'','Upper Middle Rd. West & Trawden Way',43.42163839,-79.76038932
 1122,'','Upper Middle Rd. West & Colonel William Pkwy.',43.42047438,-79.76164428
 1123,'','Colonel William Pkwy. & Richview Blvd.',43.42336917,-79.7697198
