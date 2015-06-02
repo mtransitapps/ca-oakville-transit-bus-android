@@ -50,7 +50,7 @@
 50,'','3rd Line & Greenridge Circle',43.43189716,-79.73503873
 51,'','Merchants Gate & 3rd Line',43.43412644,-79.73930754
 52,'','Merchants Gate & Heritage Way',43.43260153,-79.74019912
-53,'','Heritage Way & King''S College Dr.',43.4299259,-79.7370543
+53,'','Heritage Way & King''s College Dr.',43.4299259,-79.7370543
 54,'','Heritage Way & White Lane',43.42816781,-79.7373385
 55,'','Heritage Way & Saddler Circle',43.42799168,-79.74281567
 56,'','Heritage Way & Reeves Gate',43.42995575,-79.74598578
@@ -89,7 +89,7 @@
 89,'','Merchants Gate & 3rd Line',43.43420023,-79.73877964
 90,'','3rd Line & Greenridge Circle',43.43198254,-79.73563201
 91,'','3rd Line South Of Greenridge Circle',43.43050099,-79.73360994
-92,'','3rd Line & King''S College Dr.',43.42894981,-79.73149153
+92,'','3rd Line & King''s College Dr.',43.42894981,-79.73149153
 93,'','3rd Line & North Service Rd. West',43.42671354,-79.72846622
 94,'','3rd Line & Wyecroft Rd.',43.42199811,-79.72241809
 95,'','Wyecroft Rd. & South Service Rd. West',43.41906748,-79.72491871
@@ -137,7 +137,7 @@
 137,'','Mowat Ave. & River Oaks Blvd. West',43.46216208,-79.73120194
 138,'','River Oaks Blvd. West & Winding Woods Dr.',43.46389766,-79.728164
 139,'','River Oaks Blvd. West & Marisha Ct.',43.46450118,-79.72575929
-140,'','River Oaks Blvd. West & Munn''S Ave.',43.46433586,-79.7231523
+140,'','River Oaks Blvd. West & Munn''s Ave.',43.46433586,-79.7231523
 141,'','River Oaks Blvd. West East Of Markle Dr.',43.46553769,-79.71819809
 142,'','River Oaks Blvd. West & 6th Line',43.4681033,-79.71690319
 143,'','River Oaks Blvd. East & Nipigon Dr.',43.469218,-79.71647422
@@ -152,7 +152,7 @@
 152,'','River Oaks Blvd. East & 6th Line',43.4685102,-79.71697921
 153,'','River Oaks Blvd. West & Pen St.',43.46688913,-79.71746719
 154,'','River Oaks Blvd. West East Of Markle Dr.',43.46551776,-79.71842875
-155,'','River Oaks Blvd. West & Munn''S Ave.',43.46445466,-79.72283011
+155,'','River Oaks Blvd. West & Munn''s Ave.',43.46445466,-79.72283011
 156,'','River Oaks Blvd. West & Marisha Ct.',43.46461866,-79.72539369
 157,'','River Oaks Blvd. West & McDowell Ave.',43.46465579,-79.72670561
 158,'','River Oaks Blvd. West & Winding Woods Dr.',43.46385584,-79.72845229
@@ -651,7 +651,7 @@
 651,'','Ford Dr. & Aspen Forest Dr. (North)',43.48553758,-79.64801559
 652,'','Kingsway Dr. & Sherwood Heights Dr.',43.49390819,-79.66474973
 653,'','Kingsway Dr. & Wynten Way (West)',43.49478826,-79.66367921
-654,'','St. Luke''S School',43.49682156,-79.66262629
+654,'','St. Luke''s School',43.49682156,-79.66262629
 655,'','Kingsway Dr. & Sir David Dr.',43.5041724,-79.65937015
 656,'','Plymouth Dr. & Winston Churchill Blvd.',43.51549319,-79.67282768
 657,'','Opposite 2164 Buckingham Rd.',43.50756352,-79.67495404
@@ -928,9 +928,9 @@
 928,'','Oakmead Blvd. & Upper Middle Rd. East',43.47075233,-79.70790514
 929,'','Oakmead Blvd. & Castlefield Cr.',43.47195671,-79.71010415
 930,'','Oakmead Blvd. & River Oaks Blvd. East',43.4730913,-79.71290591
-931,'','6th Line South Of Munn''S Ave.',43.46888294,-79.71941931
+931,'','6th Line South Of Munn''s Ave.',43.46888294,-79.71941931
 932,'','Munns Ave. & Margot St.',43.46757362,-79.7227107
-933,'','Munn''S Ave. & River Oaks Blvd. West',43.46454293,-79.72304494
+933,'','Munn''s Ave. & River Oaks Blvd. West',43.46454293,-79.72304494
 934,'','McDowell Ave. & Towne Blvd.',43.46626906,-79.72882592
 935,'','Towne Blvd. & Carrier Lane',43.46433037,-79.73104609
 936,'','Towne Blvd. & Mowat Ave.',43.46309368,-79.73238927
@@ -939,7 +939,7 @@
 939,'','McDowell Ave. & River Oaks Blvd. West',43.46473117,-79.72700612
 940,'','Munns Ave. & Margot St.',43.46753162,-79.72257792
 941,'','Munns Ave. & 6th Line',43.46953578,-79.72088722
-942,'','6th Line South Of Munn''S Ave.',43.46858846,-79.71925554
+942,'','6th Line South Of Munn''s Ave.',43.46858846,-79.71925554
 943,'','Oakmead Blvd. & Castlefield Cr.',43.47182644,-79.7101301
 944,'','Oakmead Blvd. & Upper Middle Rd. East',43.47044814,-79.70767981
 945,'','6th Line & Upper Middle Rd.',43.46616085,-79.71115614
@@ -1025,7 +1025,7 @@
 1025,'','Maple Ave. & Watson Ave.',43.45859155,-79.67365118
 1026,'','Maple Ave. & Bohemia Cr.',43.46012412,-79.67225873
 1027,'','Maple Ave. & Chartwell Rd.',43.46210788,-79.67017797
-1028,'','St. Mildred''S Lightbourn School',43.46379144,-79.66828396
+1028,'','St. Mildred''s Lightbourn School',43.46379144,-79.66828396
 1029,'','Linbrook Dr. & Morrison Heights Dr.',43.46566819,-79.66623903
 1030,'','Linbrook Rd. & Morrison Rd.',43.46794901,-79.66377659
 1031,'','Morrison Rd. & Devon Rd.',43.46689508,-79.66219887
