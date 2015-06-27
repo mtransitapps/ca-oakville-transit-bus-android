@@ -511,7 +511,7 @@
 511,'','Upper Middle Rd. East & Trafalgar Rd.',43.47532843,-79.70174518
 512,'','Upper Middle Rd. East & Oak Springs Rd.',43.47281797,-79.70442276
 513,'','Upper Middle Rd. East & Oakmead Blvd.',43.47041114,-79.70704912
-514,'','Upper Middle Rd. & 6th Line',43.4670966,-79.7110953
+514,'','Upper Middle Rd. & 6th Line',43.466787,-79.711431
 515,'','Upper Middle Rd. West & Elm Rd.',43.46481541,-79.71361619
 516,'','Upper Middle Rd. West & Oxford Ave.',43.46287077,-79.716445
 517,'','Upper Middle Rd. West & Neyagawa Blvd.',43.46074335,-79.71984301
@@ -771,7 +771,7 @@
 771,'','Dundas St. West & Neyagawa Blvd.',43.46508188,-79.74506528
 772,'','Dundas St. West / Trafalgar Lawn Cemetery',43.46136375,-79.74936335
 773,'','Dundas St. West & Proudfoot Trail',43.45380142,-79.75719957
-774,'','Dundas St. West & 3rd Line',43.45004786,-79.7614531
+774,'','Dundas St. West & 3rd Line',43.450548,-79.760888
 775,'','Dundas St. West & Postmaster Dr.',43.44386185,-79.768093
 776,'','Dundas St. West & Bronte Rd.',43.43497558,-79.77743958
 777,'','Dundas St. West & Valleyridge Dr.',43.43325346,-79.779353
@@ -919,7 +919,6 @@
 919,'','McCraney St. & Trafalgar Rd.',43.46625231,-79.69107071
 920,'','McCraney St. & Sewell Dr.',43.46538857,-79.69230857
 921,'','McCraney St. & Kirstie Ct.',43.46573929,-79.69660696
-922,'','McCraney St. East & Montclair Dr.',43.46501248,-79.70038839
 923,'','White Oaks Secondary School',43.46454566,-79.70289089
 924,'','McCraney St. & 6th Line',43.4624618,-79.70532819
 925,'','6th Line & Miller Rd.',43.46330506,-79.70687385
@@ -1156,9 +1155,3 @@
 1156,'','North Service Rd. East & 8th Line',43.46753067,-79.67776811
 1157,'','475 North Service Rd. East',43.46566187,-79.67983158
 1158,'','North Service Rd. East South Of Iroquois Shore Rd.',43.46508121,-79.6829482
-1159,'','Sixteen Mile Dr. & Gladeside Ave.',43.46770968,-79.74582618
-1160,'','Sixteen Mile Dr. & Trailside Dr.',43.46953903,-79.74516029
-1161,'','Sixteen Mile Dr. & Gladeside Ave.',43.46801432,-79.74585504
-1162,'','Sixteen Mile Dr. & Larry Cr.',43.48079885,-79.73381259
-1163,'','Issac Ave. South Of Sixteen Mile Dr.',43.47970899,-79.73315682
-1164,'','Kaitting Trail & Janice Dr.',43.47945754,-79.73151919
