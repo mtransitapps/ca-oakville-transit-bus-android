@@ -5,7 +5,7 @@ Oakville Transit buses for MonTransit.
 Schedule. News. Service Updates.
 ----------
 What's new in this version?:
-Schedule from September 6, 2015 to November 28, 2015.
+Schedule from November 29, 2015 to February 27, 2016.
 News from www.oakvilletransit.ca.
 Tweets from @oakvilletransit.
 ----------
