@@ -1,47 +1,73 @@
-100,0,'Oakville GO',1
-101,0,'Uptown Core',1
-201,1,'E',2
-202,1,'W',2
-301,0,'Dundas & Proudfoot',3
-300,0,'South Centre',3
-401,1,'E',4
-402,1,'W',4
-501,0,'Palermo',5
-500,0,'Uptown Core',5
-601,1,'E',6
-602,1,'W',6
-1000,0,'AM',10
-1001,0,'PM',10
-1101,0,'Maple Grove',11
-1100,0,'Oakville GO',11
-1301,0,'Bronte GO',13
-1300,0,'Oakville GO',13
-1401,0,'Burloak Dr',14
-1400,0,'Oakville GO',14
-1500,0,'Oakville GO',15
-1501,0,'South Ctr',15
-1700,0,'Loop',17
-1801,0,'Glen Abbey',18
-1800,0,'Oakville GO',18
-1900,0,'Oakville GO',19
-1901,0,'Uptown Core',19
-2000,0,'Oakville GO',20
-2001,0,'Uptown Core',20
-2101,0,'Clarkson GO',21
-2100,0,'Maple Grove',21
-2200,0,'Bronte GO',22
-2201,0,'Pine Glen',22
-2400,0,'Oakville GO',24
-2401,0,'South Common',24
-2500,0,'AM',25
-2501,0,'PM',25
-2600,0,'Loop',26
-2801,0,'Glen Abbey',28
-2800,0,'Oakville GO',28
-3200,0,'Bronte GO',32
-3201,0,'RioCan Ctr',32
-3300,0,'Loop',33
-10200,0,'Loop',102
-12000,0,'Loop',120
-19000,0,'AM',190
-19001,0,'PM',190
+104,0,'OakvilleGO',1
+103,0,'UptownCore',1
+201,0,'East',2
+202,0,'West',2
+303,0,'Hospital',3
+304,0,'SOakCentre',3
+401,0,'East',4
+402,0,'West',4
+502,0,'Palermo',5
+501,0,'UptownCore',5
+601,0,'East',6
+602,0,'West',6
+1002,0,'Bronte GO',10
+1001,0,'OakvilleGO',10
+1101,0,'Maplegrove',11
+1102,0,'OakvilleGO',11
+1302,0,'Bronte GO',13
+1301,0,'OakvilleGO',13
+1402,0,'BurloakDr',14
+1401,0,'OakvilleGO',14
+1501,0,'OakvilleGO',15
+1502,0,'SOakCentre',15
+1704,0,'Downtown',17
+1703,0,'OakvilleGO',17
+1802,0,'GA South',18
+1801,0,'OakvilleGO',18
+1904,0,'OakvilleGO',19
+1903,0,'UptownCore',19
+2004,0,'OakvilleGO',20
+2003,0,'UptownCore',20
+2101,0,'ClarksonGO',21
+2102,0,'Maplegrove',21
+2204,0,'Bronte GO',22
+2203,0,'UpGlnAbbey',22
+2404,0,'OakvilleGO',24
+2403,0,'SouthComm',24
+2502,0,'AspenForst',25
+2501,0,'ClarksonGO',25
+2603,0,'Falgarwood',26
+2604,0,'OakvilleGO',26
+2802,0,'GA North',28
+2801,0,'OakvilleGO',28
+3201,0,'Bronte GO',32
+3202,0,'RioCan',32
+3304,0,'Bronte GO',33
+3303,0,'Palermo',33
+7103,0,'UptownCore',71
+8202,0,'LCSS North',82
+8301,0,'TAB East',83
+8302,0,'TAB West',83
+8402,0,'OTHS-GO',84
+8601,0,'From GWHS',86
+8602,0,'To GWHS',86
+9004,0,'JohnRhodes',90
+9003,0,'Wal-Mart',90
+9101,0,'Oak Place',91
+9102,0,'OakSeniors',91
+9203,0,'Knox',92
+9204,0,'Oak Place',92
+10201,0,'ClarksonGO',102
+10202,0,'WinPark',102
+12001,0,'East Ind',120
+12002,0,'OakvilleGO',120
+19004,0,'OakvilleGO',190
+19003,0,'RO Express',190
+108101,0,'viaPalermo',1081
+208101,0,'via P Glen',2081
+508001,0,'From HTCSS',5080
+508002,0,'To HTCSS',5080
+1408103,0,'APHS North',14081
+1908104,0,'APHS South',19081
+2308004,0,'From HTCSS',23080
+2308003,0,'To HTCSS',23080
