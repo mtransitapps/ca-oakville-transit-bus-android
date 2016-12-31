@@ -53,6 +53,18 @@
 1058,'1058','Gln Vly Rd + Westoak Trails Blvd',43.451566,-79.730526
 1059,'1059','Gln Vly Rd + Oak Bliss Cr',43.450462,-79.731558
 1060,'1060','Gln Vly Rd + 4th Line',43.447285,-79.735068
+2137,'2137','1375 North Service Rd (East)',43.482447,-79.673332
+2138,'2138','Opposite 1375 North Service Rd (East)',43.482447,-79.673076
+2139,'2139','Industry St + South Service Rd (East)',43.469522,-79.674179
+2140,'2140','Chartwell Rd + South Of South Service Rd (East)',43.466772,-79.676397
+2141,'2141','468 South Service Rd (East)',43.465177,-79.678987
+2142,'2142','Opposite 468 South Service Rd (East)',43.465255,-79.679157
+2144,'2144','Opposite 374 South Service Rd (East)',43.46253,-79.681908
+2145,'2145','South Service Rd (East) + Davis Rd',43.459821,-79.681288
+2146,'2146','South Service Rd (East) + Davis Rd',43.459616,-79.68134
+2147,'2147','Dundas St (West) + Grand Oak Trl',43.437905,-79.77443
+2148,'2148','Dundas St (West) + Grand Oak Trl',43.437799,-79.773952
+2149,'2149','Hosp Gt + Volunteer Way',43.448847,-79.766398
 2150,'2150','Upper Middle Rd (West) East Of Grand Oakv Trl',43.428482,-79.752677
 2151,'2151','Upper Middle Rd (West) + East Of Grand Oak Trl',43.428597,-79.752981
 2152,'2152','Dundas + 4th Line',43.456951,-79.753542
@@ -277,6 +289,7 @@
 2405,'2405','Merchants Gt + Heritage Way',43.4326,-79.7402
 2406,'2406','Heritage Way + Merchants Gt',43.432214,-79.739938
 2407,'2407','Bridge Rd + Ventura Dr',43.401786,-79.722243
+2413,'2413','374 South Service Rd (East)',43.46249,-79.681795
 2417,'2417','Bronte Rd + Hixon St',43.3959,-79.7169
 2419,'2419','Bronte Rd + Rebecca St',43.3972,-79.7217
 2420,'2420','Oak Pk Blvd + Trafalgar Rd',43.483673,-79.714507
@@ -797,8 +810,8 @@
 3028,'3028','Colonel William Pkwy + Stocksbridge Ave',43.4241,-79.7748
 3029,'3029','Bronte Rd + Westoak Trails Blvd',43.4285,-79.7665
 3030,'3030','Dundas St (West) + Bronte Rd',43.435,-79.7774
-3031,'3031','Dundas St (West) + Postmaster Dr',43.443861,-79.768017
-3032,'3032','Dundas St (West) + Postmaster Dr',43.4432,-79.7682
+3031,'3031','Dundas St (West) + Postmaster Dr',43.443398,-79.768671
+3032,'3032','Dundas St (West) + Postmaster Dr',43.443869,-79.767557
 3033,'3033','Oakville Trafalgar Memorial Hosp',43.450067,-79.761438
 3034,'3034','Dundas St (West) + 3rd Line',43.450541,-79.760327
 3035,'3035','Dundas St (West) + Proudfoot Trl',43.453937,-79.756687
@@ -858,7 +871,6 @@
 3092,'3092','Ford Dr + Aspen Forest Dr 1st Stop',43.4828,-79.6445
 3093,'3093','Ford Dr + Devon Rd',43.480015,-79.640799
 3094,'3094','Ford Dr + Devon Rd',43.4802,-79.6413
-3096,'3096','Ford Dr + Lakeshore Rd (East)',43.476115,-79.635972
 3100,'3100','Oxford Ave + Ringwood Rd',43.45985,-79.712207
 3101,'3101','Oxford Ave + McCraney St (East)',43.457866,-79.710083
 3102,'3102','Culham St + Oxford Ave',43.456326,-79.707936
