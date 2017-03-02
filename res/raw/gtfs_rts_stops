@@ -18,10 +18,10 @@
 1016,'1016','Towne Blvd + Grovehill Rd',43.46868,-79.73861
 1017,'1017','Munns Ave + River Oaks Blvd (West)',43.464268,-79.722885
 1018,'1018','Munns Ave + Neyagawa Blvd',43.462394,-79.722548
-1019,'1019','Neyagawa Blvd East Of River Oaks Blvd',43.46071,-79.727737
+1019,'1019','Neyagawa Blvd + East Of River Oaks Blvd',43.46071,-79.727737
 1020,'1020','River Oaks Blvd (West) + Neyagawa Blvd',43.460736,-79.730489
 1021,'1021','River Gln Blvd + Mowat Ave',43.464139,-79.735807
-1022,'1022','River Gln Blvd North Of Neyagawa Blvd',43.461193,-79.73667
+1022,'1022','River Gln Blvd + North Of Neyagawa Blvd',43.461193,-79.73667
 1023,'1023','Neyagawa Blvd + Riverbank Way',43.463079,-79.743092
 1024,'1024','Towne Blvd + Grovehill Rd',43.468844,-79.738535
 1030,'1030','Proudfoot Trl + Waubanoka Way',43.449697,-79.745604
@@ -49,14 +49,14 @@
 1054,'1054','8th Line + Kestell Blvd',43.488098,-79.705515
 1055,'1055','Kestell Blvd + Coronation Dr',43.489937,-79.70357
 1056,'1056','Golden Briar Trl + Glenashton Dr',43.481691,-79.708049
-1057,'1057','Gln Vly Rd East Of 4th Line',43.448126,-79.733888
+1057,'1057','Gln Vly Rd + East Of 4th Line',43.448126,-79.733888
 1058,'1058','Gln Vly Rd + Westoak Trails Blvd',43.451566,-79.730526
 1059,'1059','Gln Vly Rd + Oak Bliss Cr',43.450462,-79.731558
 1060,'1060','Gln Vly Rd + 4th Line',43.447285,-79.735068
 2137,'2137','1375 North Service Rd (East)',43.482447,-79.673332
 2138,'2138','Opposite 1375 North Service Rd (East)',43.482447,-79.673076
 2139,'2139','Industry St + South Service Rd (East)',43.469522,-79.674179
-2140,'2140','Chartwell Rd + South Of South Service Rd (East)',43.466772,-79.676397
+2140,'2140','South Service Rd (East) + Chartwell Rd',43.466772,-79.677299
 2141,'2141','468 South Service Rd (East)',43.465177,-79.678987
 2142,'2142','Opposite 468 South Service Rd (East)',43.465255,-79.679157
 2144,'2144','Opposite 374 South Service Rd (East)',43.46253,-79.681908
@@ -65,7 +65,7 @@
 2147,'2147','Dundas St (West) + Grand Oak Trl',43.437905,-79.77443
 2148,'2148','Dundas St (West) + Grand Oak Trl',43.437799,-79.773952
 2149,'2149','Hosp Gt + Volunteer Way',43.448847,-79.766398
-2150,'2150','Upper Middle Rd (West) East Of Grand Oakv Trl',43.428482,-79.752677
+2150,'2150','Upper Middle Rd (West) + East Of Grand Oakv Trl',43.428482,-79.752677
 2151,'2151','Upper Middle Rd (West) + East Of Grand Oak Trl',43.428597,-79.752981
 2152,'2152','Dundas + 4th Line',43.456951,-79.753542
 2153,'2153','Dundas St (West) + 4th Line',43.456463,-79.7547
@@ -98,7 +98,7 @@
 2181,'2181','5155 Harvester',43.381984,-79.762935
 2182,'2182','Harvester Rd + East Of Appleby Line',43.377924,-79.766827
 2183,'2183','Harvester Rd + South Service Rd',43.379256,-79.765769
-2184,'2184','Appleby Line @ Harvester Rd',43.376898,-79.766533
+2184,'2184','Appleby Line @ Harvester Rd',43.376516,-79.766033
 2185,'2185','Fairview St + East Of Appleby Line',43.373899,-79.761654
 2186,'2186','Fairview St + Appleby Line',43.373988,-79.761995
 2187,'2187','Fairview St @ Appleby GO Sta',43.377223,-79.758381
@@ -109,7 +109,7 @@
 2194,'2194','Dundas St + Sutton Dr',43.412383,-79.801999
 2195,'2195','Dundas St + Sutton Dr',43.411808,-79.802081
 2196,'2196','Dundas St + Appleby Line',43.407271,-79.807746
-2197,'2197','Dundas St + Appleby Line',43.407688,-79.806625
+2197,'2197','Dundas St + Appleby Line',43.407258,-79.807077
 2198,'2198','Dundas St + Cornerstone Dr',43.401057,-79.814184
 2199,'2199','Dundas + Millcroft Pk',43.400499,-79.814295
 2200,'2200','Dundas St + Tim Dobbie Dr',43.398235,-79.817309
@@ -145,7 +145,7 @@
 2230,'2230','Pilgrims Way + Potters Wheel Cr',43.435534,-79.720511
 2231,'2231','Upper Middle Rd (West) + Elm Rd',43.4648,-79.7136
 2232,'2232','Upper Middle Rd (West) + 4th Line',43.446453,-79.733781
-2233,'2233','6th Line + Upper Middle Rd (East)',43.466262,-79.71096
+2233,'2233','6th Line + Upper Middle Rd (East)',43.466436,-79.711186
 2234,'2234','Leighland Ave + Bomorda Dr',43.455657,-79.695349
 2235,'2235','River Oaks Blvd (East) + Mt Dr',43.4764,-79.7064
 2236,'2236','River Oaks Blvd (East) + Oak Spgs Rd',43.4755,-79.7084
@@ -163,7 +163,7 @@
 2248,'2248','8th Line + Grenville Dr',43.482675,-79.698504
 2249,'2249','Westoak Trails Blvd + Bronte Rd',43.428681,-79.764909
 2250,'2250','Oakville Trafalgar Memorial Hosp - North Entrance',43.45181,-79.76568
-2251,'2251','3rd Line North Of Abbeywood Dr',43.43021,-79.73277
+2251,'2251','3rd Line + North Of Abbeywood Dr',43.43021,-79.73277
 2252,'2252','Rio Can Ctr @ Longos',43.3976,-79.7484
 2253,'2253','Rio Can Ctr',43.3971,-79.7515
 2254,'2254','Great Lks Blvd + Spg Azure Cr',43.378,-79.7207
@@ -176,7 +176,7 @@
 2261,'2261','Oakville Trafalgar Memorial Hosp - East Entrance',43.45176,-79.76371
 2263,'2263','Lakeshore Rd (West) + Great Lks Blvd',43.376761,-79.718473
 2264,'2264','Upper Middle Rd (West) + Nottinghill Gt',43.44576,-79.734025
-2266,'2266','8th Line + Falgarwood Dr',43.4721,-79.6837
+2266,'2266','8th Line + Falgarwood Dr',43.472173,-79.683777
 2267,'2267','Lancaster Dr + Fairbanks Pl',43.479066,-79.688721
 2268,'2268','White Oaks Blvd + Erin St',43.4723,-79.6946
 2269,'2269','White Oaks Blvd + Litchfield Rd',43.4737,-79.6971
@@ -188,7 +188,7 @@
 2275,'2275','Bristol Cr + Coventry Rd',43.508359,-79.682995
 2276,'2276','Bristol Cr + Brighton Rd',43.509758,-79.684921
 2277,'2277','Bristol Cr + Portland Dr',43.511175,-79.686868
-2278,'2278','Bristol Cr + Hyde Pk Gt',43.5135,-79.688
+2278,'2278','Bristol Cr + Hyde Pk Gt',43.51333,-79.688193
 2279,'2279','Bristol Cr + Hampshire Gt',43.5188,-79.6823
 2280,'2280','Bristol Cr + Dover Gt',43.518448,-79.678246
 2281,'2281','Bristol Cr + Brighton Rd',43.5173,-79.6768
@@ -198,7 +198,7 @@
 2285,'2285','Reynolds St + Randall St',43.449,-79.667
 2286,'2286','Wildwood Dr + 4th Line',43.431241,-79.698839
 2287,'2287','River Oaks Blvd (West) + Marisha Ct',43.4646,-79.7254
-2288,'2288','Lakeshore Rd (West) + Shelburne Pl',43.3824,-79.7174
+2288,'2288','Lakeshore Rd (West) + Shelburne Pl',43.381707,-79.717413
 2289,'2289','Speers Rd + Woody Rd',43.4436,-79.6903
 2290,'2290','Sheridan Gdn Dr + Ford Dr',43.491864,-79.655416
 2291,'2291','Postridge Dr + English Rose Ln',43.4898,-79.7155
@@ -206,22 +206,22 @@
 2293,'2293','8th Line + Grand Blvd',43.476221,-79.688994
 2294,'2294','8th Line + Grand Blvd',43.4764,-79.6895
 2295,'2295','8th Line + Lincoln Gt',43.478802,-79.692521
-2296,'2296','8th Line + Lincoln Gt',43.4789,-79.6929
+2296,'2296','8th Line + Lincoln Gt',43.478906,-79.69293
 2297,'2297','North RidgeTrail + Prince Michael Dr',43.494782,-79.705859
 2298,'2298','North Rdg Trl + Nichols Dr',43.491151,-79.711245
 2299,'2299','North RidgeTrail + 8th Line',43.491477,-79.710563
-2300,'2300','Oak Pk Blvd + Oak Walk Dr',43.4832,-79.7226
-2301,'2301','Burnhamthorpe Rd (West) West Of Tamarack Gt',43.537878,-79.698494
+2300,'2300','Oak Pk Blvd + Oak Walk Dr',43.482754,-79.72202
+2301,'2301','Burnhamthorpe Rd (West) + West Of Tamarack Gt',43.537878,-79.698494
 2302,'2302','3rd Line + Rebecca St',43.410582,-79.706624
 2303,'2303','Devon Rd + Maple Grv Dr',43.476172,-79.653225
 2304,'2304','Great Lks @ 500',43.385916,-79.739218
 2305,'2305','Reynolds St + Sheddon Ave',43.4516,-79.6717
 2306,'2306','Reynolds St + Sheddon Ave',43.4515,-79.6714
 2307,'2307','Reynolds St + Palmer Ave',43.4508,-79.6701
-2308,'2308','Reynolds St South Of MacDonald Rd',43.4531,-79.6741
+2308,'2308','Reynolds St + South Of MacDonald Rd',43.4531,-79.6741
 2309,'2309','Linbrook Rd + Chartwell Rd',43.46237,-79.670043
 2310,'2310','Devon Rd + Wedgewood Dr',43.472509,-79.656556
-2311,'2311','Devon Rd West Of Maple Grv Dr',43.4759,-79.6533
+2311,'2311','Devon Rd + West Of Maple Grv Dr',43.4759,-79.6533
 2312,'2312','Cornwall Rd + Cardiff Dr',43.4853,-79.6535
 2313,'2313','Cornwall Rd + Cardiff Dr',43.485814,-79.653323
 2314,'2314','Dundas St (West) + Ridgeway Dr',43.518,-79.6871
@@ -236,7 +236,7 @@
 2323,'2323','Great Lks Blvd + Rebecca St',43.384742,-79.734001
 2324,'2324','Burloak Dr + Superior Ct',43.3882,-79.7465
 2325,'2325','Burloak Dr + Prince William Dr',43.3882,-79.7471
-2326,'2326','Lakeshore Rd (West) + Shelburne Pl',43.3821,-79.7172
+2326,'2326','Lakeshore Rd (West) + Shelburne Pl',43.381828,-79.717203
 2327,'2327','Lakeshore Rd (West) + Shell Pk',43.380004,-79.717444
 2328,'2328','Lakeshore Rd (West) + Shr Gdns',43.384003,-79.717138
 2329,'2329','Lakeshore Rd (West) + Chalmers St',43.3843,-79.7173
@@ -290,7 +290,7 @@
 2406,'2406','Heritage Way + Merchants Gt',43.432214,-79.739938
 2407,'2407','Bridge Rd + Ventura Dr',43.401786,-79.722243
 2413,'2413','374 South Service Rd (East)',43.46249,-79.681795
-2417,'2417','Bronte Rd + Hixon St',43.3959,-79.7169
+2417,'2417','Bronte Rd + Hixon St',43.395651,-79.716263
 2419,'2419','Bronte Rd + Rebecca St',43.3972,-79.7217
 2420,'2420','Oak Pk Blvd + Trafalgar Rd',43.483673,-79.714507
 2421,'2421','Bronte GO Sta',43.416332,-79.724001
@@ -304,17 +304,17 @@
 2429,'2429','3rd Line + Warbler Rd',43.4437,-79.7516
 2430,'2430','3rd Line + Springdale Rd',43.4438,-79.7522
 2431,'2431','3rd Line + Liverpool St',43.445,-79.7534
-2432,'2432','3rd Line North Of Pine Gln Rd',43.449147,-79.759058
+2432,'2432','3rd Line + North Of Pine Gln Rd',43.449147,-79.759058
 2434,'2434','Dundas St (West) + Hosp Gt',43.447173,-79.764565
 2435,'2435','Dundas St (West) + Hosp Gt',43.447701,-79.763386
 2437,'2437','Upper Middle Rd (West) + Dorval Dr',43.450332,-79.728997
-2438,'2438','Upper Middle Rd (West) East Of Westoak Trails Blvd',43.45106,-79.728781
+2438,'2438','Upper Middle Rd (West) + East Of Westoak Trails Blvd',43.45106,-79.728781
 2439,'2439','Upper Middle Rd (East) + Golden Mdw',43.4787,-79.6978
 2440,'2440','Upper Middle Rd + Golden Mdw Tr',43.4788,-79.6974
 2441,'2441','Grand Oak Trl + Westoak Trails Blvd',43.429715,-79.762041
 2442,'2442','Westoak Trails Blvd + Garth Webb S.S.',43.435052,-79.755677
-2443,'2443','West Oak Trails Blvd @ Garth Webb S. S.',43.4351,-79.7553
-2444,'2444','Westoak Trails Blvd + Shorncliffe Blvd',43.43701,-79.753298
+2443,'2443','West Oak Trails Blvd @ Garth Webb S. S.',43.434579,-79.755926
+2444,'2444','Westoak Trails Blvd + Shorncliffe Blvd',43.437592,-79.752682
 2445,'2445','Pine Gln Rd + Lazio Ln',43.4501,-79.7555
 2446,'2446','Proudfoot Trl + Ridgebank Dr',43.4515,-79.7486
 2447,'2447','Upper Middle Rd (East) + 8th Line',43.481582,-79.694264
@@ -411,7 +411,7 @@
 2556,'2556','Queen Mary Dr + Kingswood Rd',43.4483,-79.6826
 2557,'2557','Queen Mary Dr + Kingswood Rd',43.4482,-79.6828
 2558,'2558','230 Speers Rd',43.443677,-79.689946
-2559,'2559','Speers Rd East Of Kerr St',43.447365,-79.686133
+2559,'2559','Speers Rd + East Of Kerr St',43.447365,-79.686133
 2560,'2560','Kerr St + Wyecroft Rd',43.45,-79.693
 2561,'2561','Kerr St + Wyecroft Rd',43.4502,-79.6929
 2562,'2562','225 Wyecroft Rd',43.4477,-79.6945
@@ -434,10 +434,10 @@
 2584,'2584','Winston Churchill Blvd + Dundas St (West)',43.522884,-79.682052
 2585,'2585','Dundas St (West) + Hampshire Gt',43.5206,-79.6843
 2586,'2586','North RidgeTrail + Postridge Dr',43.4885,-79.7126
-2587,'2587','Upper Middle Rd (East) East Of 9th Line',43.4975,-79.6773
+2587,'2587','Upper Middle Rd (East) + East Of 9th Line',43.4975,-79.6773
 2589,'2589','3rd Line + Abbeywood Dr',43.4288,-79.7308
 2590,'2590','3rd Line + King''s College Dr',43.429,-79.7315
-2591,'2591','3rd Line South Of Greenridge Cir',43.4305,-79.7336
+2591,'2591','3rd Line + South Of Greenridge Cir',43.4305,-79.7336
 2592,'2592','Gln Abbey Gt + 3rd Line',43.435,-79.7377
 2593,'2593','3rd Line + Greenridge Cr',43.432,-79.7356
 2595,'2595','Maple Ave + Chartwell Rd',43.4621,-79.6702
@@ -486,7 +486,7 @@
 2640,'2640','Upper Middle Rd (West) + Bloomfield Dr',43.441652,-79.739021
 2641,'2641','Upper Middle Rd (West) + Bishops Gt',43.441,-79.7392
 2642,'2642','Upper Middle Rd (West) + Deer Pk Rd',43.4438,-79.7362
-2643,'2643','Grand Oak Trl + Appalachain Dr',43.429244,-79.761672
+2643,'2643','Grand Oak Trl + Appalachian Dr',43.429244,-79.761672
 2644,'2644','Bridge Rd + Seabourne Dr',43.4167,-79.7112
 2645,'2645','Bridge Rd + Trudale Ct',43.417,-79.7107
 2646,'2646','Bridge Rd + Warminster Dr',43.4229,-79.7049
@@ -540,14 +540,14 @@
 2695,'2695','530 Speers Rd',43.4355,-79.7
 2696,'2696','427 Speers Rd',43.438167,-79.696149
 2697,'2697','440 Speers Rd',43.438051,-79.695989
-2698,'2698','Speers Rd + Morden Rd',43.4402,-79.694
+2698,'2698','Speers Rd + Morden Rd',43.439971,-79.694262
 2699,'2699','Speers Rd + Morden Rd',43.4401,-79.6937
 2700,'2700','North RidgeTrail + Dunholm Gt',43.494576,-79.706188
-2701,'2701','Speers Rd East Of Dorval Dr',43.442326,-79.691373
+2701,'2701','Speers Rd + East Of Dorval Dr',43.442326,-79.691373
 2702,'2702','Winston Churchill Blvd + Plymouth Dr',43.5159,-79.6725
 2703,'2703','Bridge Rd + Lees Ln',43.425521,-79.70215
 2704,'2704','Wyecroft Rd + South Service Rd (West)',43.4436,-79.699
-2705,'2705','Wyecroft Rd + South Service Rd (West)',43.4436,-79.6993
+2705,'2705','Wyecroft Rd + West Of South Service Rd',43.443828,-79.699012
 2706,'2706','Wyecroft Rd + Weller Ct',43.4427,-79.7001
 2707,'2707','Wyecroft Rd + Weller Ct',43.4429,-79.7001
 2708,'2708','Wyecroft Rd @ Oakville Transit',43.4405,-79.7027
@@ -563,7 +563,7 @@
 2718,'2718','North RidgeTrail + Felhaber Cr',43.493606,-79.708322
 2719,'2719','Speers Rd + Dorval Dr',43.441,-79.6927
 2720,'2720','Speers Rd + Dorval Dr',43.441929,-79.692225
-2721,'2721','Abbeywood Dr + 3rd Line',43.429225,-79.730817
+2721,'2721','Abbeywood Dr + 3rd Line',43.429527,-79.730447
 2722,'2722','Abbeywood Dr + Fairmeadow Trl',43.430041,-79.728392
 2723,'2723','Abbeywood Dr + Fieldstone Cir',43.43015,-79.726866
 2724,'2724','Abbeywood Dr + Fieldstone Cir',43.4303,-79.7269
@@ -589,7 +589,7 @@
 2745,'2745','North Service Rd (West) + Lindsay Dr',43.4452,-79.7052
 2746,'2746','North Service Rd (West) + Dorval Dr',43.4481,-79.706
 2747,'2747','North Service Rd (West) + Dorval Dr',43.4479,-79.7058
-2748,'2748','North Service Rd (West) East Of Dorval Dr',43.450481,-79.702401
+2748,'2748','North Service Rd (West) + East Of Dorval Dr',43.450481,-79.702401
 2750,'2750','McCraney St (East) + Romain Cr',43.465534,-79.695673
 2751,'2751','McCraney St (East) + Kirstie Cr',43.4657,-79.6966
 2752,'2752','McCraney St (East) + Sewell Dr',43.465196,-79.692355
@@ -627,7 +627,7 @@
 2794,'2794','Sheridan Gdn Dr + Ford Dr',43.49194,-79.655608
 2795,'2795','Gable Dr + Sheridan Gdn Dr',43.492702,-79.654771
 2796,'2796','Sheridan Gdn Dr + Thoresby Dr',43.4961,-79.6516
-2797,'2797','Sheridan Gdn Dr + Jonathan Dr',43.4992,-79.6521
+2797,'2797','Sheridan Gdn Dr + Jonathan Dr',43.49888,-79.651984
 2800,'2800','Gable Dr + Lansdown Dr',43.493126,-79.657699
 2801,'2801','Gable Dr + Lansdown Dr',43.492982,-79.657483
 2802,'2802','Wynten Way + Gable Dr',43.4943,-79.6604
@@ -636,12 +636,12 @@
 2827,'2827','Glenashton Dr + Windfield Dr',43.47729,-79.714361
 2828,'2828','Heritage Way + Stonecutter Dr',43.428371,-79.744544
 2829,'2829','Devon Rd + Ford Dr',43.4799,-79.6411
-2832,'2832','Devon Rd East Of Maple Grv Dr',43.4762,-79.6529
+2832,'2832','Devon Rd + East Of Maple Grv Dr',43.4762,-79.6529
 2834,'2834','Ford Dr + Royal Windsor Dr',43.488638,-79.650988
-2835,'2835','Upper Middle Rd (East) West Of Grosvenor St',43.4836,-79.6924
+2835,'2835','Upper Middle Rd (East) + West Of Grosvenor St',43.4836,-79.6924
 2836,'2836','8th Line + Granby Dr',43.4819,-79.6971
-2837,'2837','Upper Middle Rd (East) West Of Grand Blvd',43.4869,-79.6887
-2838,'2838','Upper Middle Rd (East) West Of Grand Blvd',43.4866,-79.6887
+2837,'2837','Upper Middle Rd (East) + West Of Grand Blvd',43.4869,-79.6887
+2838,'2838','Upper Middle Rd (East) + West Of Grand Blvd',43.4866,-79.6887
 2839,'2839','Upper Middle Rd (East) + Grand Blvd',43.4888,-79.6863
 2840,'2840','Upper Middle Rd (East) + Grand Blvd',43.489242,-79.686173
 2841,'2841','Glenashton Dr + Grand Blvd',43.4909,-79.6934
@@ -652,13 +652,13 @@
 2851,'2851','White Oaks Blvd + Elora Ct',43.4736,-79.696
 2852,'2852','Upper Middle Rd (East) + Martindale Ave 2nd Stop',43.4724,-79.7044
 2853,'2853','Upper Middle Rd (East) + Oak Spgs Rd',43.4728,-79.7044
-2854,'2854','Upper Middle Rd (East) + Golden Briar Trl',43.476998,-79.699612
+2854,'2854','Upper Middle Rd (East) + Golden Briar Trl',43.476695,-79.699992
 2855,'2855','Golden Briar Trl + Laurelwood Dr',43.476996,-79.701251
 2856,'2856','Upper Middle Rd (East) + Golden Briar Tr',43.4767,-79.7003
 2857,'2857','Golden Briar Tr + Old Orchard Cr',43.477553,-79.702308
 2858,'2858','Golden Briar Trl + Briarhall Gt',43.478572,-79.704335
 2859,'2859','Burloak Ave + Adele Rd',43.384252,-79.741605
-2860,'2860','Burloak Ave + Adele Rd',43.384121,-79.741156
+2860,'2860','Burloak Ave + Adele Rd',43.384626,-79.741786
 2861,'2861','Burloak Ave + Fothergill Blvd',43.3829,-79.7399
 2862,'2862','Great Lks Blvd + Nautical Blvd',43.380976,-79.725883
 2863,'2863','Rebecca St + Mississaga St',43.392456,-79.725963
@@ -706,7 +706,7 @@
 2907,'2907','River Oaks Blvd (East) + Pelee Blvd',43.471789,-79.714937
 2918,'2918','Lakeshore Rd + Ford Dr',43.4761,-79.6355
 2919,'2919','Lakeshore Rd (East) + Kingsford Pl',43.476,-79.6354
-2920,'2920','Lakeshore Rd (East) East Of Kingsford Pl',43.4774,-79.6339
+2920,'2920','Lakeshore Rd (East) + East Of Kingsford Pl',43.4774,-79.6339
 2921,'2921','Devon Rd + Lakeshore Rd (East)',43.479392,-79.632124
 2922,'2922','Devon Rd + Lakeshore Rd (East)',43.4798,-79.6324
 2923,'2923','Devon Rd + Canso Rd',43.4805,-79.6336
@@ -720,8 +720,8 @@
 2931,'2931','Devon Rd + Ford Dr',43.4803,-79.641
 2932,'2932','Devon Rd + Elmhurst Ave',43.478551,-79.642861
 2933,'2933','Devon Rd + Ash Tree Way',43.47872,-79.643996
-2934,'2934','Devon Rd + Adair Cr',43.479279,-79.647409
-2935,'2935','Devon Rd + Adair Cr',43.479376,-79.647899
+2934,'2934','Devon Rd + Adair Cr',43.479313,-79.64641
+2935,'2935','Devon Rd + Brookmill Rd',43.479362,-79.648404
 2937,'2937','475 Iroquois Shr Rd',43.46705,-79.682231
 2938,'2938','Iroquois Shr Rd + 8th Line',43.4691,-79.6807
 2939,'2939','Iroquois Shr Rd + 8th Line',43.469276,-79.680183
@@ -753,17 +753,17 @@
 2965,'2965','McCraney St (East) + Montclair Dr',43.465,-79.7004
 2966,'2966','McCraney St (East) + Kirstie Ct',43.465441,-79.698197
 2967,'2967','North RidgeTrail + Coronation Dr',43.4933,-79.7084
-2968,'2968','Oakv Walk Dr + Oak Pk Blvd',43.483479,-79.721366
-2969,'2969','Oakv Walk Dr + Oak Pk Blvd',43.483524,-79.721535
+2968,'2968','Oak Walk Dr + Oak Pk Blvd',43.483479,-79.721366
+2969,'2969','Oak Walk Dr + Oak Pk Blvd',43.483524,-79.721535
 2972,'2972','Bronte Rd + Sovereign St',43.394675,-79.713838
 2973,'2973','Hyde Pk Gt + Dundas St (East)',43.5155,-79.6891
 2974,'2974','Dundas St (West) + Winston Pk Dr',43.51738,-79.687158
 2975,'2975','Bristol Cr + Buckingham Rd',43.506253,-79.673038
-2976,'2976','1075 North Service Rd (West)',43.437,-79.7115
+2976,'2976','1075 North Service Rd (West)',43.437383,-79.71116
 2977,'2977','1155 North Service Rd (West)',43.4355,-79.7137
-2978,'2978','1235 North Service Rd (West)',43.4327,-79.7163
+2978,'2978','1235 North Service Rd (West)',43.432996,-79.716127
 2979,'2979','1155 North Service Rd (West)',43.4355,-79.7134
-2980,'2980','Speers Rd West Of Kerr St',43.4459,-79.688
+2980,'2980','Speers Rd + West Of Kerr St',43.4459,-79.688
 2981,'2981','Speers Rd + Kerr St',43.4465,-79.6869
 2982,'2982','Upper Middle Rd (West) + 6th Line',43.466268,-79.711516
 2983,'2983','6th Line + Elm Rd',43.4648,-79.7092
@@ -776,7 +776,7 @@
 2992,'2992','Winston Pk Dr + Upper Middle Rd (East)',43.5082,-79.6687
 2993,'2993','Winston Pk Dr + Upper Middle Rd (East)',43.5078,-79.6685
 2994,'2994','Bridge Rd + Seymour Dr',43.4074,-79.7204
-2995,'2995','Bridge Rd West Of Wyandotte Dr',43.405464,-79.722725
+2995,'2995','Bridge Rd + West Of Wyandotte Dr',43.405464,-79.722725
 2996,'2996','Bridge Rd + Trevor Dr',43.4033,-79.7234
 2997,'2997','2401 Royal Windsor Dr',43.492738,-79.649921
 2998,'2998','2402 Royal Windsor Dr',43.492747,-79.649535
@@ -839,7 +839,7 @@
 3058,'3058','Speers Rd + 4th Line',43.4345,-79.701
 3059,'3059','Winston Churchill Blvd + Sheridan Pk Dr',43.51572,-79.671743
 3060,'3060','Cornwall Rd + Maple Grv Dr',43.4793,-79.6582
-3061,'3061','1453 Cornwall Rd',43.4771,-79.6608
+3061,'3061','1453 Cornwall Rd',43.476886,-79.660976
 3062,'3062','Cornwall Rd @ Cornwall Woods',43.4737,-79.6641
 3063,'3063','Cornwall Rd @ Cornwall Woods',43.4737,-79.6637
 3064,'3064','Cornwall Rd + Morrison Rd',43.4718,-79.6667
@@ -881,7 +881,7 @@
 3107,'3107','1275 North Service Rd (West)',43.430901,-79.718346
 3108,'3108','1275 North Service Rd (West)',43.431,-79.718
 3110,'3110','6th Line @ Holy Trinity H. S.',43.471828,-79.723502
-3111,'3111','North RidgeTrail + Postridge Dr',43.4888,-79.7125
+3111,'3111','North RidgeTrail + Postridge Dr',43.488643,-79.712741
 3112,'3112','Rebecca St + Mississaga St',43.393,-79.7257
 3113,'3113','South Oakville Ctr',43.412078,-79.705097
 3114,'3114','Bridge Rd + Tennyson Dr',43.414624,-79.713255
@@ -896,7 +896,7 @@
 3125,'3125','4th Line + Bridge Rd',43.4294,-79.6967
 3126,'3126','Bridge Rd + Brookdale Public School',43.4243,-79.7034
 3127,'3127','Lakeshore Rd (West) + Shell Pk',43.3798,-79.7173
-3130,'3130','3rd Line South Of Upper Middle Rd (West)',43.4364,-79.7416
+3130,'3130','3rd Line + South Of Upper Middle Rd (West)',43.4364,-79.7416
 3131,'3131','Westoak Trails Blvd + Stillmeadow Rd',43.4408,-79.7495
 3133,'3133','Royal Windsor Dr + Winston Churchill Blvd',43.4973,-79.6451
 3134,'3134','430 Wyecroft Rd @ Oakville Transit',43.4411,-79.7018
@@ -924,7 +924,7 @@
 3161,'3161','3rd Line + Hixon St',43.4083,-79.7034
 3162,'3162','3rd Line + Hixon St',43.408231,-79.70293
 3163,'3163','North Service Rd (West) + 4th Line',43.4406,-79.7076
-3164,'3164','North Service Rd (West) + 4th Line',43.440054,-79.70784
+3164,'3164','North Service Rd (West) + 4th Line',43.43978,-79.708384
 3169,'3169','Trafalgar Rd + South Service Rd (East)',43.4585,-79.6817
 3170,'3170','Trafalgar Rd + Oak Pk Blvd',43.4832,-79.7135
 3172,'3172','Oakville GO Sta',43.4558,-79.6824
@@ -964,7 +964,7 @@
 3224,'3224','Trafalgar Rd + Upper Middle Rd',43.4753,-79.7027
 3226,'3226','Taunton Rd + Hays Blvd',43.484108,-79.717855
 3228,'3228','North Service Rd (West) + Dorval Dr',43.450813,-79.701286
-3229,'3229','Kerr St North Of Wyecroft Rd - Canadian Tire',43.451083,-79.697062
+3229,'3229','Kerr St + North Of Wyecroft Rd - Canadian Tire',43.451083,-79.697062
 3230,'3230','Kerr St + Canadian Tire',43.4506,-79.6976
 3231,'3231','3rd Line + Wyecroft Rd',43.422,-79.7224
 3233,'3233','Uptown Core Terminal',43.485887,-79.719198
@@ -987,9 +987,9 @@
 3265,'3265','3rd Line + Rebecca St',43.4104,-79.7059
 3266,'3266','Colonel William Pkwy + Stalybridge Dr',43.4277,-79.7819
 3269,'3269','Bronte + Upper Middle Rd (West)',43.4224,-79.7583
-3270,'3270','Royal Windsor Dr East Of Winston Churchill Blvd',43.497823,-79.644043
+3270,'3270','Royal Windsor Dr + East Of Winston Churchill Blvd',43.497823,-79.644043
 3271,'3271','Bronte Rd + Upper Middle Rd',43.4227,-79.7582
-3272,'3272','2645 Royal Windsor Dr',43.498319,-79.643938
+3272,'3272','2645 Royal Windsor Dr',43.498643,-79.643575
 3273,'3273','2555 Royal Windsor Dr',43.499813,-79.642327
 3274,'3274','2480 Royal Windsor Dr',43.501357,-79.640189
 3275,'3275','Royal Windsor Dr + Avonhead Rd',43.504874,-79.636399
@@ -998,32 +998,32 @@
 3278,'3278','2265 Royal Windsor Dr',43.506063,-79.635588
 3279,'3279','2165 Royal Windsor Dr',43.508545,-79.632911
 3280,'3280','2200 Royal Windsor Dr',43.507682,-79.633227
-3281,'3281','Winston Churchill Blvd + Dundas St',43.5238,-79.6828
-3282,'3282','Winston Churchill Blvd South Of Laird Rd',43.52441,-79.684062
+3281,'3281','Winston Churchill Blvd + Dundas St',43.523485,-79.682356
+3282,'3282','Winston Churchill Blvd + South Of Laird Rd',43.52441,-79.684062
 3283,'3283','Winston Churchill Blvd + Laird Rd',43.525126,-79.6846
 3284,'3284','Winston Churchill Blvd + Laird Rd',43.52555,-79.685629
 3285,'3285','Winston Churchill Blvd + Frankston Rd',43.5272,-79.6875
 3286,'3286','Winston Churchill Blvd + Orleans Rd',43.52726,-79.688038
-3287,'3287','Winston Churchill Blvd + The College Way',43.5294,-79.691
+3287,'3287','Winston Churchill Blvd + South Of The Collegeway',43.5294,-79.691
 3288,'3288','Winston Churchill Blvd + The College Way',43.530834,-79.692448
-3289,'3289','Winston Churchill Blvd + Split Maple Gt',43.530969,-79.693039
-3290,'3290','Winston Churchill Blvd + Burnhamthorpe Rd (West)',43.533884,-79.697038
+3289,'3289','Winston Churchill Blvd + The Collegeway',43.530969,-79.693039
+3290,'3290','Winston Churchill Blvd + Cornish Rd',43.533884,-79.697038
 3291,'3291','Burnhamthorpe Rd (West) + Tamarack Gt',43.539642,-79.696581
-3292,'3292','Burnhamthorpe Rd (West) + Folkway Dr',43.541653,-79.694262
-3293,'3293','Burnhamthorpe Rd (West) + Gln Erin Dr',43.542477,-79.692834
-3294,'3294','Burnhamthorpe Rd (West) + Gln Erin Dr',43.543505,-79.689739
-3296,'3296','South Millway + The Collegeway',43.54154,-79.682625
-3297,'3297','The Collegeway + South Millway',43.539761,-79.681499
+3292,'3292','Burnhamthorpe Rd (West) + West Of Folkway Dr',43.541653,-79.694262
+3293,'3293','Burnhamthorpe Rd (West) + West Of Gln Erin Dr',43.542668,-79.692295
+3294,'3294','Burnhamthorpe Rd (West) + East Of Gln Erin Dr',43.543505,-79.689739
+3296,'3296','South Millway + North Of The Collegeway',43.54154,-79.682625
+3297,'3297','The Collegeway + East Of Hornbeam Cr',43.539761,-79.681499
 3298,'3298','The Collegeway + Hornbeam Cr',43.537349,-79.683419
 3300,'3300','The Collegeway + Gln Erin Dr',43.536686,-79.685175
-3301,'3301','The Collegeway + Spruce Needle Dr',43.535428,-79.687631
+3301,'3301','The Collegeway + Windjammer Rd',43.535428,-79.687631
 3302,'3302','The Collegeway + Council Ring Rd',43.531906,-79.691416
 3303,'3303','South Service Rd (West) + 4th Line',43.4366,-79.7067
 3304,'3304','South Service Rd (West) + Redwood Sq',43.434461,-79.709176
 3305,'3305','1150 South Service Rd (West)',43.4328,-79.7119
 3306,'3306','Culham St + Osborne Cr',43.4583,-79.7055
 3307,'3307','Bronte Rd + Highvalley Rd',43.4318,-79.7736
-3308,'3308','Bronte Rd + Khalsa Gt',43.4303,-79.7708
+3308,'3308','Bronte Rd + Khalsa Gt',43.43007,-79.770254
 3309,'3309','Bronte Rd + Halton Region',43.4132,-79.7449
 3310,'3310','Bronte Rd @ Woodlands Operation Ctr',43.4154,-79.7478
 3312,'3312','Wyecroft Rd + 4th Line',43.4377,-79.706
@@ -1052,7 +1052,7 @@
 3335,'3335','Upper Middle Rd (West) + 3rd Line',43.4392,-79.7412
 3336,'3336','Glenashton Dr + Central Pk Dr',43.477121,-79.722773
 3337,'3337','Glenashton Dr + Central Pk Dr',43.4769,-79.7231
-3342,'3342','Bristol Cr South Of Brighton Rd',43.5158,-79.6757
+3342,'3342','Bristol Cr + South Of Brighton Rd',43.5158,-79.6757
 3343,'3343','Bronte Rd @ Woodlands Operation Ctr',43.4155,-79.7485
 3344,'3344','Kerr St + Speers Rd',43.4466,-79.6865
 3345,'3345','River Oaks Blvd (West) + Munns Ave',43.464343,-79.723154
@@ -1071,7 +1071,7 @@
 3359,'3359','2190 Speers Rd',43.4128,-79.7215
 3360,'3360','2075 Speers Rd',43.416778,-79.719556
 3361,'3361','2070 Speers Rd',43.417,-79.7191
-3362,'3362','Upper Middle Rd (East) East Of Ford Dr',43.497428,-79.676951
+3362,'3362','Upper Middle Rd (East) + East Of Ford Dr',43.497428,-79.676951
 3363,'3363','Upper Middle Rd (West) + Colonel William Pkwy',43.4205,-79.7616
 3364,'3364','Great Lks Blvd + Rebecca St',43.3844,-79.7339
 3365,'3365','Great Lks Blvd + Crk Path Ave',43.383812,-79.73294
@@ -1122,11 +1122,11 @@
 3426,'3426','Dundas St (East) + Prince Michael Dr',43.4978,-79.709
 3427,'3427','Dundas St (East) + 8th Line',43.4938,-79.7128
 3428,'3428','Dundas St (East) + 8th Line',43.493547,-79.713617
-3429,'3429','Dundas St (East) + Meadowridge Dr',43.5023,-79.7035
+3429,'3429','Dundas St (East) + Meadowridge Dr',43.502541,-79.703333
 3430,'3430','Dundas St (East) + Postridge Dr',43.490528,-79.716977
 3431,'3431','Dundas St (East) + Postridge Dr',43.490825,-79.716167
 3433,'3433','Westoak Trails Blvd + Brookhaven Cr',43.436567,-79.75405
 3434,'3434','Westoak Trails Blvd + Arbourview Dr',43.435979,-79.754401
 3435,'3435','Dundas St (West) + Proudfoot Tr',43.453439,-79.757887
-3437,'3437','8th Line North Of Falgarwood Dr',43.474197,-79.686242
-3438,'3438','8th Line South Of Grand Blvd',43.474145,-79.686407
+3437,'3437','8th Line North Of Falgarwood Dr',43.474114,-79.686167
+3438,'3438','8th Line + South Of Grand Blvd',43.474145,-79.686407
