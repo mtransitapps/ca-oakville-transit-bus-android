@@ -2,12 +2,10 @@
 1000,'1000','John R Rhodes - Seniors Residence',43.443333,-79.679046
 1001,'1001','Oaktown Plz',43.446541,-79.688453
 1002,'1002','Trafalgar Vlg',43.455431,-79.687097
-1003,'1003','Oakville Pl',43.460343,-79.687596
-1004,'1004','Walmart',43.483508,-79.718756
+1003,'1003','Oakville Pl',43.461813,-79.687936
+1004,'1004','Walmart',43.483327,-79.719038
 1005,'1005','Oakville Senior Citizens Residence',43.399518,-79.705226
-1006,'1006','Bronte Vlg Mall',43.395685,-79.711316
 1007,'1007','250 Woodside Dr',43.415874,-79.697087
-1008,'1008','Fortinos',43.438182,-79.676601
 1009,'1009','Knox Heritage Pl',43.469576,-79.718964
 1010,'1010','Munn''s Ave + Neyagawa Blvd',43.461547,-79.722434
 1011,'1011','Neyagawa Blvd + Winding Woods Dr',43.461095,-79.727042
@@ -37,6 +35,8 @@
 1054,'1054','8th Line + Kestell Blvd',43.488098,-79.705515
 1055,'1055','Kestell Blvd + Coronation Dr',43.489937,-79.70357
 1056,'1056','Golden Briar Trl + Glenashton Dr',43.481691,-79.708049
+2105,'2105','Colonel William Pkwy + Dundas St West',43.429099,-79.782813
+2106,'2106','North Service Rd East East Of Joshuas Crk Dr',43.490737,-79.674338
 2107,'2107','Joshuas Crk Dr + Ironoak Way',43.491171,-79.680692
 2108,'2108','Trafalgar Rd + Dundas St East',43.487978,-79.720021
 2109,'2109','Trafalgar Rd + Dundas St East',43.487801,-79.719282
