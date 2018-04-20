@@ -1,4 +1,3 @@
-998,'998','Trafalgar & Cross',43.457277,-79.681575
 1000,'1000','John R Rhodes - Seniors Residence',43.443333,-79.679046
 1001,'1001','Oaktown Plz',43.446541,-79.688453
 1002,'1002','Trafalgar Vlg',43.455431,-79.687097
@@ -35,6 +34,8 @@
 1054,'1054','8th Line + Kestell Blvd',43.488098,-79.705515
 1055,'1055','Kestell Blvd + Coronation Dr',43.489937,-79.70357
 1056,'1056','Golden Briar Trl + Glenashton Dr',43.481691,-79.708049
+2103,'2103','Dundas St West + Old Bronte Rd',43.435246,-79.776545
+2104,'2104','North Rdg Trl + Grace Dr',43.493647,-79.696105
 2105,'2105','Colonel William Pkwy + Dundas St West',43.429099,-79.782813
 2106,'2106','North Service Rd East East Of Joshuas Crk Dr',43.490737,-79.674338
 2107,'2107','Joshuas Crk Dr + Ironoak Way',43.491171,-79.680692
@@ -842,7 +843,7 @@
 3039,'3039','Dundas St West + 6th Line',43.4789,-79.7293
 3040,'3040','North Rdg Trl + Arrowhead Rd',43.495132,-79.70107
 3041,'3041','North Rdg Trl + Delnice Dr',43.494431,-79.699653
-3042,'3042','North Rdg Trl + Grace Dr',43.4934,-79.6961
+3042,'3042','North Rdg Trl + Grace Dr',43.493354,-79.695968
 3043,'3043','North Rdg Trl + Hall Mnr Dr',43.4945,-79.6979
 3044,'3044','North Rdg Trl + Glenashton Dr',43.4914,-79.6933
 3045,'3045','Glenashton Dr @ Iroquois Rdg H.S.',43.48869,-79.698187
