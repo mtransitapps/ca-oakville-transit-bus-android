@@ -40,15 +40,6 @@
 3403,0,'Pine Glen',34
 5400,0,'East Oakville',54
 5501,0,'West Oakville',55
-7103,0,'UptownCore',71
-8000,0,'Eighth Line And Falgarwood',80
-8001,0,'Holy Trinity',80
-8202,0,'LCSS North',82
-8302,0,'TAB West',83
-8402,0,'OTHS-GO',84
-8401,0,'To OTHS',84
-8601,0,'From GWHS',86
-8602,0,'To GWHS',86
 9004,0,'JohnRhodes',90
 9003,0,'Wal-Mart',90
 9101,0,'Oak Place',91
@@ -65,7 +56,3 @@
 100500,0,'Oakville GO',1005
 101401,0,'Appleby GO',1014
 101400,0,'Oakville GO',1014
-108101,0,'viaPalermo',1081
-208101,0,'via P Glen',2081
-1408103,0,'APHS North',14081
-1908104,0,'APHS South',19081
