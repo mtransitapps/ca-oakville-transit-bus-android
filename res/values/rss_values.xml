@@ -4,8 +4,14 @@
     <string name="rss_authority">org.mtransit.android.ca_oakville_transit_bus.news.rss</string>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
-    <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
+    <bool name="rss_copy_to_file_instead_of_streaming">true</bool>
     <string name="rss_encoding">UTF-8</string>
+    <string-array name="rrs_file_cleaning_regex">
+        <item>"[\\s]&amp;[\\s]"</item>
+    </string-array>
+    <string-array name="rrs_file_cleaning_replacement">
+        <item>" and "</item>
+    </string-array>
     <string-array name="rss_feeds">
         <item>https://www.oakvilletransit.ca/news.xml</item>
         <item>https://www.oakvilletransit.ca/serviceupdates.xml</item>
