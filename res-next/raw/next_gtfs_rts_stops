@@ -37,7 +37,6 @@
 2103,'2103','Dundas Bronte',43.435246,-79.776545
 2104,'2104','North Rdg Trl + Grace Dr',43.493647,-79.696105
 2105,'2105','Colonel William Dundas',43.429099,-79.782813
-2106,'2106','North Service Rd East East Of Joshuas Crk Dr',43.490914,-79.674349
 2107,'2107','Joshuas Crk Dr + Ironoak Way',43.491171,-79.680692
 2108,'2108','Trafalgar Rd + Dundas St East',43.487978,-79.720021
 2109,'2109','Trafalgar Rd + Dundas St East',43.487801,-79.719282
@@ -834,7 +833,6 @@
 3033,'3033','Dundas St West + 3rd Line',43.450067,-79.761438
 3034,'3034','Dundas St West + 3rd Line',43.450541,-79.760327
 3035,'3035','Dundas St West + Proudfoot Trl',43.453937,-79.756687
-3038,'3038','Dundas St East + 6th Line',43.47951,-79.729111
 3040,'3040','North Rdg Trl + Arrowhead Rd',43.495132,-79.70107
 3041,'3041','North Rdg Trl + Delnice Dr',43.494474,-79.699875
 3042,'3042','North Rdg Trl + Grace Dr',43.493354,-79.695968
@@ -859,6 +857,8 @@
 3061,'3061','1453 Cornwall Rd',43.476886,-79.660976
 3062,'3062','1333 Cornwall Rd',43.4737,-79.6641
 3063,'3063','1344 Cornwall Rd',43.4737,-79.6637
+3066,'3066','Cornwall Rd + Chartwell Rd',43.464632,-79.672975
+3067,'3067','Cornwall Rd + Chartwell Rd',43.464,-79.673
 3068,'3068','Cornwall Rd + Watson Ave',43.4596,-79.6756
 3069,'3069','Cornwall Rd + Watson Ave',43.4592,-79.6756
 3070,'3070','Cornwall Rd + Allan St',43.458,-79.6772
