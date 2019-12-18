@@ -55,7 +55,7 @@
 2125,'2125','Sixteen Mile Dr East Of Trailside Dr',43.47024,-79.74465
 2126,'2126','Sixteen Mile Dr + Gladeside Ave',43.46767,-79.74586
 2127,'2127','Sixteen Mile Dr + Gladeside Ave',43.46801,-79.74588
-2128,'2128','Neyagawa Blvd + Dundas St West',43.465361,-79.745672
+2128,'2128','Neyagawa Blvd + Dundas St West',43.465516,-79.745876
 2130,'2130','Neyagawa Blvd + Sixteen Mile Dr',43.46633,-79.74698
 2131,'2131','Neyagawa Blvd + Dundas St West',43.46485,-79.7455
 2132,'2132','Sixteen Mile Dr + Larry Cr',43.48076,-79.73387
@@ -127,7 +127,7 @@
 2203,'2203','Dundas St + Berwick Dr',43.39474,-79.820647
 2204,'2204','Dundas St + Walkers Line',43.392806,-79.823361
 2205,'2205','Dundas St + Walkers Line',43.391309,-79.824509
-2206,'2206','Dundas St + Hwy 407 GO Carpool',43.389191,-79.828892
+2206,'2206','Dundas St + Hwy 407 GO Carpool',43.388579,-79.829729
 2209,'2209','North Service Rd West + 4th Line',43.438869,-79.709743
 2210,'2210','Oak Pk Blvd + Parkhaven Blvd',43.480881,-79.718359
 2211,'2211','Dundas St East + 9th Line',43.507903,-79.697396
@@ -244,24 +244,24 @@
 2325,'2325','Burloak Dr + Prince William Dr',43.3882,-79.7471
 2326,'2326','Lakeshore Rd West East Of Shelburne Pl',43.381828,-79.717203
 2327,'2327','Lakeshore Rd West @ Shell Pk',43.380004,-79.717444
-2328,'2328','Lakeshore Rd + Shr Gdns',43.384003,-79.717138
+2328,'2328','Lakeshore Rd West + Shr Gdns',43.384003,-79.717138
 2329,'2329','Lakeshore Rd West + Chalmers St',43.3843,-79.7173
-2330,'2330','Lakeshore Rd + Cudmore Rd',43.386003,-79.717039
+2330,'2330','Lakeshore Rd West + Cudmore Rd',43.386003,-79.717039
 2331,'2331','Lakeshore Rd West + Cudmore Rd',43.3859,-79.7172
-2332,'2332','Lakeshore Rd + Mississaga St',43.3891,-79.7158
+2332,'2332','Lakeshore Rd West + Mississaga St',43.3891,-79.7158
 2333,'2333','Lakeshore Rd West + Mississaga St',43.3889,-79.7161
 2334,'2334','Lakeshore Rd West + Triller Pl',43.39137,-79.714669
-2335,'2335','Lakeshore Rd + West River St',43.390982,-79.714641
+2335,'2335','Lakeshore Rd West + West River St',43.390982,-79.714641
 2336,'2336','Lakeshore Rd West + Bronte Rd',43.3939,-79.7121
 2337,'2337','Lakeshore Rd West + Bronte Rd',43.394576,-79.711695
 2338,'2338','Lakeshore Rd West + Jones St',43.3959,-79.7102
-2339,'2339','Lakeshore Rd + Jones St',43.396023,-79.709835
-2340,'2340','Lakeshore Rd + Nelson St',43.397188,-79.708567
-2341,'2341','Lakeshore Rd + East St',43.3994,-79.7062
-2342,'2342','Lakeshore Rd West @ Bronte Athletic Pk',43.4009,-79.7044
-2343,'2343','Lakeshore Rd West @ Bronte Athletic Pk',43.4009,-79.7041
+2339,'2339','Lakeshore Rd West + Jones St',43.396023,-79.709835
+2340,'2340','Lakeshore Rd West + Nelson St',43.397188,-79.708567
+2341,'2341','Lakeshore Rd West + East St',43.3994,-79.7062
+2342,'2342','Lakeshore Rd West West Of Solingate Dr',43.4009,-79.7044
+2343,'2343','Lakeshore Rd West West Of Solingate Dr',43.4009,-79.7041
 2344,'2344','Lakeshore Rd West + Solingate Dr',43.4017,-79.7032
-2345,'2345','Lakeshore Rd + Solingate Dr',43.402019,-79.702434
+2345,'2345','Lakeshore Rd West + Solingate Dr',43.402019,-79.702434
 2346,'2346','Rebecca St. + Stanfield Dr.',43.4057,-79.7118
 2348,'2348','Lakeshore Rd West + Stevenson Rd',43.37447,-79.721414
 2349,'2349','3rd Line + Tansley Dr',43.4128,-79.7092
@@ -478,7 +478,7 @@
 2619,'2619','Bridge Rd + Stanfield Dr',43.410511,-79.718148
 2620,'2620','Bridge Rd + Vyner Cr',43.4107,-79.7181
 2622,'2622','Bronte Rd + Wyecroft Rd',43.406661,-79.736032
-2623,'2623','Lakeshore Rd + Windsor Gt',43.402718,-79.701431
+2623,'2623','Lakeshore Rd West + Windsor Gt',43.402718,-79.701431
 2624,'2624','Lakeshore Rd West + Windsor Gt',43.4029,-79.7014
 2625,'2625','3rd Line + Lakeshore Rd West',43.404979,-79.698825
 2626,'2626','Rebecca St + Surrey Dr',43.407523,-79.709416
@@ -558,12 +558,10 @@
 2701,'2701','Speers Rd East Of Dorval Dr',43.442326,-79.691373
 2702,'2702','Winston Churchill Blvd + Plymouth Dr',43.5159,-79.6725
 2703,'2703','Bridge Rd + Lees Ln',43.425521,-79.70215
-2704,'2704','Wyecroft Rd West Of South Service Rd West',43.4436,-79.699
 2705,'2705','Wyecroft Rd West Of South Service Rd West',43.443828,-79.699012
 2706,'2706','Wyecroft Rd + Weller Ct',43.4427,-79.7001
 2707,'2707','Wyecroft Rd + Weller Ct',43.4429,-79.7001
 2708,'2708','427 Wyecroft Rd (Opposite Of Oakville Transit)',43.4405,-79.7027
-2709,'2709','450 Wyecroft Rd',43.44007,-79.702983
 2710,'2710','479 Wyecroft Rd',43.4387,-79.7047
 2711,'2711','480 Wyecroft Rd',43.438637,-79.704603
 2712,'2712','Bridge Rd + Sherin Dr',43.41837,-79.709166
@@ -1028,7 +1026,7 @@
 3305,'3305','1150 South Service Rd West',43.4328,-79.7119
 3306,'3306','Culham St East Of Osborne Cr',43.4583,-79.7055
 3307,'3307','Bronte Rd + Highvalley Rd',43.432347,-79.77445
-3308,'3308','Bronte Rd + Khalsa Gt',43.43007,-79.770254
+3308,'3308','Bronte Rd + Khalsa Gt',43.430173,-79.770467
 3309,'3309','Bronte Rd @ Halton Region Ctr',43.4132,-79.7449
 3310,'3310','Bronte Rd @ Woodlands Operation Ctr',43.4154,-79.7478
 3312,'3312','Wyecroft Rd + 4th Line',43.4377,-79.706
