@@ -88,7 +88,7 @@
 2161,'2161','Winston Pk Dr + Bristol Cir',43.516984,-79.684815
 2163,'2163','Winston Pk Dr + Bristol Cir',43.50893,-79.671179
 2164,'2164','Winston Pk Dr + Plymouth Dr',43.510121,-79.674972
-2165,'2165','Kingsway Dr + Wynten Way (First Stop)',43.495278,-79.663369
+2165,'2165','Kingsway Dr + Wynten Way (1st Stop)',43.495278,-79.663369
 2166,'2166','Sheridan Gdn Dr + Gable Dr',43.492783,-79.654442
 2167,'2167','Wynten Way + Kingsway Dr',43.494636,-79.663291
 2168,'2168','Harvester Rd + Burloak Dr',43.391583,-79.752392
@@ -286,10 +286,10 @@
 2391,'2391','Bridge Rd + Wyatt St',43.4007,-79.7214
 2392,'2392','Bridge Rd + Ventura Dr',43.4018,-79.7221
 2393,'2393','Loyola Catholic S. S.',43.445499,-79.732944
-2394,'2394','Pilgrims Way + Windrush Dr (Second Stop)',43.442188,-79.731459
-2395,'2395','Pilgrims Way + Windrush Dr (First Stop)',43.442746,-79.7311
-2396,'2396','Pilgrims Way + Windrush Dr (First Stop)',43.4408,-79.733
-2397,'2397','Pilgrims Way + Windrush Dr (Second Stop)',43.4405,-79.7336
+2394,'2394','Pilgrims Way + Windrush Dr (2nd Stop)',43.442188,-79.731459
+2395,'2395','Pilgrims Way + Windrush Dr (1st Stop)',43.442746,-79.7311
+2396,'2396','Pilgrims Way + Windrush Dr (1st Stop)',43.4408,-79.733
+2397,'2397','Pilgrims Way + Windrush Dr (2nd Stop)',43.4405,-79.7336
 2398,'2398','Gln Abbey Gt @ Abbey Pk H. S.',43.435837,-79.735988
 2399,'2399','Gln Abbey Gt @ Abbey Pk H. S.',43.4358,-79.7354
 2400,'2400','Heritage Way + Kings College Dr',43.4296,-79.7368
@@ -490,7 +490,7 @@
 2632,'2632','Kerr St + Prince Charles Dr',43.446,-79.6855
 2633,'2633','Kerr St + Prince Charles Dr',43.446,-79.6858
 2634,'2634','Oak Pk Blvd + Dundas St East',43.4839,-79.7236
-2635,'2635','Kingsway Dr + Prince John Cir (Second Stop)',43.503016,-79.661631
+2635,'2635','Kingsway Dr + Prince John Cir (2nd Stop)',43.503016,-79.661631
 2636,'2636','Upper Middle Rd East + Buckingham Rd',43.5042,-79.6708
 2637,'2637','Westoak Trails Blvd + 4th Line',43.450261,-79.7398
 2638,'2638','Westoak Trails Blvd + Overfield Rd',43.4495,-79.7411
@@ -590,9 +590,9 @@
 2735,'2735','Nottinghill Gt + Pilgrims Way',43.44,-79.7184
 2736,'2736','Nottinghill Gt + Monks Passage',43.4408,-79.7168
 2737,'2737','Nottinghill Gt + Monks Passage',43.441,-79.7163
-2738,'2738','Nottinghill Gt + Runnymead Cr (Second Stop)',43.441531,-79.715539
+2738,'2738','Nottinghill Gt + Runnymead Cr (2nd Stop)',43.441531,-79.715539
 2739,'2739','Nottinghill Gt + Runnymead Cr',43.441675,-79.714303
-2740,'2740','Nottinghill Gt + Runnymead Cr (First Stop)',43.4417,-79.7132
+2740,'2740','Nottinghill Gt + Runnymead Cr (1st Stop)',43.4417,-79.7132
 2742,'2742','Nottinghill Gt + Old Abbey Ln',43.4409,-79.712
 2743,'2743','Nottinghill Gt North Of North Service Rd West',43.440084,-79.711151
 2744,'2744','Nottinghill Gt North Of North Service Rd West',43.4401,-79.7108
@@ -659,7 +659,7 @@
 2849,'2849','White Oaks Blvd + Huron St',43.473393,-79.69594
 2850,'2850','White Oaks Blvd + Litchfield Rd',43.4734,-79.6973
 2851,'2851','White Oaks Blvd + Elora Ct',43.4736,-79.696
-2852,'2852','Upper Middle Rd East + Martindale Ave (Second Stop)',43.4724,-79.7044
+2852,'2852','Upper Middle Rd East + Martindale Ave (2nd Stop)',43.4724,-79.7044
 2853,'2853','Upper Middle Rd East + Oak Spgs Rd',43.4728,-79.7044
 2854,'2854','Upper Middle Rd East + Golden Briar Trl',43.476695,-79.699992
 2855,'2855','Golden Briar Trl + Laurelwood Dr',43.476996,-79.701251
@@ -686,7 +686,7 @@
 2878,'2878','Oakmead Blvd + Castlefield Cr',43.4718,-79.7101
 2879,'2879','Oakmead Blvd + Upper Middle Rd East',43.470312,-79.707428
 2880,'2880','Oakmead Blvd + Upper Middle Rd East',43.470752,-79.707927
-2881,'2881','Upper Middle Rd East + Martindale Ave (First Stop)',43.4706,-79.7064
+2881,'2881','Upper Middle Rd East + Martindale Ave (1st Stop)',43.4706,-79.7064
 2882,'2882','Postridge Dr + Dalebrook Dr',43.4857,-79.7135
 2883,'2883','Glenashton Dr + Parkhaven Blvd',43.476449,-79.718399
 2884,'2884','Glenashton Dr + Millbank Dr',43.476247,-79.718887
@@ -870,9 +870,9 @@
 3085,'3085','Upper Middle Rd West + 3rd Line',43.4379,-79.7431
 3086,'3086','Upper Middle Rd West + 3rd Line',43.4372,-79.7433
 3089,'3089','Ford Dr + Dunedin Rd',43.4857,-79.6484
-3090,'3090','Ford Dr + Aspen Forest Dr (Second Stop)',43.4855,-79.648
+3090,'3090','Ford Dr + Aspen Forest Dr (2nd Stop)',43.4855,-79.648
 3091,'3091','Ford Dr + Constance Dr',43.482982,-79.64503
-3092,'3092','Ford Dr + Aspen Forest Dr (First Stop)',43.4828,-79.6445
+3092,'3092','Ford Dr + Aspen Forest Dr (1st Stop)',43.4828,-79.6445
 3093,'3093','Ford Dr + Devon Rd',43.480015,-79.640799
 3094,'3094','Ford Dr + Devon Rd',43.4802,-79.6413
 3100,'3100','Oxford Ave + Ringwood Rd',43.45985,-79.712207
@@ -982,7 +982,7 @@
 3247,'3247','Oak Pk Blvd + Taunton Rd',43.482688,-79.715764
 3248,'3248','Winston Churchill Blvd + Benedet Dr',43.5073,-79.6603
 3250,'3250','Winston Churchill Blvd + Kingsway Dr',43.505421,-79.658173
-3257,'3257','Kingsway Dr + Prince John Cir (First Stop)',43.5045,-79.6593
+3257,'3257','Kingsway Dr + Prince John Cir (1st Stop)',43.5045,-79.6593
 3258,'3258','Kingsway Dr + Sir David Dr',43.5042,-79.6594
 3259,'3259','Kingsway Dr + Clearview Dr',43.4992,-79.6616
 3261,'3261','Kingsway Dr + Guilford Cr',43.4975,-79.6625
@@ -1090,7 +1090,7 @@
 3375,'3375','Burloak Dr + Rebecca St',43.3815,-79.7375
 3376,'3376','Opposite Of 500 Great Lks Blvd',43.38604,-79.738794
 3378,'3378','Wyecroft Rd + 4th Line',43.437377,-79.705975
-3379,'3379','Kingsway Dr + Wynten Way (Second Stop)',43.4999,-79.6614
+3379,'3379','Kingsway Dr + Wynten Way (2nd Stop)',43.4999,-79.6614
 3382,'3382','Pine Gln Rd + Crestmont Dr',43.4399,-79.7655
 3383,'3383','Pine Gln Rd + Falling Grn Dr',43.4377,-79.7679
 3384,'3384','Pine Gln Rd + Grand Oak Trl',43.435804,-79.769991
