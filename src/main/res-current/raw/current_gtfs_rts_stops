@@ -33,6 +33,13 @@
 1054,'1054','8th Line + Kestell Blvd',43.488098,-79.705515
 1055,'1055','Kestell Blvd + Coronation Dr',43.489937,-79.70357
 1056,'1056','Golden Briar Trl + Glenashton Dr',43.481691,-79.708049
+2094,'2094','Ernest Appelbe Blvd + Squire Cr',43.485318,-79.725879
+2095,'2095','Wheat Boom Dr + Post Rd',43.48405,-79.730236
+2096,'2096','Wheat Boom Dr + 6th Line',43.482048,-79.732481
+2097,'2097','Wheat Boom Dr + Post Rd',43.483691,-79.730375
+2098,'2098','Wheat Boom Dr + Ernest Appelbe Blvd',43.4861,-79.727405
+2099,'2099','Ernest Appelbe Blvd + Orchardcroft Rd',43.485387,-79.726272
+2100,'2100','Ernest Appelbe Blvd + Dundas St East',43.484175,-79.72435
 2101,'2101','Randall St + Trafalgar Rd',43.448058,-79.668504
 2102,'2102','River Oaks Blvd West + Elm Rd',43.466452,-79.71753
 2103,'2103','Dundas St West + Old Bronte Rd',43.435246,-79.776545
@@ -64,13 +71,13 @@
 2135,'2135','Pine Gln Rd + Khalsa Gt',43.433572,-79.77246
 2136,'2136','McCraney St East + Montclair Dr',43.464652,-79.701521
 2137,'2137','1375 North Service Rd East',43.482447,-79.673332
-2138,'2138','Opposite 1375 North Service Rd East',43.482447,-79.673076
+2138,'2138','Opp 1375 North Service Rd East',43.482447,-79.673076
 2139,'2139','Industry St + South Service Rd East',43.469522,-79.674179
 2140,'2140','South Service Rd East + Chartwell Rd',43.466772,-79.677299
 2141,'2141','468 South Service Rd East',43.465177,-79.678987
-2142,'2142','Opposite 468 South Service Rd East',43.465255,-79.679157
+2142,'2142','Opp 468 South Service Rd East',43.465255,-79.679157
 2143,'2143','374 South Service Rd East',43.46249,-79.681795
-2144,'2144','Opposite 374 South Service Rd East',43.46253,-79.681908
+2144,'2144','Opp 374 South Service Rd East',43.46253,-79.681908
 2145,'2145','South Service Rd East + Davis Rd',43.459821,-79.681288
 2146,'2146','South Service Rd East + Davis Rd',43.459527,-79.68114
 2147,'2147','Dundas St West + Grand Oak Trl',43.437905,-79.77443
@@ -163,7 +170,7 @@
 2241,'2241','Munn''s Ave + Margot St',43.4676,-79.7227
 2242,'2242','Towne Blvd + Mowat Ave',43.463094,-79.732389
 2243,'2243','Towne Blvd + Callaghan Cr',43.4657,-79.7294
-2244,'2244','Munn''s Ave + Margot St',43.4675,-79.7226
+2244,'2244','Munn''s Ave + Margot St',43.467631,-79.722567
 2245,'2245','OTMH West Entrance',43.45054,-79.76471
 2246,'2246','8th Line + Granby Dr',43.481448,-79.696801
 2247,'2247','8th Line South Of Glenashton Dr',43.4848,-79.7014
@@ -546,7 +553,7 @@
 2689,'2689','1290 Speers Rd',43.425454,-79.710603
 2690,'2690','1195 Speers Rd',43.42876,-79.707426
 2691,'2691','1060 Speers Rd (Speers Medical)',43.431564,-79.704087
-2692,'2692','1071 Speers Rd (Opposite Of Speers Medical)',43.431725,-79.704224
+2692,'2692','1071 Speers Rd (Opp Of Speers Medical)',43.431725,-79.704224
 2693,'2693','Speers Rd + 4th Line',43.4335,-79.7029
 2694,'2694','529 Speers Rd',43.436074,-79.699641
 2695,'2695','530 Speers Rd',43.4355,-79.7
@@ -561,7 +568,7 @@
 2705,'2705','Wyecroft Rd West Of South Service Rd West',43.443828,-79.699012
 2706,'2706','Wyecroft Rd + Weller Ct',43.4427,-79.7001
 2707,'2707','Wyecroft Rd + Weller Ct',43.4429,-79.7001
-2708,'2708','427 Wyecroft Rd (Opposite Of Oakville Transit)',43.4405,-79.7027
+2708,'2708','427 Wyecroft Rd (Opp Of Oakville Transit)',43.4405,-79.7027
 2710,'2710','479 Wyecroft Rd',43.4387,-79.7047
 2711,'2711','480 Wyecroft Rd',43.438637,-79.704603
 2712,'2712','Bridge Rd + Sherin Dr',43.41837,-79.709166
@@ -731,7 +738,7 @@
 2933,'2933','Devon Rd + Ash Tree Way',43.47872,-79.643996
 2934,'2934','Devon Rd + Adair Cr',43.479313,-79.64641
 2935,'2935','Devon Rd + Brookmill Rd',43.479359,-79.648372
-2937,'2937','Opposite Of 475 Iroquois Shr Rd',43.46705,-79.682231
+2937,'2937','Opp Of 475 Iroquois Shr Rd',43.46705,-79.682231
 2938,'2938','Iroquois Shr Rd + 8th Line',43.4691,-79.6807
 2939,'2939','Iroquois Shr Rd + 8th Line',43.469276,-79.680183
 2940,'2940','8th Line North Of Iroquois Shr Rd',43.470209,-79.680875
@@ -1088,7 +1095,7 @@
 3373,'3373','Burloak Dr + Wavecrest St',43.3782,-79.7331
 3374,'3374','Burloak Dr + Eaton Ave',43.3806,-79.7363
 3375,'3375','Burloak Dr + Rebecca St',43.3815,-79.7375
-3376,'3376','Opposite Of 500 Great Lks Blvd',43.38604,-79.738794
+3376,'3376','Opp Of 500 Great Lks Blvd',43.38604,-79.738794
 3378,'3378','Wyecroft Rd + 4th Line',43.437377,-79.705975
 3379,'3379','Kingsway Dr + Wynten Way (2nd Stop)',43.4999,-79.6614
 3382,'3382','Pine Gln Rd + Crestmont Dr',43.4399,-79.7655
