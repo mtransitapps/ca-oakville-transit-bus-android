@@ -23,7 +23,7 @@
 1038,'1038','Postmaster Dr + Westoak Trails Blvd',43.438693,-79.7519
 1041,'1041','Valleyridge Dr + Highvalley Rd',43.431058,-79.776064
 1042,'1042','Valleyridge Dr + Stornoway Cir',43.432208,-79.778114
-1043,'1043','Colonel William Pkwy + Richview Blvd',43.423241,-79.770121
+1043,'1043','Colonel William Pkwy + Stockbridge Ave (Richview Blvd)',43.423241,-79.770121
 1044,'1044','Upper Middle Rd West + Trawden Way',43.421184,-79.760598
 1045,'1045','Valleyridge Dr + Highvalley Rd',43.430939,-79.776162
 1050,'1050','Postridge Dr + Dalebrook Dr',43.485306,-79.713356
@@ -329,7 +329,7 @@
 2440,'2440','Upper Middle Rd + Golden Mdw Tr',43.4788,-79.6974
 2441,'2441','Grand Oak Trl + Westoak Trails Blvd',43.429715,-79.762041
 2442,'2442','Westoak Trails Blvd + Stratus Dr (Garth Webb Secondary School)',43.435052,-79.755677
-2443,'2443','West Oak Trails Blvd @ Garth Webb S.S.',43.434579,-79.755926
+2443,'2443','Garth Webb Secondary School',43.434579,-79.755926
 2444,'2444','Westoak Trails Blvd + Shorncliffe Blvd',43.437592,-79.752682
 2445,'2445','Pine Gln Rd + Lazio Ln',43.4501,-79.7555
 2446,'2446','Proudfoot Trl South Of Ridgebank Dr',43.4515,-79.7486
@@ -820,7 +820,7 @@
 3025,'3025','3rd Line + Greenridge Cir',43.4319,-79.735
 3026,'3026','Merchants Gt + 3rd Line',43.4341,-79.7393
 3027,'3027','Merchants Gt + 3rd Line',43.4342,-79.7388
-3028,'3028','Colonel William Pkwy + Stocksbridge Ave',43.4241,-79.7748
+3028,'3028','Colonel William Pkwy + Stockbridge Ave',43.4241,-79.7748
 3029,'3029','Bronte Rd + Westoak Trails Blvd',43.4285,-79.7665
 3030,'3030','Dundas St West + Bronte Rd',43.435,-79.7774
 3031,'3031','Dundas St West + Postmaster Dr',43.443398,-79.768671
@@ -914,9 +914,9 @@
 3138,'3138','Bronte Harbour',43.3928,-79.7136
 3139,'3139','North Service Rd West + Lindsay Dr',43.445523,-79.705269
 3140,'3140','Trafalgar Rd + Upper Middle Rd East',43.4749,-79.7015
-3142,'3142','Trafalgar Rd + Leighland Ave',43.4648,-79.688
+3142,'3142','Trafalgar Rd + Leighland Ave',43.464428,-79.687576
 3143,'3143','Trafalgar Rd + Iroquois Shr Rd',43.464834,-79.687444
-3146,'3146','Trafalgar Rd North Of McCraney St East',43.4674,-79.6916
+3146,'3146','Trafalgar Rd + McCraney St East',43.46689,-79.690916
 3147,'3147','Trafalgar Rd + Marlborough Ct',43.4692,-79.6941
 3148,'3148','Trafalgar Rd + Marlborough Ct',43.4691,-79.6933
 3149,'3149','Trafalgar Rd + Lynnwood Dr',43.4676,-79.6913
@@ -924,7 +924,7 @@
 3151,'3151','Trafalgar Rd + Glenashton Dr',43.4805,-79.7098
 3152,'3152','Trafalgar Rd + White Oaks Blvd (North)',43.4726,-79.6982
 3153,'3153','Trafalgar Rd + White Oaks Blvd',43.4727,-79.6987
-3154,'3154','Upper Middle Rd East + Trafalgar Rd',43.4746,-79.702
+3154,'3154','Upper Middle Rd East + Trafalgar Rd',43.47431,-79.702333
 3155,'3155','Trafalgar Rd + Briarhall Gt',43.4772,-79.7049
 3156,'3156','Trafalgar Rd + River Oaks Blvd',43.4774,-79.7056
 3157,'3157','Trafalgar Rd. + Rosegate Way',43.482327,-79.711843
