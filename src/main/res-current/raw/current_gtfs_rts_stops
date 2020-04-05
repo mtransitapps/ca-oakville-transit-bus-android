@@ -28,14 +28,6 @@
 2136,'2136','McCraney St East + Montclair Dr',43.464652,-79.701521
 2137,'2137','1375 North Service Rd East',43.482447,-79.673332
 2138,'2138','Opp 1375 North Service Rd East',43.482447,-79.673076
-2139,'2139','Industry St + South Service Rd East',43.469522,-79.674179
-2140,'2140','South Service Rd East + Chartwell Rd',43.466772,-79.677299
-2141,'2141','468 South Service Rd East',43.465177,-79.678987
-2142,'2142','Opp 468 South Service Rd East',43.465255,-79.679157
-2143,'2143','374 South Service Rd East',43.46249,-79.681795
-2144,'2144','Opp 374 South Service Rd East',43.46253,-79.681908
-2145,'2145','South Service Rd East + Davis Rd',43.459821,-79.681288
-2146,'2146','South Service Rd East + Davis Rd',43.459527,-79.68114
 2147,'2147','Dundas St West + Grand Oak Trl',43.437905,-79.77443
 2148,'2148','Dundas St West + Grand Oak Trl',43.437799,-79.773952
 2149,'2149','Hosp Gt + Volunteer Way',43.448847,-79.766398
@@ -55,7 +47,6 @@
 2166,'2166','Sheridan Gdn Dr + Gable Dr',43.492783,-79.654442
 2167,'2167','Wynten Way + Kingsway Dr',43.494636,-79.663291
 2168,'2168','Harvester Rd + Burloak Dr',43.391583,-79.752392
-2169,'2169','Great Lks Blvd + Michigan Dr',43.386346,-79.741959
 2170,'2170','Harvester Rd + Syscon Rd',43.390229,-79.753875
 2171,'2171','Harvester Rd West Of Burloak Dr',43.391549,-79.752929
 2172,'2172','Harvester Rd + Gateway Dr',43.387802,-79.756439
@@ -131,7 +122,6 @@
 2251,'2251','3rd Line North Of Abbeywood Dr',43.43021,-79.73277
 2252,'2252','RioCan Ctr (East)',43.3976,-79.7484
 2253,'2253','RioCan Ctr (West)',43.3971,-79.7515
-2254,'2254','Great Lks Blvd + Spg Azure Cr',43.378,-79.7207
 2255,'2255','Wyecroft Rd + South Service Rd West',43.3945,-79.7494
 2256,'2256','3rd Line + North Service Rd West',43.4267,-79.7285
 2257,'2257','3rd Line + North Service Rd West',43.4272,-79.7286
@@ -176,7 +166,6 @@
 2301,'2301','Burnhamthorpe Rd West West Of Tamarack Gt',43.537878,-79.698494
 2302,'2302','3rd Line + Rebecca St',43.410582,-79.706624
 2303,'2303','Devon Rd + Maple Grv Dr',43.476172,-79.653225
-2304,'2304','500 Great Lks Blvd.',43.385815,-79.739414
 2309,'2309','Linbrook Rd + Chartwell Rd',43.46237,-79.670043
 2310,'2310','Devon Rd + Wedgewood Dr',43.472509,-79.656556
 2311,'2311','Devon Rd + Maple Grv Dr',43.4759,-79.6533
@@ -191,7 +180,6 @@
 2320,'2320','South Common Ctr',43.543996,-79.684647
 2321,'2321','South Service Rd West + Wyecroft Rd',43.3948,-79.7497
 2322,'2322','Burloak Dr + Wyecroft Rd',43.392064,-79.751672
-2323,'2323','Great Lks Blvd + Rebecca St',43.384742,-79.734001
 2324,'2324','Burloak Dr + Superior Ct',43.3882,-79.7465
 2325,'2325','Burloak Dr + Prince William Dr',43.3882,-79.7471
 2326,'2326','Lakeshore Rd West East Of Shelburne Pl',43.381828,-79.717203
@@ -305,9 +293,7 @@
 2490,'2490','Monastery Dr + Nottinghill Gt',43.444395,-79.727325
 2491,'2491','Cornwall Rd @ Chisholm Academy',43.4776,-79.6599
 2492,'2492','Morrison Rd + Linbrook Rd',43.468,-79.6635
-2493,'2493','Great Lks Blvd + Beechtree Cr',43.3831,-79.7318
 2494,'2494','Heritage Way + Schoolmaster Cir',43.431216,-79.737989
-2495,'2495','Great Lks Blvd + Buena Vista Ct',43.3796,-79.7229
 2496,'2496','1400 Cornwall Rd',43.4758,-79.6617
 2497,'2497','Westoak Trails Blvd + 3rd Line',43.441,-79.749016
 2500,'2500','Westoak Trails Blvd + Gln Vly Rd',43.4519,-79.7309
@@ -587,7 +573,6 @@
 2859,'2859','Burloak Dr + Adele Rd',43.384252,-79.741605
 2860,'2860','Burloak Dr + Adele Rd',43.384626,-79.741786
 2861,'2861','Burloak Dr + Fothergill Blvd',43.3829,-79.7399
-2862,'2862','Great Lks Blvd + Nautical Blvd',43.380976,-79.725883
 2864,'2864','Bronte Rd North Of Wyecroft Rd',43.407741,-79.738089
 2865,'2865','Wynten Way + Gable Dr',43.4942,-79.6604
 2866,'2866','Upper Middle Rd East + Oakmead Blvd',43.470419,-79.707039
@@ -705,8 +690,6 @@
 3004,'3004','Westoak Trails Blvd + Ashmore Dr',43.432332,-79.758752
 3005,'3005','Westoak Trails Blvd + Ashmore Dr',43.4325,-79.7582
 3006,'3006','Westoak Trails Blvd + Grand Oak Trl',43.43002,-79.761683
-3007,'3007','Bronte Rd + Pine Gln Rd',43.4322,-79.7736
-3008,'3008','Bronte Rd + Khalsa Gt',43.430431,-79.770313
 3010,'3010','Dundas St West + Valleyridge Dr',43.433251,-79.779325
 3011,'3011','Abbeywood Dr + Glenridge Dr',43.429826,-79.728659
 3012,'3012','Pilgrims Way West Of Old Colony Rd',43.4356,-79.7207
@@ -723,7 +706,6 @@
 3025,'3025','3rd Line + Greenridge Cir',43.4319,-79.735
 3026,'3026','Merchants Gt + 3rd Line',43.4341,-79.7393
 3027,'3027','Merchants Gt + 3rd Line',43.4342,-79.7388
-3029,'3029','Bronte Rd + Westoak Trails Blvd',43.4285,-79.7665
 3030,'3030','Dundas St West + Bronte Rd',43.435,-79.7774
 3031,'3031','Dundas St West + Postmaster Dr',43.443398,-79.768671
 3032,'3032','Dundas St West + Postmaster Dr',43.443869,-79.767557
@@ -739,7 +721,6 @@
 3045,'3045','Glenashton Dr @ Iroquois Rdg H.S.',43.48869,-79.698187
 3046,'3046','Glenashton Dr + Glenora Dr',43.486898,-79.700203
 3047,'3047','3rd Line + Gln Abbey Gt',43.434373,-79.738342
-3048,'3048','Great Lks Blvd + Timeless Dr',43.381252,-79.729168
 3049,'3049','Lakeshore Rd West + Great Lks Blvd',43.3762,-79.7187
 3050,'3050','Westoak Trails Blvd + Summit Rdg Dr',43.4517,-79.7303
 3051,'3051','Dorval Dr + Wyecroft Rd',43.4445,-79.6968
@@ -926,8 +907,6 @@
 3304,'3304','South Service Rd West + Redwood Sq',43.434461,-79.709176
 3305,'3305','1150 South Service Rd West',43.4328,-79.7119
 3306,'3306','Culham St East Of Osborne Cr',43.4583,-79.7055
-3307,'3307','Bronte Rd + Highvalley Rd',43.432347,-79.77445
-3308,'3308','Bronte Rd + Khalsa Gt',43.430173,-79.770467
 3309,'3309','Bronte Rd @ Halton Region Ctr',43.4132,-79.7449
 3310,'3310','Bronte Rd @ Woodlands Operation Ctr',43.4154,-79.7478
 3312,'3312','Wyecroft Rd + 4th Line',43.4377,-79.706
@@ -949,7 +928,6 @@
 3328,'3328','Colonel William Pkwy + Stalybridge Dr',43.4276,-79.7816
 3329,'3329','Dundas St West + Valleyridge Dr',43.4327,-79.7793
 3330,'3330','Dundas St West + Bronte Rd',43.4343,-79.7775
-3331,'3331','Bronte Rd + Richview Blvd',43.428072,-79.766399
 3332,'3332','8th Line + Glenashton Dr',43.4855,-79.702
 3333,'3333','Cross Ave West Of Argus Rd',43.4556,-79.6848
 3334,'3334','Upper Middle Rd West @ Abbey Plz',43.4393,-79.7416
@@ -975,19 +953,11 @@
 3361,'3361','2070 Speers Rd',43.417,-79.7191
 3362,'3362','Upper Middle Rd East East Of Ford Dr',43.497428,-79.676951
 3363,'3363','Upper Middle Rd West + Colonel William Pkwy',43.4205,-79.7616
-3364,'3364','Great Lks Blvd + Rebecca St',43.384875,-79.734729
-3365,'3365','Great Lks Blvd + Crk Path Ave',43.383812,-79.73294
-3366,'3366','Great Lks Blvd + Timeless Dr',43.3813,-79.7297
-3367,'3367','Great Lks Blvd + Crk Path Ave',43.3808,-79.7269
-3368,'3368','Great Lks Blvd + Fox Run Cir',43.378979,-79.722334
-3369,'3369','Great Lks Blvd + Mistwell Cr',43.3777,-79.7206
-3370,'3370','Great Lks Blvd + Lakeshore Rd West',43.376653,-79.719179
 3371,'3371','Burloak Dr + Stevenson Rd',43.374281,-79.727769
 3372,'3372','Burloak Dr + Randolph Cr',43.3763,-79.7305
 3373,'3373','Burloak Dr + Wavecrest St',43.3782,-79.7331
 3374,'3374','Burloak Dr + Eaton Ave',43.3806,-79.7363
 3375,'3375','Burloak Dr + Rebecca St',43.3815,-79.7375
-3376,'3376','Opp Of 500 Great Lks Blvd',43.38604,-79.738794
 3378,'3378','Wyecroft Rd + 4th Line',43.437377,-79.705975
 3379,'3379','Kingsway Dr + Wynten Way (2nd Stop)',43.4999,-79.6614
 3385,'3385','Bridge Rd + Underwood Cr (Q.E. Pk Community & Cultural Ctr)',43.406768,-79.720945

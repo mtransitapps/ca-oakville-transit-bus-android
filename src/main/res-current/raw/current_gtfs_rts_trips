@@ -14,8 +14,6 @@
 1200,0,'Laird & Ridgeway',12
 1301,0,'Bronte GO',13
 1300,0,'Oakville GO',13
-1400,0,'Appleby GO',14
-1401,0,'Oakville GO',14
 1501,0,'Oakville GO',15
 1500,0,'South Oakville Ctr',15
 1801,0,'Bronte GO',18
@@ -28,12 +26,9 @@
 2400,0,'South Common Ctr',24
 2801,0,'Bronte GO',28
 2800,0,'Oakville GO',28
-3301,0,'Bronte GO',33
-3300,0,'Palermo',33
 3401,0,'Bronte GO',34
 3400,0,'Pine Gln',34
 12001,0,'Laird & Ridgeway',120
 12000,0,'Oakville GO',120
-12101,0,'Southeast Industrial / Oakville GO',121
 101400,0,'Appleby GO',1014
 101401,0,'Oakville GO',1014
