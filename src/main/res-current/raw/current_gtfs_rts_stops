@@ -38,6 +38,10 @@
 2104,'2104','North Rdg Trl + Grace Dr',43.493647,-79.696105
 2105,'2105','Colonel William Dundas',43.429099,-79.782813
 2107,'2107','Joshuas Crk Dr + Ironoak Way',43.491171,-79.680692
+2108,'2108','Trafalgar Rd + Dundas St East',43.487978,-79.720021
+2109,'2109','Trafalgar Rd + Dundas St East',43.487801,-79.719282
+2110,'2110','Trafalgar Rd + Burnhamthorpe Rd East',43.501758,-79.738557
+2111,'2111','Trafalgar Rd + Burnhamthorpe Rd East',43.501601,-79.737882
 2112,'2112','Upper Middle Rd East + 8th Line',43.48095,-79.69541
 2113,'2113','UpperMiddle + 8th',43.48046,-79.69551
 2114,'2114','16 Mile + Isaac',43.48033,-79.73411
@@ -55,6 +59,7 @@
 2126,'2126','16 Mile + Gladeside',43.46767,-79.74586
 2127,'2127','16 Mile + Gladeside',43.46801,-79.74588
 2128,'2128','Neyagawa + Dundas',43.465516,-79.745876
+2129,'2129','Trafalgar Rd + Hwy 407 GO Carpool',43.506475,-79.745817
 2130,'2130','Neyagawa 16Mile',43.46633,-79.74698
 2131,'2131','Neyagawa Dundas',43.46485,-79.7455
 2132,'2132','16Mile + 6th Line (Larry)',43.48076,-79.73387
@@ -169,7 +174,7 @@
 2260,'2260','Bronte Rd + North Service Rd West',43.413,-79.7451
 2261,'2261','OTMH East',43.45176,-79.76371
 2263,'2263','Lakeshore Rd West + Great Lks Blvd',43.376761,-79.718473
-2264,'2264','Upper Middle Rd West + Nottinghill Gt',43.44576,-79.734025
+2264,'2264','Upper Middle Rd West + Nottinghill Gt (4th Line)',43.44576,-79.734025
 2266,'2266','8th Line + Falgarwood Dr',43.472173,-79.683777
 2267,'2267','Lancaster Dr + Fairbanks Pl',43.479066,-79.688721
 2268,'2268','White Oaks Blvd + Erin St',43.4723,-79.6946
@@ -211,7 +216,7 @@
 2304,'2304','500 Great Lks Blvd.',43.385815,-79.739414
 2306,'2306','Reynolds St + Sheddon Ave',43.4515,-79.6714
 2307,'2307','Reynolds St + Palmer Ave',43.4508,-79.6701
-2308,'2308','Reynolds St South Of MacDonald Rd',43.4531,-79.6741
+2308,'2308','Reynolds St @ Oakville Trafalgar Community Ctr',43.4531,-79.6741
 2309,'2309','Linbrook Rd + Chartwell Rd',43.46237,-79.670043
 2310,'2310','Devon Rd + Wedgewood Dr',43.472509,-79.656556
 2311,'2311','Devon Rd + Maple Grv Dr',43.4759,-79.6533
@@ -256,7 +261,7 @@
 2351,'2351','Bridge Rd + 3rd Line',43.41542,-79.712669
 2352,'2352','3rd Line + Merchants Gt',43.4345,-79.7391
 2353,'2353','6th Line + Culham St',43.460169,-79.702532
-2354,'2354','Westoak Trails Blvd + Shorncliffe Blvd',43.4375,-79.7531
+2354,'2354','Westoak Trails Blvd. + Shorncliffe Blvd.',43.4375,-79.7531
 2355,'2355','Pine Gln Rd. + Proudfoot Trl',43.4529,-79.7525
 2356,'2356','3rd Line + West Ham Rd',43.4467,-79.755
 2357,'2357','Lakeshore Rd West + Stevenson Rd',43.373996,-79.721785
@@ -272,12 +277,12 @@
 2389,'2389','Bridge Rd + Bronte Rd',43.3977,-79.7221
 2391,'2391','Bridge Rd + Wyatt St',43.4007,-79.7214
 2392,'2392','Bridge Rd + Ventura Dr',43.4018,-79.7221
-2393,'2393','Loyola Catholic S. S.',43.445499,-79.732944
+2393,'2393','Loyola Catholic Secondary School',43.445499,-79.732944
 2394,'2394','Pilgrims Way + Windrush Dr (2nd Stop)',43.442188,-79.731459
 2395,'2395','Pilgrims Way + Windrush Dr (1st Stop)',43.442746,-79.7311
 2396,'2396','Pilgrims Way + Windrush Dr (1st Stop)',43.4408,-79.733
 2397,'2397','Pilgrims Way + Windrush Dr (2nd Stop)',43.4405,-79.7336
-2398,'2398','Gln Abbey Gt @ Abbey Pk H. S.',43.435837,-79.735988
+2398,'2398','Abbey Pk High School',43.435837,-79.735988
 2399,'2399','Gln Abbey Gt @ Abbey Pk H. S.',43.4358,-79.7354
 2400,'2400','Heritage Way + Kings College Dr',43.4296,-79.7368
 2401,'2401','Heritage Way + Brays Ln',43.427452,-79.737768
@@ -308,7 +313,7 @@
 2439,'2439','Upper Middle Rd East + Golden Mdw Tr',43.4787,-79.6978
 2440,'2440','Upper Middle Rd + Golden Mdw Tr',43.4788,-79.6974
 2441,'2441','Grand Oak Trl + Westoak Trails Blvd',43.429715,-79.762041
-2442,'2442','Westoak Trails Blvd + Stratus Dr (Garth Webb Secondary School)',43.435052,-79.755677
+2442,'2442','Westoak Trails Blvd. + Stratus Dr. (Garth Webb Secondary School)',43.435052,-79.755677
 2443,'2443','Garth Webb Secondary School',43.434579,-79.755926
 2444,'2444','Westoak Trails Blvd + Shorncliffe Blvd',43.437592,-79.752682
 2445,'2445','Pine Gln Rd + Lazio Ln',43.4501,-79.7555
@@ -412,7 +417,7 @@
 2564,'2564','Cross Ave + Argus Rd',43.4561,-79.6838
 2565,'2565','Reynolds St + Spruce St',43.454473,-79.676819
 2566,'2566','MacDonald Rd + Reynolds St',43.4543,-79.6751
-2567,'2567','MacDonald Rd + Reynolds St',43.4542,-79.675
+2567,'2567','MacDonald Rd + Reynolds St (Oakville Trafalgar Community Ctr)',43.4542,-79.675
 2571,'2571','Church St + Dunn St. (WB)',43.447221,-79.667866
 2573,'2573','Randall St + Navy St',43.4454,-79.6713
 2574,'2574','Church St. + Navy St.',43.444835,-79.670427
@@ -767,7 +772,7 @@
 2998,'2998','2402 Royal Windsor Dr',43.492747,-79.649535
 3002,'3002','Cornwall Rd + Reynolds St',43.4554,-79.6792
 3003,'3003','Trafalgar Rd + White Oaks Blvd (South)',43.4667,-79.69
-3004,'3004','Westoak Trails Blvd + Ashmore Dr',43.432332,-79.758752
+3004,'3004','Westoak Trails Blvd. + Ashmore Dr.',43.432332,-79.758752
 3005,'3005','Westoak Trails Blvd + Ashmore Dr',43.4325,-79.7582
 3006,'3006','Westoak Trails Blvd + Grand Oak Trl',43.43002,-79.761683
 3010,'3010','Dundas St West + Valleyridge Dr',43.433251,-79.779325
@@ -884,7 +889,6 @@
 3146,'3146','Trafalgar Rd + McCraney St East',43.46689,-79.690916
 3147,'3147','Trafalgar Rd + Marlborough Ct',43.4692,-79.6941
 3148,'3148','Trafalgar Rd + Marlborough Ct',43.4691,-79.6933
-3149,'3149','Trafalgar Rd + Lynnwood Dr',43.4676,-79.6913
 3150,'3150','Trafalgar Rd + Glenashton Dr',43.4803,-79.7091
 3151,'3151','Trafalgar Rd + Glenashton Dr',43.4805,-79.7098
 3152,'3152','Trafalgar Rd + White Oaks Blvd (North)',43.4726,-79.6982
@@ -1086,7 +1090,7 @@
 3405,'3405','Joshuas Crk Dr + Ironoak Way',43.491059,-79.680854
 3406,'3406','Joshuas Crk Dr + Upper Middle Rd East',43.4923,-79.6823
 3408,'3408','Burloak Dr + Lakeshore Rd West',43.372358,-79.725166
-3411,'3411','Pine Gln Rd + 3rd Line',43.449,-79.7573
+3411,'3411','Pine Gln Rd. + 3rd Line',43.449,-79.7573
 3416,'3416','Cornwall Rd @ Oakville Greenhouse',43.467169,-79.670968
 3417,'3417','Cornwall Rd @ Oakville Greenhouse',43.467538,-79.671167
 3418,'3418','Cornwall Rd @ Maple Grv Vlg Plz',43.4813,-79.6565
