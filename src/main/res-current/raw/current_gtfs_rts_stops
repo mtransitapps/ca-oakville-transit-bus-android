@@ -285,7 +285,7 @@
 2452,'2452','Dundas St West + Vega Blvd',43.5159,-79.6894
 2453,'2453','Kerr St + Stewart St',43.444746,-79.683573
 2454,'2454','Bristol Cir + 2872 Bristol Cir',43.5044,-79.6757
-2455,'2455','Glenashton Dr + Grosvenor St (Iroquois Rdg H.S)',43.4888,-79.6977
+2455,'2455','Glenashton Dr + Grosvenor St (Iroquois Rdg HS)',43.4888,-79.6977
 2456,'2456','Gln Abbey Gt + 3rd Line',43.4351,-79.7379
 2457,'2457','Lakeshore Rd West + Nelson St',43.3975,-79.7085
 2458,'2458','Lakeshore Rd West + East St',43.399081,-79.706769
@@ -413,7 +413,7 @@
 2615,'2615','Iroquois Shr Rd + North Service Rd East',43.465958,-79.68408
 2616,'2616','475 Iroquois Shr Rd',43.4674,-79.682
 2617,'2617','Bridge Rd + Vanguard Cr',43.405161,-79.722881
-2618,'2618','Bridge Rd @ Underwood Cr (Q.E Pk Community & Cultural Ctr)',43.406539,-79.721025
+2618,'2618','Bridge Rd @ Underwood Cr (QE Pk Community & Cultural Ctr)',43.406539,-79.721025
 2619,'2619','Bridge Rd + Stanfield Dr',43.410511,-79.718148
 2620,'2620','Bridge Rd + Vyner Cr',43.4107,-79.7181
 2622,'2622','Bronte Rd + Wyecroft Rd',43.406661,-79.736032
@@ -448,7 +448,7 @@
 2652,'2652','Rebecca St + Sedgewick Cr',43.414762,-79.701538
 2653,'2653','Rebecca St + Warminster Dr',43.4177,-79.6986
 2654,'2654','Rebecca St + Woodside Dr',43.4174,-79.6987
-2656,'2656','Rebecca St @ T.A Blakelock H.S',43.420086,-79.695699
+2656,'2656','Rebecca St @ TA Blakelock HS',43.420086,-79.695699
 2657,'2657','Rebecca St + Lees Ln',43.421567,-79.694466
 2658,'2658','Rebecca St + Spg Gdn Rd',43.421822,-79.693838
 2659,'2659','Rebecca St + Maplehurst Ave',43.4235,-79.6924
@@ -570,7 +570,7 @@
 2780,'2780','Lancaster Dr + Lincoln Gt',43.479285,-79.691949
 2781,'2781','Upper Middle Rd East + Grosvenor St',43.485177,-79.69066
 2782,'2782','Devon Rd + Donnybrook Rd',43.478,-79.6504
-2786,'2786','Devon Rd @ Oakville Trafalgar H.S',43.473311,-79.655294
+2786,'2786','Devon Rd @ Oakville Trafalgar HS',43.473311,-79.655294
 2794,'2794','Sheridan Gdn Dr + Ford Dr',43.49194,-79.655608
 2795,'2795','Gable Dr + Sheridan Gdn Dr',43.492702,-79.654771
 2796,'2796','Sheridan Gdn Dr + Thoresby Dr',43.4961,-79.6516
@@ -683,8 +683,8 @@
 2960,'2960','6th Line + Miller Rd',43.4634,-79.7073
 2961,'2961','McCraney St East + 6th Line',43.4625,-79.7053
 2962,'2962','McCraney St East East Of 6th Line',43.4629,-79.7046
-2963,'2963','McCraney St East @ White Oaks S.S',43.46421,-79.703158
-2964,'2964','McCraney St East @ White Oaks S.S',43.464391,-79.703132
+2963,'2963','McCraney St East @ White Oaks SS',43.46421,-79.703158
+2964,'2964','McCraney St East @ White Oaks SS',43.464391,-79.703132
 2965,'2965','McCraney St East + Montclair Dr',43.465,-79.7004
 2966,'2966','McCraney St East + Kirstie Ct',43.465441,-79.698197
 2967,'2967','North Rdg Trl + Coronation Dr',43.4933,-79.7084
@@ -748,7 +748,7 @@
 3042,'3042','North Rdg Trl + Grace Dr',43.493354,-79.695968
 3043,'3043','North Rdg Trl + Hall Mnr Dr',43.4945,-79.6979
 3044,'3044','North Rdg Trl + Glenashton Dr',43.4914,-79.6933
-3045,'3045','Glenashton Dr @ Iroquois Rdg H.S',43.48869,-79.698187
+3045,'3045','Glenashton Dr @ Iroquois Rdg HS',43.48869,-79.698187
 3046,'3046','Glenashton Dr + Glenora Dr',43.486898,-79.700203
 3047,'3047','3rd Line + Gln Abbey Gt',43.434373,-79.738342
 3049,'3049','Lakeshore Rd West + Great Lks Blvd',43.3762,-79.7187
@@ -989,7 +989,7 @@
 3375,'3375','Burloak Dr + Rebecca St',43.3815,-79.7375
 3378,'3378','Wyecroft Rd + 4th Line',43.437377,-79.705975
 3379,'3379','Kingsway Dr + Wynten Way (2nd Stop)',43.4999,-79.6614
-3385,'3385','Bridge Rd + Underwood Cr (Q.E Pk Community & Cultural Ctr)',43.406768,-79.720945
+3385,'3385','Bridge Rd + Underwood Cr (QE Pk Community & Cultural Ctr)',43.406768,-79.720945
 3386,'3386','403 North Service Rd West',43.442,-79.7057
 3387,'3387','North Service Rd East + Iroquois Shr Rd',43.465063,-79.682956
 3388,'3388','North Service Rd East + Iroquois Shr Rd',43.464631,-79.682569
