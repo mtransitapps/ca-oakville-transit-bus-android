@@ -242,7 +242,7 @@
 2395,'2395','Pilgrims Way + Windrush Dr (1st Stop)',43.442746,-79.7311
 2396,'2396','Pilgrims Way + Windrush Dr (1st Stop)',43.4408,-79.733
 2397,'2397','Pilgrims Way + Windrush Dr (2nd Stop)',43.4405,-79.7336
-2398,'2398','Abbey Pk High School',43.435837,-79.735988
+2398,'2398','Abbey Pk HS',43.435837,-79.735988
 2399,'2399','Gln Abbey Gt @ Abbey Pk HS',43.4358,-79.7354
 2400,'2400','Heritage Way + Kings College Dr',43.4296,-79.7368
 2401,'2401','Heritage Way + Brays Ln',43.427452,-79.737768
@@ -272,8 +272,8 @@
 2438,'2438','Upper Middle Rd W + Westoak Trails Blvd',43.45106,-79.728781
 2439,'2439','Upper Middle Rd E + Golden Mdw Tr',43.4787,-79.6978
 2440,'2440','Upper Middle Rd + Golden Mdw Tr',43.4788,-79.6974
-2442,'2442','Westoak Trails Blvd + Stratus Dr (Garth Webb Secondary School)',43.435052,-79.755677
-2443,'2443','Garth Webb Secondary School',43.434579,-79.755926
+2442,'2442','Westoak Trails Blvd + Stratus Dr (Garth Webb SS)',43.435052,-79.755677
+2443,'2443','Garth Webb SS',43.434579,-79.755926
 2444,'2444','Westoak Trails Blvd + Shorncliffe Blvd',43.437592,-79.752682
 2445,'2445','Pine Gln Rd + Lazio Ln',43.4501,-79.7555
 2446,'2446','Proudfoot Trl S Of Ridgebank Dr',43.4515,-79.7486
@@ -295,7 +295,7 @@
 2471,'2471','Burloak Dr + Winston Rd',43.3744,-79.7282
 2472,'2472','Burloak Dr + Lakeshore Rd',43.3725,-79.7256
 2477,'2477','Dorval Dr + Wyecroft Rd',43.444203,-79.697023
-2478,'2478','Linbrook Dr @ St Mildred''s School',43.4638,-79.6683
+2478,'2478','Linbrook Dr @ St Mildred''s S',43.4638,-79.6683
 2483,'2483','Dorval Dr + Old Abbey Ln',43.4483,-79.7133
 2484,'2484','Dorval Dr + Greeneagle Dr',43.446629,-79.720301
 2485,'2485','Dorval Dr + Outlook Ter',43.4464,-79.7209
@@ -328,8 +328,8 @@
 2520,'2520','Mowat Ave + Levanna Ln',43.4634,-79.7334
 2521,'2521','Mowat Ave + Atwood Ln',43.4638,-79.7338
 2522,'2522','Mowat Ave + River Gln Blvd',43.464355,-79.73568
-2523,'2523','River Gln Blvd @ Our Lady Of Peace School',43.4669,-79.7358
-2524,'2524','River Gln Blvd @ Our Lady Of Peace School',43.465648,-79.735946
+2523,'2523','River Gln Blvd @ Our Lady Of Peace S',43.4669,-79.7358
+2524,'2524','River Gln Blvd @ Our Lady Of Peace S',43.465648,-79.735946
 2525,'2525','River Gln Blvd + Towne Blvd',43.468354,-79.735884
 2526,'2526','River Gln Blvd + Towne Blvd',43.4687,-79.7361
 2527,'2527','Towne Blvd + Carrier Ln',43.464342,-79.731048
@@ -370,7 +370,7 @@
 2564,'2564','Cross Ave + Argus Rd',43.4561,-79.6838
 2565,'2565','Reynolds St + Spruce St',43.454473,-79.676819
 2566,'2566','MacDonald Rd + Reynolds St',43.4543,-79.6751
-2567,'2567','MacDonald Rd + Reynolds St (Oakville Trafalgar Community Ctr)',43.4542,-79.675
+2567,'2567','MacDonald Rd + Reynolds St (Oakville Trafalgar CC)',43.4542,-79.675
 2571,'2571','Church St + Dunn St (WB)',43.447221,-79.667866
 2573,'2573','Randall St + Navy St',43.4454,-79.6713
 2574,'2574','Church St + Navy St',43.444835,-79.670427
@@ -397,7 +397,7 @@
 2599,'2599','Maple Ave + Watson Ave',43.458588,-79.67367
 2600,'2600','MacDonald Rd + Watson Ave',43.4566,-79.6725
 2601,'2601','MacDonald Rd + Watson Ave',43.4566,-79.6723
-2602,'2602','Linbrook Rd @ Linbrook Public School',43.4643,-79.6679
+2602,'2602','Linbrook Rd @ Linbrook Public S',43.4643,-79.6679
 2603,'2603','Linbrook Rd + Morrison Hts Dr',43.4657,-79.6662
 2604,'2604','Linbrook Rd + Morrison Rd',43.4679,-79.6638
 2605,'2605','Devon Rd + Morrison Rd',43.467,-79.6619
@@ -814,7 +814,7 @@
 3123,'3123','1184 Speers Rd',43.4286,-79.7073
 3124,'3124','Bridge Rd + Winston Rd',43.427262,-79.699835
 3125,'3125','4th Line + Bridge Rd',43.4294,-79.6967
-3126,'3126','Bridge Rd @ Brookdale Public School',43.4243,-79.7034
+3126,'3126','Bridge Rd @ Brookdale Public S',43.4243,-79.7034
 3127,'3127','Lakeshore Rd W @ Shell Pk',43.3798,-79.7173
 3130,'3130','3rd Line S Of Upper Middle Rd W',43.4364,-79.7416
 3131,'3131','Westoak Trails Blvd + Stillmeadow Rd',43.4408,-79.7495
@@ -857,7 +857,7 @@
 3180,'3180','1169 Dorval Dr',43.450222,-79.706277
 3181,'3181','1180 Dorval Dr',43.450043,-79.706691
 3182,'3182','Dorval Dr + N Service Rd W',43.449314,-79.704808
-3190,'3190','Kingsway Dr @ James Hl School',43.5018,-79.6616
+3190,'3190','Kingsway Dr @ James Hl S',43.5018,-79.6616
 3191,'3191','Kingsway Dr + Chalfield Dr',43.5008,-79.6617
 3193,'3193','3rd Line + Salvator Blvd',43.406499,-79.700857
 3197,'3197','2120 Bristol Cir',43.5133,-79.671
@@ -898,7 +898,7 @@
 3258,'3258','Kingsway Dr + Sir David Dr',43.5042,-79.6594
 3259,'3259','Kingsway Dr + Clearview Dr',43.4992,-79.6616
 3261,'3261','Kingsway Dr + Guilford Cr',43.4975,-79.6625
-3262,'3262','Kingsway Dr @ St Luke''s School',43.496818,-79.662639
+3262,'3262','Kingsway Dr @ St Luke''s S',43.496818,-79.662639
 3265,'3265','3rd Line + Rebecca St',43.4104,-79.7059
 3269,'3269','Bronte Rd + Upper Middle Rd W',43.4224,-79.7583
 3270,'3270','Royal Windsor Dr E Of Winston Churchill Blvd',43.497823,-79.644043
