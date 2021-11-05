@@ -26,6 +26,12 @@
 1054,'1054','8th Line + Kestell Blvd',43.488098,-79.705515
 1055,'1055','Kestell Blvd + Coronation Dr',43.489937,-79.70357
 1056,'1056','Golden Briar Trl + Glenashton Dr',43.481691,-79.708049
+2085,'2085','Dundas St E + William Cutmore Blvd',43.504869,-79.701424
+2086,'2086','Dundas St E + William Cutmore Blvd',43.50435,-79.701377
+2087,'2087','Old Abbey Ln + Milton Rd',43.447213,-79.712751
+2088,'2088','Old Abbey Ln W Of Priory Ct',43.445912,-79.711096
+2089,'2089','Old Abbey Ln + Parkridge Cr',43.443655,-79.710353
+2090,'2090','Old Abbey Ln W Of Montrose Abbey Dr',43.441686,-79.711815
 2091,'2091','Dundas St E + Post Rd',43.481272,-79.726747
 2092,'2092','Dundas St E + Post Rd',43.48091,-79.727578
 2093,'2093','Speers Rd + 4th Line',43.4335,-79.702469
@@ -75,7 +81,7 @@
 2148,'2148','Dundas St W + Grand Oak Trl',43.437799,-79.773952
 2149,'2149','Hosp Gt + Volunteer Way',43.448847,-79.766398
 2150,'2150','Upper Middle Rd W E Of Grand Oak Trl',43.428482,-79.752677
-2151,'2151','Upper Middle Rd W E Of Grand Oak Trl',43.428597,-79.752981
+2151,'2151','Upper Middle E Of Grand Oak',43.428597,-79.752981
 2152,'2152','Dundas St W + 4th Line',43.456951,-79.753542
 2153,'2153','Dundas St W + 4th Line',43.456463,-79.7547
 2154,'2154','Upper Middle Rd E + Trafalgar Rd',43.474308,-79.702806
@@ -126,7 +132,7 @@
 2205,'2205','Dundas St + Walkers Line',43.391309,-79.824509
 2206,'2206','Dundas St + Hwy 407 GO Carpool',43.388579,-79.829729
 2207,'2207','Dundas St W + Harman Gt',43.4745,-79.734094
-2208,'2208','Dundas + Preserve',43.474083,-79.735098
+2208,'2208','Dundas St W + Preserve Dr',43.474083,-79.735098
 2209,'2209','N Service Rd W + 4th Line',43.438869,-79.709743
 2210,'2210','Oak Pk Blvd + Parkhaven Blvd',43.480881,-79.718359
 2211,'2211','Dundas St E + 9th Line',43.507903,-79.697396
@@ -315,7 +321,6 @@
 2438,'2438','Upper Middle Rd W + Westoak Trails Blvd',43.45106,-79.728781
 2439,'2439','Upper Middle Rd E + Golden Mdw Tr',43.4787,-79.6978
 2440,'2440','Upper Middle Rd + Golden Mdw Tr',43.4788,-79.6974
-2441,'2441','Grand Oak Trl + Westoak Trails Blvd',43.429715,-79.762041
 2442,'2442','Westoak Trails Blvd + Stratus Dr (Garth Webb SS)',43.435052,-79.755677
 2443,'2443','Garth Webb SS',43.434579,-79.755926
 2444,'2444','Westoak Trails Blvd + Shorncliffe Blvd',43.437592,-79.752682
@@ -529,7 +534,7 @@
 2680,'2680','4th Line + Wildwood Dr',43.4311,-79.6987
 2681,'2681','4th Line + Parkside Dr',43.4298,-79.697
 2682,'2682','3rd Line S Of Speers Rd',43.4178,-79.7164
-2683,'2683','3rd Line + Speers Rd',43.4183,-79.7167
+2683,'2683','3rd Line + Speers Rd',43.41866,-79.717143
 2684,'2684','Speers Rd + York St',43.4215,-79.7145
 2685,'2685','Speers Rd + York St',43.4217,-79.7146
 2686,'2686','1360 Speers Rd',43.4236,-79.7124
@@ -803,10 +808,10 @@
 3033,'3033','Dundas St W + 3rd Line',43.450067,-79.761438
 3034,'3034','Dundas St W + 3rd Line',43.450541,-79.760327
 3035,'3035','Dundas St W + Proudfoot Trl',43.453937,-79.756687
-3036,'3036','Dundas + Neyagawa',43.465334,-79.744797
-3037,'3037','Dundas St + Neyagawa Blvd',43.464369,-79.745241
-3038,'3038','Dundas St E + 6th Line',43.478981,-79.729732
-3039,'3039','Dundas + 6th',43.478788,-79.729413
+3036,'3036','Dundas St W + Neyagawa Blvd',43.465334,-79.744797
+3037,'3037','Dundas St W + Neyagawa Blvd',43.464369,-79.745241
+3038,'3038','Dundas St W + 6th Line',43.478981,-79.729732
+3039,'3039','Dundas St W + 6th Line',43.478788,-79.729413
 3040,'3040','N Rdg Trl + Arrowhead Rd',43.495132,-79.70107
 3041,'3041','N Rdg Trl + Delnice Dr',43.494474,-79.699875
 3042,'3042','N Rdg Trl + Grace Dr',43.493354,-79.695968
@@ -823,7 +828,6 @@
 3053,'3053','Cross Ave + Lyons Ln',43.45392,-79.686338
 3054,'3054','Oxford Ave + Richmond Rd',43.462,-79.7157
 3055,'3055','Cross Ave + Lyons Ln',43.454,-79.6866
-3056,'3056','Grand Oak Trl + Lionstone Dr',43.428129,-79.75718
 3057,'3057','Grand Oak Trl + Hemford Dr',43.428062,-79.757662
 3058,'3058','Speers Rd E Of 4th Line',43.4345,-79.701
 3059,'3059','Winston Churchill Blvd + Sheridan Pk Dr',43.51572,-79.671743
@@ -920,9 +924,9 @@
 3175,'3175','Ridgeway Dr + Dundas St W',43.517993,-79.687764
 3176,'3176','Dorval Dr + Old Abbey Ln',43.448716,-79.712833
 3177,'3177','Winston Pk Dr + Plymouth Dr',43.5102,-79.6755
-3178,'3178','Dorval Dr + Leewood Dr',43.449653,-79.710157
+3178,'3178','Dorval + Leewood',43.449653,-79.710157
 3179,'3179','Dorval Dr + Leewood Dr',43.449252,-79.710487
-3180,'3180','1169 Dorval Dr',43.450222,-79.706277
+3180,'3180','Dorval + N Service',43.450222,-79.706277
 3181,'3181','1180 Dorval Dr',43.450043,-79.706691
 3182,'3182','Dorval Dr + N Service Rd W',43.449314,-79.704808
 3190,'3190','Kingsway Dr @ James Hl S',43.5018,-79.6616
@@ -1107,7 +1111,7 @@
 3420,'3420','Cornwall Rd @ The Shops Of Oakville S',43.4622,-79.6736
 3421,'3421','Cornwall Rd @ The Shops Of Oakville S',43.461969,-79.673903
 3422,'3422','Dundas St W + Towne Blvd',43.469704,-79.739369
-3423,'3423','Dundas + George Savage',43.469342,-79.740313
+3423,'3423','Dundas St W + George Savage Ave',43.469342,-79.740313
 3424,'3424','Dundas St E + Meadowridge Dr',43.502,-79.7044
 3425,'3425','Dundas St E + Prince Michael Dr',43.4981,-79.7082
 3426,'3426','Dundas St E + Prince Michael Dr',43.4978,-79.709
