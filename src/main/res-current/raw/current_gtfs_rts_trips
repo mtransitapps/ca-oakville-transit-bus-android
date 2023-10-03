@@ -34,6 +34,16 @@
 2800,0,'Oakville GO',28
 3401,0,'Bronte GO',34
 3400,0,'Pine Gln',34
+7101,0,'Uptown Core',71
+7100,0,'Westoak Trails',71
+8001,0,'8th Line & Falgarwood',80
+8000,0,'Holy Trinity',80
+8201,0,'Bronte & Richview',82
+8300,0,'Bridge & 3rd Line',83
+8301,0,'Oakville GO',83
+8401,0,'Clearview',84
+8400,0,'Oakville Trafalgar HS',84
+8600,0,'Garth Webb SS',86
 12001,0,'Laird & Ridgeway',120
 12000,0,'Oakville GO',120
 19001,0,'Oakville GO (Express)',190
@@ -42,3 +52,9 @@
 1000501,0,'Oakville GO',10005
 1001400,0,'Appleby GO',10014
 1001401,0,'Oakville GO',10014
+1008101,0,'Loyola & Abbey Pk',10081
+1008601,0,'4th Line & Upper Middle',10086
+2008101,0,'Loyola & Abbey Pk',20081
+2008601,0,'Westoak Trails & Upper Middle',20086
+14008101,0,'Bronte & Richview',140081
+19008101,0,'Dorval & N Service',190081
