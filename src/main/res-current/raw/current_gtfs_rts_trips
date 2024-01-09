@@ -34,8 +34,8 @@
 2800,0,'Oakville GO',28
 3401,0,'Bronte GO',34
 3400,0,'Pine Gln',34
+7100,0,'Oakville Pl',71
 7101,0,'Uptown Core',71
-7100,0,'Westoak Trails',71
 8001,0,'8th Line & Falgarwood',80
 8000,0,'Holy Trinity',80
 8201,0,'Bronte & Richview',82
@@ -46,8 +46,6 @@
 8600,0,'Garth Webb SS',86
 12001,0,'Laird & Ridgeway',120
 12000,0,'Oakville GO',120
-19001,0,'Oakville GO (Express)',190
-19000,0,'River Oaks (Express)',190
 1000500,0,'Dundas / 407 Carpool',10005
 1000501,0,'Oakville GO',10005
 1001400,0,'Appleby GO',10014
