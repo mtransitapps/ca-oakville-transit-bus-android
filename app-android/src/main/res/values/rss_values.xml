@@ -12,8 +12,8 @@
         <item>" and "</item>
     </string-array>
     <string-array name="rss_feeds">
-        <item>https://www.oakvilletransit.ca/news.xml</item>
-        <item>https://www.oakvilletransit.ca/serviceupdates.xml</item>
+        <!-- <item>https://www.oakvilletransit.ca/news.xml</item> -->
+        <!-- <item>https://www.oakvilletransit.ca/serviceupdates.xml</item> -->
     </string-array>
     <string-array name="rss_feeds_author_icon">
         <item>https://www.oakvilletransit.ca/images/favicon-32x32.png</item>
