@@ -62,7 +62,7 @@
 2120,'2120','16 Mile + Gardenia',43.47345,-79.74101,0,1513377
 2121,'2121','16 Mile + Carding Mill',43.47352,-79.74120,0,1513317
 2123,'2123','16 Mile + George Savage',43.47226,-79.74257,0,1513319
-2125,'2125','16 Mile + E/ Of Trailside',43.47024,-79.74465,0,1513379
+2125,'2125','16 Mile + E/ Of Trailside',43.47035,-79.74445,0,1513379
 2129,'2129','Trafalgar Rd + Hwy 407 GO Carpool',43.50648,-79.74582,0,1513380
 2130,'2130','Neyagawa + 16 Mile',43.46633,-79.74698,0,1513344
 2132,'2132','16 Mile + Larry',43.48076,-79.73387,0,1513346
@@ -463,8 +463,6 @@
 2606,'2606','Morrison Rd + Devon Rd',43.46690,-79.66220,0,1507612
 2607,'2607','Devon Rd + Cairncroft Rd',43.46901,-79.65892,0,53618
 2608,'2608','Devon Rd + Cairncroft Rd',43.46927,-79.65883,0,1729
-2609,'2609','Devon Rd + Ash Rd',43.47134,-79.65786,0,56468
-2610,'2610','Devon Rd + Ash Rd',43.47109,-79.65797,0,1574
 2611,'2611','Devon Rd + Wedgewood Dr',43.47220,-79.65670,0,1509349
 2612,'2612','Leighland Ave + Trafalgar Rd',43.46369,-79.68765,0,50646
 2613,'2613','Leighland Ave + Trafalgar Rd',43.46380,-79.68790,0,1508385
@@ -1133,9 +1131,10 @@
 3435,'3435','Dundas St W + Proudfoot Trl',43.45344,-79.75789,0,48749
 3437,'3437','8th Line N Of Falgarwood Dr',43.47411,-79.68617,0,56592
 3438,'3438','8th Line S Of Grand Blvd',43.47415,-79.68641,0,1509628
-3439,'3439','Neyagawa Blvd + N Pk Blvd',43.47031,-79.75200,0,1514374
+3439,'3439','Neyagawa Blvd + N Pk Blvd',43.47018,-79.75223,0,1514374
 3441,'3441','N Pk Blvd + George Savage Blvd',43.47419,-79.74700,0,1514375
-3442,'3442','Threshing Mills Blvd + William Coltson Ave',43.49315,-79.72500,0,1514376
-3443,'3443','Threshing Mills Blvd + Buttonbush Trl',43.49618,-79.72100,0,1514398
-3445,'3445','Wheat Boom Dr + Athabasca Cmn',43.49140,-79.72200,0,1514400
-3446,'3446','Sixteen Mile Dr + Gladeside Ave',43.46771,-79.74500,0,1514401
+3442,'3442','Threshing Mills Blvd + William Coltson Ave',43.49326,-79.72400,0,1514376
+3443,'3443','Threshing Mills Blvd + Buttonbush Trl',43.49605,-79.72069,0,1514398
+3444,'3444','Wheat Boom Dr + William Rose Way',43.49397,-79.71800,0,1514399
+3445,'3445','Wheat Boom Dr + Athabasca Cmn',43.49129,-79.72226,0,1514400
+3446,'3446','Sixteen Mile Dr + Gladeside Ave',43.46773,-79.74551,0,1514401
