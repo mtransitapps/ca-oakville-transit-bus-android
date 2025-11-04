@@ -10,7 +10,7 @@
 1032,'1032','Pine Gln Rd + Dashwood Dr',43.45211,-79.75309,0,54515
 1033,'1033','Pine Gln Rd + Whistling Spgs Cr',43.44592,-79.76044,0,55392
 1034,'1034','Pine Gln Rd + Castlebrook Rd',43.44347,-79.76176,0,56570
-1035,'1035','Pine Gln Rd + Postmaster Dr',43.44164,-79.76366,0,48750
+1035,'1035','Pine Gln Rd + Postmaster Dr',43.44181,-79.76356,0,48750
 1036,'1036','Postmaster Dr + Woodbriar Ct',43.44029,-79.76048,0,51572
 1037,'1037','Postmaster Dr + Woodcrest Dr',43.43979,-79.75445,0,56438
 1038,'1038','Postmaster Dr + Westoak Trails Blvd',43.43869,-79.75190,0,56415
@@ -28,7 +28,7 @@
 1056,'1056','Golden Briar Trl + Glenashton Dr',43.48169,-79.70805,0,1510339
 2083,'2083','Bronte Rd + Saw Whet Blvd',43.41835,-79.75190,0,1514306
 2084,'2084','Bronte Rd N Of Saw Whet Blvd',43.41912,-79.75354,0,1514307
-2085,'2085','Dundas St E + William Cutmore Blvd',43.50487,-79.70142,0,1514279
+2085,'2085','Dundas St E + William Cutmore Blvd',43.50461,-79.70178,0,1514279
 2086,'2086','Dundas St E + William Cutmore Blvd',43.50435,-79.70138,0,1514280
 2087,'2087','Old Abbey Ln + Milton Rd',43.44721,-79.71275,0,1514274
 2088,'2088','Old Abbey Ln W Of Priory Ct',43.44591,-79.71110,0,1514275
@@ -115,7 +115,7 @@
 2189,'2189','Appleby GO Sta',43.37916,-79.75999,0,1512355
 2192,'2192','Dundas St W + Zenon Dr',43.42946,-79.78325,0,1512422
 2193,'2193','Dundas St W + Colonel William Pkwy',43.42900,-79.78322,0,1513221
-2194,'2194','Dundas St + Sutton Dr',43.41127,-79.80329,0,1512423
+2194,'2194','Dundas St + Sutton Dr',43.41178,-79.80258,0,1512423
 2195,'2195','Dundas St + Sutton Dr',43.41181,-79.80208,0,1513222
 2196,'2196','Dundas St + Appleby Line',43.40727,-79.80775,0,1512445
 2197,'2197','Dundas St + Appleby Line',43.40726,-79.80708,0,1513223
@@ -1114,6 +1114,8 @@
 3444,'3444','Wheat Boom Dr + William Rose Way',43.49399,-79.71803,0,1514399
 3445,'3445','Wheat Boom Dr + Athabasca Cmn',43.49129,-79.72226,0,1514400
 3446,'3446','Sixteen Mile Dr + Gladeside Ave',43.46773,-79.74551,0,1514401
+3447,'3447','Dundas St W + Palermo Way',43.44091,-79.77115,0,1514431
+3448,'3448','Dundas St W + Palermo Way',43.44073,-79.77100,0,1514432
 3450,'3450','Laird Rd E Of Ridgeway Dr',43.51978,-79.69048,0,1514404
 3451,'3451','Laird Rd @ Colonial Dr',43.52151,-79.68941,0,1514405
 3452,'3452','Laird Rd @ Turnstone Cres',43.52364,-79.68714,0,1514406
