@@ -26,11 +26,6 @@ public class OakvilleTransitBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -41,6 +36,11 @@ public class OakvilleTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
+	}
+
+	@Override
+	public boolean cleanMergedServiceIds() {
+		return true;
 	}
 
 	@Override
@@ -72,6 +72,11 @@ public class OakvilleTransitBusAgencyTools extends DefaultAgencyTools {
 
 	private static final Pattern ENDS_WITH_ONLY = Pattern.compile("( only$)", Pattern.CASE_INSENSITIVE);
 
+	@Override
+	public boolean cleanMergedTripIds() {
+		return true;
+	}
+
 	@NotNull
 	@Override
 	public String cleanTripHeadsign(@NotNull String tripHeadsign) {
@@ -84,7 +89,7 @@ public class OakvilleTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.cleanBounds(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private String[] getIgnoredWords() {
@@ -102,7 +107,7 @@ public class OakvilleTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanBounds(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
