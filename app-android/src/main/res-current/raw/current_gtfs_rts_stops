@@ -15,7 +15,6 @@
 1037,'1037','Postmaster Dr + Woodcrest Dr',43.43979,-79.75445,0,56438
 1038,'1038','Postmaster Dr + Westoak Trails Blvd',43.43869,-79.75190,0,56415
 1041,'1041','Valleyridge Dr + Highvalley Rd',43.43106,-79.77606,0,53715
-1042,'1042','Valleyridge Dr + Stornoway Cir',43.43221,-79.77811,0,54524
 1043,'1043','Colonel William Pkwy + Stockbridge Ave (Richview Blvd)',43.42324,-79.77012,0,1507488
 1044,'1044','Upper Middle Rd W + Trawden Way',43.42118,-79.76060,0,1509598
 1045,'1045','Valleyridge Dr + Highvalley Rd',43.43094,-79.77616,0,48627
@@ -27,7 +26,7 @@
 1055,'1055','Kestell Blvd + Coronation Dr',43.48994,-79.70357,0,54614
 1056,'1056','Golden Briar Trl + Glenashton Dr',43.48169,-79.70805,0,1510339
 2083,'2083','Bronte Rd + Saw Whet Blvd',43.41835,-79.75190,0,1514306
-2084,'2084','Bronte Rd N Of Saw Whet Blvd',43.41912,-79.75354,0,1514307
+2084,'2084','Bronte Rd N Of Saw Whet Blvd',43.42024,-79.75519,0,1514307
 2085,'2085','Dundas St E + William Cutmore Blvd',43.50461,-79.70178,0,1514279
 2086,'2086','Dundas St E + William Cutmore Blvd',43.50435,-79.70138,0,1514280
 2087,'2087','Old Abbey Ln + Milton Rd',43.44721,-79.71275,0,1514274
@@ -1055,7 +1054,7 @@
 3372,'3372','Burloak Dr + Randolph Cr',43.37630,-79.73050,0,54425
 3373,'3373','Burloak Dr + Wavecrest St',43.37820,-79.73310,0,1507707
 3374,'3374','Burloak Dr + Eaton Ave',43.38060,-79.73630,0,54673
-3375,'3375','Burloak Dr + Rebecca St',43.38150,-79.73750,0,48812
+3375,'3375','Burloak Dr + Rebecca St',43.38252,-79.73899,0,48812
 3376,'3376','Opp Of 500 Great Lks Blvd',43.38604,-79.73879,0,56530
 3378,'3378','Wyecroft Rd + 4th Line',43.43738,-79.70598,0,55601
 3379,'3379','Kingsway Dr + Wynten Way (E/2nd Stop)',43.49990,-79.66140,0,1509601
@@ -1121,3 +1120,4 @@
 3452,'3452','Laird Rd @ Turnstone Cres',43.52364,-79.68714,0,1514406
 3453,'3453','Laird Rd @ Winston Churchill Blvd',43.52521,-79.68545,0,1514407
 3455,'3455','Winston Pk Dr + Bristol Cr',43.50900,-79.67060,0,1514430
+3456,'3456','Bronte Rd S Of Saw Whet Blvd',43.41803,-79.75200,0,1514433
