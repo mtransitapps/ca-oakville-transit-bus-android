@@ -403,7 +403,7 @@
 2539,'2539','Rebecca St + Brock St',43.43890,-79.67800,0,53435
 2540,'2540','Rebecca St + Kerr St',43.44054,-79.67625,0,54617
 2541,'2541','Rebecca St + Kerr St',43.44090,-79.67620,0,52753
-2542,'2542','Kerr St + Bond St',43.44175,-79.67830,0,56531
+2542,'2542','Kerr St + Bond St',43.44164,-79.67808,0,56531
 2543,'2543','Bond St + Kerr St',43.44180,-79.67770,0,54552
 2544,'2544','Rebecca St + Chisholm St',43.44250,-79.67444,0,1508665
 2545,'2545','Rebecca St + Chisholm St',43.44260,-79.67410,0,1509502
@@ -894,13 +894,13 @@
 3137,'3137','Iroquois Shr Rd E Of Trafalgar Rd',43.46530,-79.68530,0,52565
 3138,'3138','Bronte Harbour',43.39280,-79.71360,0,52563
 3139,'3139','N Service Rd W + Lindsay Dr',43.44552,-79.70527,0,1754
-3140,'3140','Trafalgar Rd + Upper Middle Rd E',43.47541,-79.70228,0,1507582
+3140,'3140','Trafalgar Rd + Upper Middle Rd E',43.47533,-79.70212,0,1507582
 3142,'3142','Trafalgar Rd + Leighland Ave',43.46477,-79.68805,0,48813
 3143,'3143','Trafalgar Rd + Iroquois Shr Rd',43.46483,-79.68744,0,1509379
 3146,'3146','Trafalgar Rd & McCraney St',43.46629,-79.69010,0,54613
 3147,'3147','Trafalgar Rd + Marlborough Ct',43.46920,-79.69410,0,52569
 3148,'3148','Trafalgar Rd + Marlborough Ct',43.46894,-79.69309,0,52602
-3150,'3150','Trafalgar Rd + Glenashton Dr',43.48126,-79.71041,0,1509413
+3150,'3150','Trafalgar Rd + Glenashton Dr',43.48136,-79.71043,0,1509413
 3151,'3151','Trafalgar Rd + Glenashton Dr',43.48003,-79.70930,0,1507455
 3152,'3152','Trafalgar Rd + White Oaks Blvd (N)',43.47302,-79.69869,0,1507617
 3153,'3153','Trafalgar Rd + White Oaks Blvd',43.47235,-79.69833,0,48725
@@ -1095,7 +1095,7 @@
 3423,'3423','Dundas St W + George Savage Ave',43.46934,-79.74031,0,52504
 3424,'3424','Dundas St E + Meadowridge Dr',43.50200,-79.70440,0,50829
 3425,'3425','Dundas St E + Prince Michael Dr',43.49810,-79.70820,0,54486
-3426,'3426','Dundas St E + Prince Michael Dr',43.49780,-79.70900,0,1700
+3426,'3426','Dundas St E + Prince Michael Dr',43.49783,-79.70905,0,1700
 3427,'3427','Dundas St E + 8th Line',43.49380,-79.71280,0,1509351
 3428,'3428','Dundas St E + 8th Line',43.49355,-79.71362,0,56412
 3429,'3429','Dundas St E + Meadowridge Dr',43.50254,-79.70333,0,54671
@@ -1119,5 +1119,6 @@
 3451,'3451','Laird Rd @ Colonial Dr',43.52151,-79.68941,0,1514405
 3452,'3452','Laird Rd @ Turnstone Cres',43.52364,-79.68714,0,1514406
 3453,'3453','Laird Rd @ Winston Churchill Blvd',43.52521,-79.68545,0,1514407
+3454,'3454','Trafalgar Rd + Threshing Mills Blvd',43.49264,-79.72572,0,1514434
 3455,'3455','Winston Pk Dr + Bristol Cr',43.50900,-79.67060,0,1514430
 3456,'3456','Bronte Rd S Of Saw Whet Blvd',43.41803,-79.75200,0,1514433
