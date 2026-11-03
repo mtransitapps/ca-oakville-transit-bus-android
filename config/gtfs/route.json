@@ -1,0 +1,81 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(^\\d+(\\s|EAST|WEST))",
+            "ignore_case": true,
+            "comment": "Remove starts with route short name"
+        },
+        {
+            "regex": "((EAST)\\s*-\\s*)",
+            "ignore_case": true,
+            "replacement": "E: ",
+            "comment": "Remove starts with route short name"
+        },
+        {
+            "regex": "((WEST)\\s*-\\s*)",
+            "ignore_case": true,
+            "replacement": "W: ",
+            "comment": "Remove starts with route short name"
+        },
+        {
+            "regex": "( only$)",
+            "ignore_case": true,
+            "comment": "Remove ends with 'only'"
+        },
+        {
+            "regex": "Auto Generated(-\\d+)?",
+            "ignore_case": true,
+            "comment": "Remove auto-generated trip headsigns"
+        },
+        {
+            "regex": "WHITE OAKS",
+            "ignore_case": false,
+            "is_word": true,
+            "replacement": "White Oaks",
+            "comment": "fix all uppercase 'White Oaks'"
+        },
+        {
+            "regex": "(GO (station|sta))",
+            "ignore_case": true,
+            "replacement": "GO"
+        },
+        {
+            "regex": "^Church St \\+ Dunn St \\(EB\\)$",
+            "ignore_case": true,
+            "replacement": "Church & Dunn",
+            "comment": "align w/ website"
+        },
+        {
+            "regex": "^Trafalgar Rd \\+ Hwy 407 GO Carpool",
+            "ignore_case": true,
+            "replacement": "Trafalgar/407 GO Carpool",
+            "comment": "align w/ website"
+        },
+        {
+            "regex": "( \\+ )",
+            "replacement": " / ",
+            "comment": "replace + with / in trip headsigns from stop name"
+        },
+        {
+            "regex": "^((WEST|EAST)\\s)",
+            "ignore_case": false,
+            "replacement": "",
+            "comment": "Remove route short name and direction head-sign"
+        },
+        {
+            "regex": "^\\s?(to)\\s",
+            "ignore_case": true,
+            "replacement": "",
+            "comment": "Remove starts with 'to'"
+        }
+    ],
+    "trip_id_clean_merged": true,
+    "stop_name_cleaners": [],
+    "use_stop_code_for_stop_id": true,
+    "stop_id_clean_merged": true
+}

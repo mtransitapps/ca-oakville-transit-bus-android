@@ -1,5 +1,5 @@
 1,'1','Trafalgar','',49,3
-3,'3','Third Line','',51,3
+3,'3','3rd Line','',51,3
 4,'4','Speers-Cornwall','',52,3
 5,'5','Dundas','',53,3
 6,'6','Upper Middle','',54,3
@@ -26,10 +26,10 @@
 190,'190','River Oaks Express','',48904,3
 10014,'14A','Lakeshore West','',48766,3
 10037,'37A','Glenorchy','B3B3B3',50781,3
-10081,'81A','Abbey Park And Loyola','',55400,3
+10081,'81A','Abbey Park & Loyola','',55400,3
 10086,'86A','Garth Webb Via Proudfoot','',55555,3
-20081,'81B','Abbey Park And Loyola','',55401,3
+20081,'81B','Abbey Park & Loyola','',55401,3
 20086,'86B','Garth Webb Via Westoak','',55556,3
-140080,'80N','Holy Trinity <> Auto Generated-54','B3B3B3',55382,3
+140080,'80N','PM <> AM','B3B3B3',55382,3
 140081,'81N','Abbey Park North','',55413,3
-190081,'81S','Abbey Park/Loyola South','',55418,3
+190081,'81S','Abbey Park / Loyola South','',55418,3
