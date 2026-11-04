@@ -21,7 +21,7 @@
 1050,'1050','Postridge Dr + Dalebrook Dr',43.48531,-79.71336,0,1509624
 1051,'1051','Holy Trinity HS',43.47270,-79.72356,0,1508483
 1052,'1052','Kestell Blvd + Coronation Dr',43.49017,-79.70348,0,56320
-1053,'1053','Kestell Blvd + 8th Line',43.48853,-79.70537,0,1507423
+1053,'1053','Kestell Blvd + 8th Line',43.48828,-79.70567,0,1507423
 1054,'1054','8th Line + Kestell Blvd',43.48810,-79.70552,0,53439
 1055,'1055','Kestell Blvd + Coronation Dr',43.48994,-79.70357,0,54614
 1056,'1056','Golden Briar Trl + Glenashton Dr',43.48169,-79.70805,0,1510339
@@ -111,7 +111,7 @@
 2186,'2186','Fairview St + Appleby Line',43.37399,-79.76200,0,1512352
 2187,'2187','Fairview St @ Appleby GO Sta',43.37722,-79.75838,0,1512353
 2188,'2188','Fairview St @ Appleby GO Sta',43.37716,-79.75872,0,1512354
-2189,'2189','Appleby GO Station',43.37916,-79.75999,0,1512355
+2189,'2189','Appleby GO Station',43.37925,-79.76052,0,1512355
 2192,'2192','Dundas St West + Zenon Dr',43.42946,-79.78325,0,1512422
 2193,'2193','Dundas St W + Colonel William Pkwy',43.42900,-79.78322,0,1513221
 2194,'2194','Dundas St + Sutton Dr',43.41178,-79.80258,0,1512423
@@ -1116,23 +1116,23 @@
 3451,'3451','Laird Rd @ Colonial Dr',43.52151,-79.68941,0,1514405
 3452,'3452','Laird Rd @ Turnstone Cres',43.52364,-79.68714,0,1514406
 3453,'3453','Laird Rd @ Winston Churchill Blvd',43.52521,-79.68545,0,1514407
-3454,'3454','Trafalgar Rd + Threshing Mills Blvd',43.49299,-79.72622,0,1514434
+3454,'3454','Trafalgar Rd + Threshing Mills Blvd',43.49235,-79.72542,0,1514434
 3455,'3455','Winston Pk Dr + Bristol Cr',43.50900,-79.67060,0,1514430
-3458,'3458','Reynolds St + Palmer Ave',43.45023,-79.66900,0,1514438
-3459,'3459','Reynolds St + Church St',43.44872,-79.66700,0,1515111
-3460,'3460','Church St + Dunn St (WB)',43.44717,-79.66800,0,1515112
-3461,'3461','Navy St + Lakeshore Rd E',43.44416,-79.67000,0,1515113
-3462,'3462','Lakeshore Rd W + Chisholm St',43.44157,-79.67300,0,1515114
-3463,'3463','Lakeshore Rd W + Kerr St (WB)',43.43996,-79.67500,0,1515115
-3464,'3464','Lakeshore Rd W + Brock St (WB)',43.43829,-79.67600,0,1515116
+3458,'3458','Reynolds St + Palmer Ave',43.45013,-79.66911,0,1514438
+3459,'3459','Reynolds St + Church St',43.44885,-79.66686,0,1515111
+3460,'3460','Church St + Dunn St (WB)',43.44709,-79.66815,0,1515112
+3461,'3461','Navy St + Lakeshore Rd E',43.44413,-79.67016,0,1515113
+3462,'3462','Lakeshore Rd W + Chisholm St',43.44154,-79.67284,0,1515114
+3463,'3463','Lakeshore Rd W + Kerr St (WB)',43.43990,-79.67461,0,1515115
+3464,'3464','Lakeshore Rd W + Brock St (WB)',43.43822,-79.67642,0,1515116
 3465,'3465','Bronte Rd S Of Saw Whet Blvd',43.41803,-79.75200,0,1515117
-3466,'3466','Lakeshore Rd W + Dorval Dr',43.43562,-79.67900,0,1515118
+3466,'3466','Lakeshore Rd W + Dorval Dr',43.43557,-79.67925,0,1515118
 3467,'3467','Dorval Dr @ St Thomas Aquanis CSS',43.43605,-79.68038,0,1515119
 3468,'3468','Lakeshore Rd W + Maurice Dr (EB)',43.43653,-79.67792,0,1515120
 3469,'3469','Lakeshore Rd W + Brock St (EB)',43.43832,-79.67603,0,1515142
 3470,'3470','Lakeshore Rd W + Kerr St (EB)',43.43963,-79.67455,0,1515143
 3471,'3471','Lakeshore Rd W + Forsythe St',43.44209,-79.67197,0,1515144
-3472,'3472','Lakeshore Rd W + Maurice Dr (WB)',43.43689,-79.67800,0,1515145
+3472,'3472','Lakeshore Rd W + Maurice Dr (WB)',43.43681,-79.67793,0,1515145
 3473,'3473','Eternity Way + Lane 166',43.49678,-79.74300,0,1515146
 3474,'3474','Settlers Rd E + Post Rd',43.49385,-79.74212,0,1515147
 3475,'3475','Post Rd + Marvin Ave',43.48989,-79.73733,0,1515148
